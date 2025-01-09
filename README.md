@@ -96,3 +96,13 @@ A fast and lightweight pure Python library for splitting text into semantically 
 ## Data Validation
 [Pydantic](https://docs.pydantic.dev/latest/)
 Data validation using Python type hints.
+
+## Fine- Tunning
+[Unsloth](https://unsloth.ai/)
+Makes finetuning large language models like Llama-3, Mistral, Phi-3 and Gemma 2x faster, use 70% less memory, and with no degradation in accuracy!
+
+[MLX](https://opensource.apple.com/projects/mlx/)
+MLX is an array framework designed for efficient and flexible machine learning research on Apple silicon.
+
+[Axoloti](https://axoloti.ai/)
+MLX is an array framework designed for efficient and flexible machine learning research on Apple silicon.
