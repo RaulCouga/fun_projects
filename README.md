@@ -14,7 +14,13 @@ we aim to simplify the agent creation process and enable anyone to create collab
 PydanticAI is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
 
 [PhiData](https://www.phidata.com/)
-Phidata is a framework for building multi-modal agents and workflows. Build agents with memory, knowledge, tools and reasoning. Build teams of agents that can work together to solve problems. Interact with your agents and workflows using a beautiful Agent UI
+Phidata is a framework for building multi-modal agents and workflows. Build agents with memory, knowledge, tools and reasoning. Build teams of agents that can work together to solve problems. Interact with your agents and workflows using a beautiful Agent UI.
+
+[Smolagents](https://huggingface.co/docs/smolagents/index)
+This library is the simplest framework out there to build powerful agents! By the way, wtf are “agents”? We provide our definition in this page, whe’re you’ll also find tips for when to use them or not (spoilers: you’ll often be better off without agents).
+
+[AI Stuite](https://github.com/andrewyng/aisuite)
+aisuite makes it easy for developers to use multiple LLM through a standardized interface. Using an interface similar to OpenAI's, aisuite makes it easy to interact with the most popular LLMs and compare the results. It is a thin wrapper around python client libraries, and allows creators to seamlessly swap out and test responses from different LLM providers without changing their code. Today, the library is primarily focussed on chat completions. We will expand it cover more use cases in near future.
 
 ## MLOps
 [ZenML](https://github.com/zenml-io)
@@ -116,3 +122,44 @@ Cerebras Inference Llama 3.3 70B runs at 2,200 tokens/s and Llama 3.1 405B at 96
 
 [Sambanova](https://sambanova.ai/)
 We’ve built an enterprise-ready AI platform from the ground up – intentionally designed for the most valuable and complex AI workloads of today and tomorrow. Using our platform to build a technology backbone for the next decade of AI innovation, organizations get pre-trained foundation models that truly transform the way they gain value from AI and deep learning. And, with our flagship offering, SambaNova Suite, we help them realize value 22x faster.
+
+## Code Assistants
+[Deepseek](https://chat.deepseek.com/sign_in)
+
+[Groq Labs](https://appgen.groqlabs.com/)
+
+[Projetc X](https://idx.dev/)
+
+[Windsurf](https://codeium.com/windsurf)
+
+[Bolt](https://bolt.new/)
+
+[Lovable](https://lovable.dev/)
+
+[V0](https://v0.dev/)
+
+[Replit](replit.com)
+
+[Bolt.diy](https://stackblitz-labs.github.io/bolt.diy/)
+
+[Cerebras Code](https://cerebrascoder.com/)
+
+[Codestral](https://mistral.ai/news/codestral/)
+
+[Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)
+
+[Gemini Coder](https://huggingface.co/spaces/osanseviero/gemini-coder)
+
+[Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+
+[Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
+
+[Cursor](https://www.cursor.com/)
+
+[Aider](https://aider.chat/)
+
+[CoPilot](https://github.com/features/copilot)
+
+[Cline](https://github.com/cline/cline)
+
+[Continue](https://www.continue.dev/)
