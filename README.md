@@ -97,7 +97,7 @@ A fast and lightweight pure Python library for splitting text into semantically 
 [Pydantic](https://docs.pydantic.dev/latest/)
 Data validation using Python type hints.
 
-## Fine- Tunning
+## Fine-Tunning
 [Unsloth](https://unsloth.ai/)
 Makes finetuning large language models like Llama-3, Mistral, Phi-3 and Gemma 2x faster, use 70% less memory, and with no degradation in accuracy!
 
@@ -106,3 +106,13 @@ MLX is an array framework designed for efficient and flexible machine learning r
 
 [Axoloti](https://axoloti.ai/)
 MLX is an array framework designed for efficient and flexible machine learning research on Apple silicon.
+
+## Inference
+[Groq](https://groq.com/)
+We provide fast AI inference in the cloud and in on-prem AI compute centers. We power the speed of iteration, fueling a new wave of innovation, productivity, and discovery. Groq was founded in 2016 to build technology to advance AI because we saw this moment coming. 
+
+[Cerebras](https://cerebras.ai/)
+Cerebras Inference Llama 3.3 70B runs at 2,200 tokens/s and Llama 3.1 405B at 969 tokens/s – over 70x faster than GPU clouds. Get instant responses to code-gen, summarization, and agentic tasks.
+
+[Sambanova](https://sambanova.ai/)
+We’ve built an enterprise-ready AI platform from the ground up – intentionally designed for the most valuable and complex AI workloads of today and tomorrow. Using our platform to build a technology backbone for the next decade of AI innovation, organizations get pre-trained foundation models that truly transform the way they gain value from AI and deep learning. And, with our flagship offering, SambaNova Suite, we help them realize value 22x faster.
