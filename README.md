@@ -164,7 +164,7 @@ This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for ea
 
 [Cline](https://github.com/cline/cline)
 
-[Continue](https://www.continue.dev/)[LaamaCoder](https://llamacoder.together.ai/)
+[Continue](https://www.continue.dev/)
 
 [LlamaCode](https://llamacoder.together.ai/)
 Together AI code assinstant using Llama and Deekpseek
