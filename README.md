@@ -22,6 +22,9 @@ This library is the simplest framework out there to build powerful agents! By th
 [AI Stuite](https://github.com/andrewyng/aisuite)
 aisuite makes it easy for developers to use multiple LLM through a standardized interface. Using an interface similar to OpenAI's, aisuite makes it easy to interact with the most popular LLMs and compare the results. It is a thin wrapper around python client libraries, and allows creators to seamlessly swap out and test responses from different LLM providers without changing their code. Today, the library is primarily focussed on chat completions. We will expand it cover more use cases in near future.
 
+[CrewAI-Studio](https://github.com/strnad/CrewAI-Studio)
+Welcome to CrewAI Studio! This application provides a user-friendly interface written in Streamlit for interacting with CrewAI, suitable even for those who don't want to write any code. Follow the steps below to install and run the application on Windows or Linux (probably also MacOS) using either Conda or a virtual environment.
+
 ## MLOps
 [ZenML](https://github.com/zenml-io)
 An open-source MLOps + LLMOps framework that seamlessly integrates existing infrastructure and tools
@@ -179,3 +182,5 @@ The Innovation Engine for GenAI Applications
 [TriggerDev](https://trigger.dev/)
 The open source background jobs platform. Write workflows in normal async code and we’ll handle the rest, from queues to elastic scaling. No timeouts, retries, observability, and zero infrastructure to manage.
 
+[Kestra](https://kestra.io/)
+Unified Orchestration Platform to Simplify Business-Critical Workflows and Govern them as Code and from the UI.
