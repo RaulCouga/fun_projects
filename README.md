@@ -1,4 +1,4 @@
-# Welcome to my list of interesting github pages!
+# Welcome to my list of interesting projects!
 
 ## Agentic frameworks
 [Microsoft.TinyTroupe](https://github.com/microsoft/TinyTroupe)
@@ -44,7 +44,6 @@ MemoRAG is an innovative RAG framework built on top of a highly efficient, super
 Burr makes it easy to develop applications that make decisions (chatbots, agents, simulations, etc...) from simple python building blocks.
 Burr works well for any application that uses LLMs, and can integrate with any of your favorite frameworks. Burr includes a UI that can track/monitor/trace your system in real time, along with pluggable persisters (e.g. for memory) to save & load application state.
 
-
 ## LLM inference
 [Guidance](https://github.com/guidance-ai/guidance)
 Guidance is an efficient programming paradigm for steering language models. With Guidance, you can control how output is structured and get high-quality output for your use case—while reducing latency and cost vs. conventional prompting or fine-tuning. It allows users to constrain generation (e.g. with regex and CFGs) as well as to interleave control (conditionals, loops, tool use) and generation seamlessly.
@@ -68,13 +67,15 @@ Semantic Router is a superfast decision-making layer for your LLMs and agents. R
 [aisuite](https://github.com/andrewyng/aisuite)
 makes it easy for developers to use multiple LLM through a standardized interface. Using an interface similar to OpenAI's, aisuite makes it easy to interact with the most popular LLMs and compare the results. It is a thin wrapper around python client libraries, and allows creators to seamlessly swap out and test responses from different LLM providers without changing their code. 
 
-## IDEs
-[Free Bolt](https://github.com/coleam00/bolt.new-any-llm)
-This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
-
 ## rerankers
 [rerankers](https://github.com/answerdotai/rerankers)
 A lightweight unified API for various reranking models. 
+
+[Voyage Ai](https://www.voyageai.com/)
+Supercharging Search and Retrieval for Unstructured Data
+
+[Cohere](https://cohere.com/)
+The all-in-one platform for private and secure AI
 
 ## Documentation
 [mkdocs](https://github.com/squidfunk/mkdocs-material)
@@ -141,6 +142,7 @@ We’ve built an enterprise-ready AI platform from the ground up – intentional
 [Replit](replit.com)
 
 [Bolt.diy](https://stackblitz-labs.github.io/bolt.diy/)
+This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
 
 [Cerebras Code](https://cerebrascoder.com/)
 
@@ -162,4 +164,18 @@ We’ve built an enterprise-ready AI platform from the ground up – intentional
 
 [Cline](https://github.com/cline/cline)
 
-[Continue](https://www.continue.dev/)
+[Continue](https://www.continue.dev/)[LaamaCoder](https://llamacoder.together.ai/)
+
+[LlamaCode](https://llamacoder.together.ai/)
+Together AI code assinstant using Llama and Deekpseek
+
+## AI Automation
+[n8n](https://n8n.io/)
+Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
+
+[Dify](https://dify.ai/)
+The Innovation Engine for GenAI Applications
+
+[TriggerDev](https://trigger.dev/)
+The open source background jobs platform. Write workflows in normal async code and we’ll handle the rest, from queues to elastic scaling. No timeouts, retries, observability, and zero infrastructure to manage.
+
