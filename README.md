@@ -29,6 +29,19 @@ Welcome to CrewAI Studio! This application provides a user-friendly interface wr
 [ZenML](https://github.com/zenml-io)
 An open-source MLOps + LLMOps framework that seamlessly integrates existing infrastructure and tools
 
+## Ops
+[Icecream](https://github.com/gruns/icecream)
+Never use print() to debug again
+
+[Pytest](https://docs.pytest.org/en/stable/)
+The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
+
+[ruff](https://docs.astral.sh/ruff/)
+An extremely fast Python linter and code formatter, written in Rust.
+
+[PyRight](https://microsoft.github.io/pyright/#/)
+Pyright is a full-featured, standards-compliant static type checker for Python. It is designed for high performance and can be used with large Python source bases.
+
 ## LLM Memory / caching
 [Letta](https://github.com/letta-ai/letta?tab=readme-ov-file)
 Letta (formerly MemGPT) is a framework for creating LLM services with memory.
