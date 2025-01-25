@@ -188,6 +188,12 @@ This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for ea
 [LlamaCode](https://llamacoder.together.ai/)
 Together AI code assinstant using Llama and Deekpseek
 
+[HeyBoss](https://www.heyboss.xyz/)
+World's 1st AI engineer for non-coders. Type your idea and AI will code your app, sites, and games in minutes, no coding required.
+
+[Trae](https://www.trae.ai/)
+Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
+
 ## AI Automation
 [n8n](https://n8n.io/)
 Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
