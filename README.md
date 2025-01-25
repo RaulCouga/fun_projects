@@ -42,6 +42,9 @@ An extremely fast Python linter and code formatter, written in Rust.
 [PyRight](https://microsoft.github.io/pyright/#/)
 Pyright is a full-featured, standards-compliant static type checker for Python. It is designed for high performance and can be used with large Python source bases.
 
+[UV](https://github.com/astral-sh/uv)
+An extremely fast Python package and project manager, written in Rust.
+
 ## LLM Memory / caching
 [Letta](https://github.com/letta-ai/letta?tab=readme-ov-file)
 Letta (formerly MemGPT) is a framework for creating LLM services with memory.
