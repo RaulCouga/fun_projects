@@ -25,6 +25,9 @@ aisuite makes it easy for developers to use multiple LLM through a standardized 
 [CrewAI-Studio](https://github.com/strnad/CrewAI-Studio)
 Welcome to CrewAI Studio! This application provides a user-friendly interface written in Streamlit for interacting with CrewAI, suitable even for those who don't want to write any code. Follow the steps below to install and run the application on Windows or Linux (probably also MacOS) using either Conda or a virtual environment.
 
+[AutoGen](https://microsoft.github.io/autogen/stable/)
+A programming framework for building conversational single and multi-agent applications. Built on Core. Requires Python 3.10+.
+
 ## MLOps
 [ZenML](https://github.com/zenml-io)
 An open-source MLOps + LLMOps framework that seamlessly integrates existing infrastructure and tools
@@ -58,6 +61,9 @@ Agents promote human-type reasoning and are a great advancement towards building
 [MemoRAG](https://github.com/qhjqhj00/MemoRAG)
 MemoRAG is an innovative RAG framework built on top of a highly efficient, super-long memory model. Unlike standard RAG, which primarily handles queries with explicit information needs, MemoRAG leverages its memory model to achieve a global understanding of the entire database. By recalling query-specific clues from memory, MemoRAG enhances evidence retrieval, resulting in more accurate and contextually rich response generation.​
 
+[LMCache](https://github.com/LMCache/LMCache)
+LMCache is a LLM serving engine extension to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations including (GPU, CPU DRAM, Local Disk), LMCache reuse the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces response delay for users.
+
 ## State
 [Burr](https://burr.dagworks.io/)
 Burr makes it easy to develop applications that make decisions (chatbots, agents, simulations, etc...) from simple python building blocks.
@@ -78,6 +84,9 @@ provides a unified framework for building LLM-based applications (e.g., RAG, Age
 [Guardrails](https://github.com/guardrails-ai/guardrails?tab=readme-ov-file)
 Guardrails runs Input/Output Guards in your application that detect, quantify and mitigate the presence of specific types of risks. To look at the full suite of risks, check out [Guardrails Hub](https://hub.guardrailsai.com/).
 Guardrails help you generate structured data from LLMs.
+
+[NeMo](https://github.com/NVIDIA/NeMo-Guardrails)
+NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 
 ## LLM Routers
 [Aurelio](https://github.com/aurelio-labs/semantic-router)
