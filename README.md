@@ -206,6 +206,12 @@ World's 1st AI engineer for non-coders. Type your idea and AI will code your app
 [Trae](https://www.trae.ai/)
 Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
 
+[Screenshot To Code](https://screenshottocode.com/)
+Convert any screenshot or design to clean code (with support for most frameworks)
+
+[Copy Coder](https://copycoder.ai/)
+Built for the next generation of AI coders. Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
+
 ## AI Automation
 [n8n](https://n8n.io/)
 Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
@@ -218,9 +224,3 @@ The open source background jobs platform. Write workflows in normal async code a
 
 [Kestra](https://kestra.io/)
 Unified Orchestration Platform to Simplify Business-Critical Workflows and Govern them as Code and from the UI.
-
-[Screenshot To Code](https://screenshottocode.com/)
-Convert any screenshot or design to clean code (with support for most frameworks)
-
-[Copy Coder](https://copycoder.ai/)
-Built for the next generation of AI coders. Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
