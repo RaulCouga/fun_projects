@@ -128,9 +128,12 @@ The no-nonsense RAG chunking library that’s lightweight, lightning-fast, and r
 [Semchunk](https://github.com/umarbutler/semchunk)
 A fast and lightweight pure Python library for splitting text into semantically meaningful chunks.
 
-## Data Validation
+## Data Validation & Structure Output
 [Pydantic](https://docs.pydantic.dev/latest/)
 Data validation using Python type hints.
+
+[Instructor](https://python.useinstructor.com/)
+Structured outputs powered by llms. Designed for simplicity, transparency, and control.
 
 ## Fine-Tunning
 [Unsloth](https://unsloth.ai/)
@@ -157,7 +160,7 @@ We’ve built an enterprise-ready AI platform from the ground up – intentional
 
 [Groq Labs](https://appgen.groqlabs.com/)
 
-[Projetc X](https://idx.dev/)
+[Project X](https://idx.dev/)
 
 [Windsurf](https://codeium.com/windsurf)
 
@@ -215,3 +218,9 @@ The open source background jobs platform. Write workflows in normal async code a
 
 [Kestra](https://kestra.io/)
 Unified Orchestration Platform to Simplify Business-Critical Workflows and Govern them as Code and from the UI.
+
+[Screenshot To Code](https://screenshottocode.com/)
+Convert any screenshot or design to clean code (with support for most frameworks)
+
+[Copy Coder](https://copycoder.ai/)
+Built for the next generation of AI coders. Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
