@@ -224,7 +224,16 @@ Built for the next generation of AI coders. Upload images of full applications, 
 [Goose](https://goose.ai/)
 GooseAI makes deploying NLP services easier and more accessible for creative technologists building products on top of large language models. In short, GooseAI is a fully managed inference service delivered via API. With feature parity to other well known APIs, GooseAI delivers a plug-and-play solution for serving open source language models at the industry's best economics by simply changing 2 lines in your code.
 
-## AI Automation
+[Aider](https://aider.chat/)
+Aider lets you pair program with LLMs, to edit code in your local git repository. Start a new project or work with an existing code base. Aider works best with Claude 
+
+[Roo Code](https://github.com/RooVetGit/Roo-Code)
+Roo Code is an AI-powered autonomous coding agent that lives in your editor.
+
+[Cline](https://github.com/cline/cline)
+Meet Cline, an AI assistant that can use your CLI aNd Editor.
+
+## AI Automation / No Code
 [n8n](https://n8n.io/)
 Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
 
@@ -236,6 +245,13 @@ The open source background jobs platform. Write workflows in normal async code a
 
 [Kestra](https://kestra.io/)
 Unified Orchestration Platform to Simplify Business-Critical Workflows and Govern them as Code and from the UI.
+
+[NocoCode](https://www.nocobase.com/)
+Extensibility-first open-source no-code platform.
+Total control, infinite extensibility, empower your team to swiftly adapt to changes and significantly reduce costs. Skip years of development and millions in investment - just deploy NocoBase in minutes.
+
+[Gumloop](https://www.gumloop.com/)
+Gumloop is a platform for automating complex work using AI via a no-code drag and drop interface. We want any person or business to be able to automate their work without needing to be AI experts or engineers.
 
 ## Chat Bots
 [Kimi](https://kimi.moonshot.cn/)
