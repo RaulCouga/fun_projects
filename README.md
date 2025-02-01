@@ -88,6 +88,12 @@ Guardrails help you generate structured data from LLMs.
 [NeMo](https://github.com/NVIDIA/NeMo-Guardrails)
 NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 
+[LlamaGuard Vision](https://huggingface.co/meta-llama/Llama-Guard-3-11B-Vision)
+Llama Guard 3 Vision is a Llama-3.2-11B pretrained model, fine-tuned for content safety classification. Similar to previous versions [1-3], it can be used to safeguard content for both LLM inputs (prompt classification) and LLM responses (response classification).
+
+[LlamaGuard 3](https://huggingface.co/meta-llama/Llama-Guard-3-8B)
+Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety classification. Similar to previous versions, it can be used to classify content in both LLM inputs (prompt classification) and in LLM responses (response classification). It acts as an LLM – it generates text in its output that indicates whether a given prompt or response is safe or unsafe, and if unsafe, it also lists the content categories violated.
+
 ## LLM Routers
 [Aurelio](https://github.com/aurelio-labs/semantic-router)
 Semantic Router is a superfast decision-making layer for your LLMs and agents. Rather than waiting for slow LLM generations to make tool-use decisions, we use the magic of semantic vector space to make those decisions — routing our requests using semantic meaning.
@@ -134,6 +140,9 @@ Data validation using Python type hints.
 
 [Instructor](https://python.useinstructor.com/)
 Structured outputs powered by llms. Designed for simplicity, transparency, and control.
+
+[Outlines](https://github.com/dottxt-ai/outlines)
+Outlines provides ways to control the generation of language models to make their output more predictable.
 
 ## Fine-Tunning
 [Unsloth](https://unsloth.ai/)
@@ -212,6 +221,9 @@ Convert any screenshot or design to clean code (with support for most frameworks
 [Copy Coder](https://copycoder.ai/)
 Built for the next generation of AI coders. Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
 
+[Goose](https://goose.ai/)
+GooseAI makes deploying NLP services easier and more accessible for creative technologists building products on top of large language models. In short, GooseAI is a fully managed inference service delivered via API. With feature parity to other well known APIs, GooseAI delivers a plug-and-play solution for serving open source language models at the industry's best economics by simply changing 2 lines in your code.
+
 ## AI Automation
 [n8n](https://n8n.io/)
 Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
@@ -224,3 +236,8 @@ The open source background jobs platform. Write workflows in normal async code a
 
 [Kestra](https://kestra.io/)
 Unified Orchestration Platform to Simplify Business-Critical Workflows and Govern them as Code and from the UI.
+
+## Chat Bots
+[Kimi](https://kimi.moonshot.cn/)
+
+
