@@ -198,11 +198,7 @@ This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for ea
 
 [Cursor](https://www.cursor.com/)
 
-[Aider](https://aider.chat/)
-
 [CoPilot](https://github.com/features/copilot)
-
-[Cline](https://github.com/cline/cline)
 
 [Continue](https://www.continue.dev/)
 
