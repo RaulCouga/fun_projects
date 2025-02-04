@@ -86,7 +86,7 @@ Guardrails runs Input/Output Guards in your application that detect, quantify an
 Guardrails help you generate structured data from LLMs.
 
 [NeMo](https://github.com/NVIDIA/NeMo-Guardrails)
-NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+NeMo Guardrails is an open-source [toolkit](https://docs.nvidia.com/nemo/guardrails/) for easily adding programmable guardrails to LLM-based conversational systems.
 
 [LlamaGuard Vision](https://huggingface.co/meta-llama/Llama-Guard-3-11B-Vision)
 Llama Guard 3 Vision is a Llama-3.2-11B pretrained model, fine-tuned for content safety classification. Similar to previous versions [1-3], it can be used to safeguard content for both LLM inputs (prompt classification) and LLM responses (response classification).
