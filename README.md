@@ -227,7 +227,7 @@ Create a val using Townie, the Val Town bot
 The AI editor for everyone
 
 [Continue](https://www.continue.dev/)
-https://www.continue.dev/
+The leading open-source AI code assistant. You can connect any models and any context to create custom autocomplete and chat experiences inside the IDE
 
 [LlamaCode](https://llamacoder.together.ai/)
 Together AI code assinstant using Llama and Deekpseek
