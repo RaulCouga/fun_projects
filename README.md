@@ -1,7 +1,8 @@
 # Welcome to my list of interesting projects!
 
 ## Markdown
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markedown</a>
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markedown Syntax</a>
+
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 The Markdown elements outlined in the original design document.
 
