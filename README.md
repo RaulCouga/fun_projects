@@ -256,6 +256,9 @@ Meet Cline, an AI assistant that can use your CLI aNd Editor.
 [DeepClaude](https://deepclaude.com/)
 Harness the power of DeepSeek R1's reasoning and Claude's creativity and code generation capabilities with a unified API and chat interface.
 
+[Augment Code][https://www.augmentcode.com/)
+The first AI coding assistant built for professional software engineers and large codebases.
+
 ## AI Automation / No Code
 [n8n](https://n8n.io/)
 Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
