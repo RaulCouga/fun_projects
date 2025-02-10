@@ -154,6 +154,12 @@ MLX is an array framework designed for efficient and flexible machine learning r
 [Axoloti](https://axoloti.ai/)
 MLX is an array framework designed for efficient and flexible machine learning research on Apple silicon.
 
+[Covalent](https://www.covalent.xyz/)
+Effortless AI Compute for Any Environment.
+
+[Encord](https://encord.com/)
+Manage, curate, and label multimodal data such as image, video, audio, document, text and DICOM files – all on one platform. Transform petabytes of unstructured data into high quality data for training, fine-tuning, and aligning AI models, fast.
+
 ## Inference
 [Groq](https://groq.com/)
 We provide fast AI inference in the cloud and in on-prem AI compute centers. We power the speed of iteration, fueling a new wave of innovation, productivity, and discovery. Groq was founded in 2016 to build technology to advance AI because we saw this moment coming. 
@@ -169,9 +175,7 @@ We’ve built an enterprise-ready AI platform from the ground up – intentional
 
 [Groq Labs](https://appgen.groqlabs.com/)
 
-[Project X](https://idx.dev/)
 
-[Windsurf](https://codeium.com/windsurf)
 
 [Bolt](https://bolt.new/)
 
@@ -196,8 +200,6 @@ This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for ea
 
 [Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
 
-[Cursor](https://www.cursor.com/)
-
 [CoPilot](https://github.com/features/copilot)
 
 [Continue](https://www.continue.dev/)
@@ -207,9 +209,6 @@ Together AI code assinstant using Llama and Deekpseek
 
 [HeyBoss](https://www.heyboss.xyz/)
 World's 1st AI engineer for non-coders. Type your idea and AI will code your app, sites, and games in minutes, no coding required.
-
-[Trae](https://www.trae.ai/)
-Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
 
 [Screenshot To Code](https://screenshottocode.com/)
 Convert any screenshot or design to clean code (with support for most frameworks)
@@ -255,4 +254,16 @@ Gumloop is a platform for automating complex work using AI via a no-code drag an
 ## Chat Bots
 [Kimi](https://kimi.moonshot.cn/)
 
+## IDE
+[Trae](https://www.trae.ai/)
+Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
+
+[Cursor](https://www.cursor.com/)
+Built to make you extraordinarily productive, Cursor is the best way to code with AI.
+
+[Project IDX](https://idx.dev/)
+Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud. With support for a broad range of frameworks, languages, and services, alongside integrations with your favorite Google products, IDX streamlines your development workflow so you can build and ship apps across platforms with speed, ease, and quality.
+
+[Windsurf](https://codeium.com/windsurf)
+The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
 
