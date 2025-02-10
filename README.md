@@ -1,8 +1,6 @@
 # Welcome to my list of interesting projects!
 
 ## Markdown
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markedown Syntax</a>
-
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 The Markdown elements outlined in the original design document.
 
@@ -176,39 +174,57 @@ Cerebras Inference Llama 3.3 70B runs at 2,200 tokens/s and Llama 3.1 405B at 96
 [Sambanova](https://sambanova.ai/)
 We’ve built an enterprise-ready AI platform from the ground up – intentionally designed for the most valuable and complex AI workloads of today and tomorrow. Using our platform to build a technology backbone for the next decade of AI innovation, organizations get pre-trained foundation models that truly transform the way they gain value from AI and deep learning. And, with our flagship offering, SambaNova Suite, we help them realize value 22x faster.
 
+[Together AI](https://www.together.ai/)
+Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
+
+[Predibase](https://predibase.com/)
+Highest quality, fastest throughput small language models in your cloud
+
 ## Code Assistants
 [Deepseek](https://chat.deepseek.com/sign_in)
+Deepseek chat
 
 [Groq Labs](https://appgen.groqlabs.com/)
-
-
+Build a micro-app
 
 [Bolt](https://bolt.new/)
+What do you want to build?
 
 [Lovable](https://lovable.dev/)
+Idea to app in seconds
 
 [V0](https://v0.dev/)
+What can I help you ship?
 
-[Replit](replit.com)
+[Replit](https://replit.com/)
+Turn your ideas into apps with AI.
 
 [Bolt.diy](https://stackblitz-labs.github.io/bolt.diy/)
 This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
 
 [Cerebras Code](https://cerebrascoder.com/)
+Dream it. Code it. Instantly.
 
 [Codestral](https://mistral.ai/news/codestral/)
+Empowering developers and democratising coding with Mistral AI.
 
 [Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)
+Level up your coding skills. Get the help you need to build your projects and learn as you go.
 
 [Gemini Coder](https://huggingface.co/spaces/osanseviero/gemini-coder)
+Turn your idea into an app
 
 [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+Push Gemini to the limits of what Al can do using the Gemini API
 
 [Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
+Create a val using Townie, the Val Town bot
 
 [CoPilot](https://github.com/features/copilot)
+The AI editor for everyone
 
 [Continue](https://www.continue.dev/)
+https://www.continue.dev/
 
 [LlamaCode](https://llamacoder.together.ai/)
 Together AI code assinstant using Llama and Deekpseek
