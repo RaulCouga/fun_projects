@@ -1,5 +1,10 @@
 # Welcome to my list of interesting projects!
 
+## Markdown
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markedown</a>
+[Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+The Markdown elements outlined in the original design document.
+
 ## Agentic frameworks
 [Microsoft.TinyTroupe](https://github.com/microsoft/TinyTroupe)
 LLM-powered multiagent persona simulation for imagination enhancement and business insights.
