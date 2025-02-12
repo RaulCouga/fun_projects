@@ -199,6 +199,9 @@ Dream it. Code it. Instantly.
 [HeyBoss](https://www.heyboss.xyz/)
 World's 1st AI engineer for non-coders. Type your idea and AI will code your app, sites, and games in minutes, no coding required.
 
+[Sitebrew](https://www.sitebrew.ai/create)
+Generate a site and share it with the world, in seconds
+
 ## Model Assistants
 [Deepseek](https://chat.deepseek.com/sign_in)
 Deepseek chat
