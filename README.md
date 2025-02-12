@@ -183,13 +183,7 @@ Train, fine-tune-and run inference on AI models blazing fast, at low cost, and a
 [Predibase](https://predibase.com/)
 Highest quality, fastest throughput small language models in your cloud
 
-## Code Assistants
-[Deepseek](https://chat.deepseek.com/sign_in)
-Deepseek chat
-
-[Groq Labs](https://appgen.groqlabs.com/)
-Build a micro-app
-
+## Web Assistants
 [Bolt](https://bolt.new/)
 What do you want to build?
 
@@ -199,29 +193,28 @@ Idea to app in seconds
 [V0](https://v0.dev/)
 What can I help you ship?
 
+[Cerebras Code](https://cerebrascoder.com/)
+Dream it. Code it. Instantly.
+
+[HeyBoss](https://www.heyboss.xyz/)
+World's 1st AI engineer for non-coders. Type your idea and AI will code your app, sites, and games in minutes, no coding required.
+
+## Model Assistants
+[Deepseek](https://chat.deepseek.com/sign_in)
+Deepseek chat
+
+[Groq Labs](https://appgen.groqlabs.com/)
+Build a micro-app
+
+## Code Assistants
 [Replit](https://replit.com/)
 Turn your ideas into apps with AI.
 
 [Bolt.diy](https://stackblitz-labs.github.io/bolt.diy/)
 This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
 
-[Cerebras Code](https://cerebrascoder.com/)
-Dream it. Code it. Instantly.
-
 [Codestral](https://mistral.ai/news/codestral/)
 Empowering developers and democratising coding with Mistral AI.
-
-[Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)
-Level up your coding skills. Get the help you need to build your projects and learn as you go.
-
-[Gemini Coder](https://huggingface.co/spaces/osanseviero/gemini-coder)
-Turn your idea into an app
-
-[Google AI Studio](https://aistudio.google.com/prompts/new_chat)
-Push Gemini to the limits of what Al can do using the Gemini API
-
-[Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
-Create a val using Townie, the Val Town bot
 
 [CoPilot](https://github.com/features/copilot)
 The AI editor for everyone
@@ -231,9 +224,6 @@ The leading open-source AI code assistant. You can connect any models and any co
 
 [LlamaCode](https://llamacoder.together.ai/)
 Together AI code assinstant using Llama and Deekpseek
-
-[HeyBoss](https://www.heyboss.xyz/)
-World's 1st AI engineer for non-coders. Type your idea and AI will code your app, sites, and games in minutes, no coding required.
 
 [Screenshot To Code](https://screenshottocode.com/)
 Convert any screenshot or design to clean code (with support for most frameworks)
@@ -256,7 +246,7 @@ Meet Cline, an AI assistant that can use your CLI aNd Editor.
 [DeepClaude](https://deepclaude.com/)
 Harness the power of DeepSeek R1's reasoning and Claude's creativity and code generation capabilities with a unified API and chat interface.
 
-[Augment Code][https://www.augmentcode.com/)
+[Augment Code](https://www.augmentcode.com/)
 The first AI coding assistant built for professional software engineers and large codebases.
 
 ## AI Automation / No Code
@@ -281,6 +271,18 @@ Gumloop is a platform for automating complex work using AI via a no-code drag an
 
 ## Chat Bots
 [Kimi](https://kimi.moonshot.cn/)
+
+[Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)
+Level up your coding skills. Get the help you need to build your projects and learn as you go.
+
+[Gemini Coder](https://huggingface.co/spaces/osanseviero/gemini-coder)
+Turn your idea into an app
+
+[Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+Push Gemini to the limits of what Al can do using the Gemini API
+
+[Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
+Create a val using Townie, the Val Town bot
 
 ## IDE
 [Trae](https://www.trae.ai/)
