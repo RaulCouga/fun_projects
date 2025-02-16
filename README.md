@@ -275,6 +275,9 @@ Gumloop is a platform for automating complex work using AI via a no-code drag an
 ## Chat Bots
 [Kimi](https://kimi.moonshot.cn/)
 
+[Scira](https://scira.app/)
+What do you want to explore?
+
 [Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)
 Level up your coding skills. Get the help you need to build your projects and learn as you go.
 
