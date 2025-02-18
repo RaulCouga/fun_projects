@@ -252,6 +252,9 @@ Harness the power of DeepSeek R1's reasoning and Claude's creativity and code ge
 [Augment Code](https://www.augmentcode.com/)
 The first AI coding assistant built for professional software engineers and large codebases.
 
+[CodeLLM](https://codellm.abacus.ai/)
+A revolutionary new AI Code Editor that helps you 10x your developer productivity! Bundled with AI super assistant ChatLLM
+
 ## AI Automation / No Code
 [n8n](https://n8n.io/)
 Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
@@ -290,6 +293,11 @@ Push Gemini to the limits of what Al can do using the Gemini API
 [Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
 Create a val using Townie, the Val Town bot
 
+[Grok](https://grok.com/)
+
+[Convergance](https://convergence.ai/)
+Your AI assistant for your daily tasks
+
 ## IDE
 [Trae](https://www.trae.ai/)
 Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
@@ -302,4 +310,12 @@ Project IDX is an AI-assisted workspace for full-stack, multiplatform app develo
 
 [Windsurf](https://codeium.com/windsurf)
 The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
+
+[Pydantic Run](https://pydantic.run/)
+A pydantic playgroud
+
+## UI
+[Gradio Playground](https://www.gradio.app/playground)
+
+
 
