@@ -123,6 +123,13 @@ Write your documentation in Markdown and create a professional static site for y
 [Model Context Protocol](https://github.com/modelcontextprotocol/servers/tree/main)
 A collection of reference implementations and community-contributed servers for the [Model Context Protocol](https://modelcontextprotocol.io/) (MCP). This repository showcases the versatility and extensibility of MCP, demonstrating how it can be used to give Large Language Models (LLMs) secure, controlled access to tools and data sources.
 
+## Search Engines
+[Brave Search API](https://brave.com/search/api/)
+Power your search and AI apps with the fastest growing independent search engine since Bing. Access an index of billions of pages with a single call.
+
+[Tavily](https://tavily.com/)
+Empowering your AI applications with real-time, accurate search results tailored for LLMs and RAG.
+
 ## Distributed LLMs
 [Exo](https://github.com/exo-explore/exo)
 Run your own AI cluster at home with everyday devices
@@ -209,6 +216,28 @@ Deepseek chat
 [Groq Labs](https://appgen.groqlabs.com/)
 Build a micro-app
 
+[Kimi](https://kimi.moonshot.cn/)
+
+[Scira](https://scira.app/)
+What do you want to explore?
+
+[Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)
+Level up your coding skills. Get the help you need to build your projects and learn as you go.
+
+[Gemini Coder](https://huggingface.co/spaces/osanseviero/gemini-coder)
+Turn your idea into an app
+
+[Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+Push Gemini to the limits of what Al can do using the Gemini API
+
+[Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
+Create a val using Townie, the Val Town bot
+
+[Grok](https://grok.com/)
+
+[Convergance](https://convergence.ai/)
+Your AI assistant for your daily tasks
+
 ## Code Assistants
 [Replit](https://replit.com/)
 Turn your ideas into apps with AI.
@@ -275,28 +304,8 @@ Total control, infinite extensibility, empower your team to swiftly adapt to cha
 [Gumloop](https://www.gumloop.com/)
 Gumloop is a platform for automating complex work using AI via a no-code drag and drop interface. We want any person or business to be able to automate their work without needing to be AI experts or engineers.
 
-## Chat Bots
-[Kimi](https://kimi.moonshot.cn/)
-
-[Scira](https://scira.app/)
-What do you want to explore?
-
-[Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)
-Level up your coding skills. Get the help you need to build your projects and learn as you go.
-
-[Gemini Coder](https://huggingface.co/spaces/osanseviero/gemini-coder)
-Turn your idea into an app
-
-[Google AI Studio](https://aistudio.google.com/prompts/new_chat)
-Push Gemini to the limits of what Al can do using the Gemini API
-
-[Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
-Create a val using Townie, the Val Town bot
-
-[Grok](https://grok.com/)
-
-[Convergance](https://convergence.ai/)
-Your AI assistant for your daily tasks
+[Active Pieces](https://www.activepieces.com/)
+Automation software that's AI-first, no-code & open-source
 
 ## IDE
 [Trae](https://www.trae.ai/)
