@@ -32,9 +32,15 @@ Welcome to CrewAI Studio! This application provides a user-friendly interface wr
 [AutoGen](https://microsoft.github.io/autogen/stable/)
 A programming framework for building conversational single and multi-agent applications. Built on Core. Requires Python 3.10+.
 
+[OctoTools](https://github.com/octotools/octotools)
+A training-free, user-friendly, and easily extensible open-source agentic framework designed to tackle complex reasoning across diverse domains. OctoTools introduces standardized tool cards to encapsulate tool functionality, a planner for both high-level and low-level planning, and an executor to carry out tool usage.
+
 ## MLOps
 [ZenML](https://github.com/zenml-io)
 An open-source MLOps + LLMOps framework that seamlessly integrates existing infrastructure and tools
+
+[unify](https://unify.ai/)
+Build custom interfaces for: logging, evals, guardrails, labelling, tracing, agents, human-in-the-loop, hyperparam sweeps, and anything else you can think of ✨
 
 ## Ops
 [Icecream](https://github.com/gruns/icecream)
@@ -67,6 +73,9 @@ MemoRAG is an innovative RAG framework built on top of a highly efficient, super
 
 [LMCache](https://github.com/LMCache/LMCache)
 LMCache is a LLM serving engine extension to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations including (GPU, CPU DRAM, Local Disk), LMCache reuse the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces response delay for users.
+
+[LangMem](https://langchain-ai.github.io/langmem/)
+LangMem helps agents learn and adapt from their interactions over time.
 
 ## State
 [Burr](https://burr.dagworks.io/)
@@ -307,6 +316,9 @@ Gumloop is a platform for automating complex work using AI via a no-code drag an
 [Active Pieces](https://www.activepieces.com/)
 Automation software that's AI-first, no-code & open-source
 
+[MindStudio](https://www.mindstudio.ai/)
+Create AI solutions–simple, fast, hassle-free
+
 ## IDE
 [Trae](https://www.trae.ai/)
 Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
@@ -326,5 +338,64 @@ A pydantic playgroud
 ## UI
 [Gradio Playground](https://www.gradio.app/playground)
 
+[21st](https://21st.dev/)
+Discover, share, and craft perfect UI components with top design engineers
 
+[Penpot](https://github.com/penpot/penpot)
+Penpot is the first open-source design tool for design and code collaboration. Designers can create stunning designs, interactive prototypes, design systems at scale, while developers enjoy ready-to-use code and make their workflow easy and fast. And all of this with no handoff drama.
 
+[CustomTkinter](https://customtkinter.tomschimansky.com/)
+A modern and customizable python UI-library based on Tkinter
+
+[Shadcn](https://ui.shadcn.com/)
+A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+[Storyook](https://storybook.js.org/)
+Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. It's open source and free.
+
+[ant.desgin](https://ant.design/)
+Help designers/developers building beautiful products more flexible and working with happiness
+
+[Mui](https://mui.com/)
+MUI offers a comprehensive suite of free UI tools to help you ship new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
+
+[Radix](https://www.radix-ui.com/)
+An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required.
+
+[Codia](https://codia.ai/)
+Specializing in AI-driven design and development, we harness cutting-edge technology to innovate and transform ideas into reality.
+
+## Recognition
+[Gliner](https://github.com/urchade/GLiNER)
+Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts)
+
+## Multimodal libraries/models
+[FastRTC](https://huggingface.co/blog/fastrtc)
+FastRTC: The Real-Time Communication Library for Python
+
+[SmolVLM2](https://huggingface.co/blog/smolvlm2)
+SmolVLM2 represents a fundamental shift in how we think about video understanding - moving from massive models that require substantial computing resources to efficient models that can run anywhere. Our goal is simple: make video understanding accessible across all devices and use cases, from phones to servers.
+
+[SigLIP2](https://huggingface.co/docs/transformers/main/en/model_doc/siglip2)
+Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features
+
+[GOT-OCR](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
+AI models for OCR
+
+## Agents
+[TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
+A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
+
+## Edge AI
+[SmallThinker](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview)
+
+## UI Testing
+[Browser-use](https://browser-use.com/)
+We make websites accessible for AI agents by extracting all interactive elements, so agents can focus on what makes their beer taste better.
+
+## Image generation
+[Recraft](https://www.recraft.ai/)
+Vector Premium image generation and editing tool
+
+[Diagramming AI](https://diagrammingai.com/)
+Instantly Shape Your Ideas into Clear, Powerful Diagrams
