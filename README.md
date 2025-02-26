@@ -45,6 +45,10 @@ An open-source MLOps + LLMOps framework that seamlessly integrates existing infr
 [unify](https://unify.ai/)
 Build custom interfaces for: logging, evals, guardrails, labelling, tracing, agents, human-in-the-loop, hyperparam sweeps, and anything else you can think of ✨
 
+[Ear/y](https://www.startearly.ai/)
+Use EarlyAI in conjunction with your favorite AI code generation assistant to maximize the quality of your code while accelerating development speed.
+Your easy-to-use test engineering AI agent automates test code generation and proactively ensures that your code is kept free of bugs.
+
 ## Ops
 [Icecream](https://github.com/gruns/icecream)
 Never use print() to debug again
