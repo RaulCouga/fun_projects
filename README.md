@@ -35,6 +35,9 @@ A programming framework for building conversational single and multi-agent appli
 [OctoTools](https://github.com/octotools/octotools)
 A training-free, user-friendly, and easily extensible open-source agentic framework designed to tackle complex reasoning across diverse domains. OctoTools introduces standardized tool cards to encapsulate tool functionality, a planner for both high-level and low-level planning, and an executor to carry out tool usage.
 
+[Swarms](https://docs.swarms.world/en/latest/)
+Swarms aims to be the definitive and most reliable multi-agent LLM framework, offering developers the tools to automate business operations effortlessly. It provides a vast array of swarm architectures, seamless third-party integration, and unparalleled ease of use. With Swarms, developers can orchestrate intelligent, scalable agent ecosystems that can automate complex business processes.
+
 ## MLOps
 [ZenML](https://github.com/zenml-io)
 An open-source MLOps + LLMOps framework that seamlessly integrates existing infrastructure and tools
@@ -386,6 +389,9 @@ AI models for OCR
 [TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
 A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
 
+[Agno](https://www.agno.com/)
+An open-source platform to build, ship and monitor agentic systems.
+
 ## Edge AI
 [SmallThinker](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview)
 
@@ -399,3 +405,8 @@ Vector Premium image generation and editing tool
 
 [Diagramming AI](https://diagrammingai.com/)
 Instantly Shape Your Ideas into Clear, Powerful Diagrams
+
+## Protocols
+[MCP](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
+MCP is an open protocol that standardizes how applications provide context to LLMs
+
