@@ -225,6 +225,9 @@ World's 1st AI engineer for non-coders. Type your idea and AI will code your app
 [Sitebrew](https://www.sitebrew.ai/create)
 Generate a site and share it with the world, in seconds
 
+[create](https://www.create.xyz/)
+urn your words into sites, tools, apps and products - built with code. Add GPT-4o and 40+ integrations in an instant.
+
 ## Model Assistants
 [Deepseek](https://chat.deepseek.com/sign_in)
 Deepseek chat
