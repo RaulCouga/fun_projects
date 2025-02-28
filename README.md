@@ -96,6 +96,25 @@ Guidance is an efficient programming paradigm for steering language models. With
 [llama.cpp](https://github.com/ggerganov/llama.cpp)
 The main goal of llama.cpp is to enable LLM inference with minimal setup and state-of-the-art performance on a wide range of hardware - locally and in the cloud.
 
+## Serving Engines
+[Ollama](https://ollama.com/)
+Get up and running with large language models.
+
+[vLLM](https://docs.vllm.ai/en/latest/)
+vLLM is a fast and easy-to-use library for LLM inference and serving.
+
+[LM Studio](https://lmstudio.ai/)
+Discover. download, and run local LLMs
+
+[LlamaFile](https://github.com/Mozilla-Ocho/llamafile)
+Our goal is to make open LLMs much more accessible to both developers and end users. 
+
+[LLaMA.cpp](https://github.com/ggml-org/llama.cpp)
+The main goal of llama.cpp is to enable LLM inference with minimal setup and state-of-the-art performance on a wide range of hardware - locally and in the cloud.
+
+[LitServe](https://github.com/Lightning-AI/LitServe?tab=readme-ov-file#performance)
+LitServe is an easy-to-use, flexible serving engine for AI models built on FastAPI. It augments FastAPI with features like batching, streaming, and GPU autoscaling eliminate the need to rebuild a FastAPI server per model.
+
 ## RAG frameworks
 [llmware](https://github.com/llmware-ai/llmware)
 provides a unified framework for building LLM-based applications (e.g., RAG, Agents), using small, specialized models that can be deployed privately, integrated with enterprise knowledge sources safely and securely, and cost-effectively tuned and adapted for any business process.
@@ -121,7 +140,10 @@ Semantic Router is a superfast decision-making layer for your LLMs and agents. R
 [aisuite](https://github.com/andrewyng/aisuite)
 makes it easy for developers to use multiple LLM through a standardized interface. Using an interface similar to OpenAI's, aisuite makes it easy to interact with the most popular LLMs and compare the results. It is a thin wrapper around python client libraries, and allows creators to seamlessly swap out and test responses from different LLM providers without changing their code. 
 
-## rerankers
+[LLMSelector](https://github.com/LLMSELECTOR/LLMSELECTOR)
+LLMSELECTOR is a framework that automatically optimizes model selection for compound AI systems!
+21st
+## Rerankers
 [rerankers](https://github.com/answerdotai/rerankers)
 A lightweight unified API for various reranking models. 
 
@@ -348,32 +370,8 @@ A pydantic playgroud
 ## UI
 [Gradio Playground](https://www.gradio.app/playground)
 
-[21st](https://21st.dev/)
-Discover, share, and craft perfect UI components with top design engineers
-
-[Penpot](https://github.com/penpot/penpot)
-Penpot is the first open-source design tool for design and code collaboration. Designers can create stunning designs, interactive prototypes, design systems at scale, while developers enjoy ready-to-use code and make their workflow easy and fast. And all of this with no handoff drama.
-
 [CustomTkinter](https://customtkinter.tomschimansky.com/)
 A modern and customizable python UI-library based on Tkinter
-
-[Shadcn](https://ui.shadcn.com/)
-A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-[Storyook](https://storybook.js.org/)
-Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. It's open source and free.
-
-[ant.desgin](https://ant.design/)
-Help designers/developers building beautiful products more flexible and working with happiness
-
-[Mui](https://mui.com/)
-MUI offers a comprehensive suite of free UI tools to help you ship new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
-
-[Radix](https://www.radix-ui.com/)
-An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required.
-
-[Codia](https://codia.ai/)
-Specializing in AI-driven design and development, we harness cutting-edge technology to innovate and transform ideas into reality.
 
 ## Recognition
 [Gliner](https://github.com/urchade/GLiNER)
