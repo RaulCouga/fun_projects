@@ -49,6 +49,9 @@ Build custom interfaces for: logging, evals, guardrails, labelling, tracing, age
 Use EarlyAI in conjunction with your favorite AI code generation assistant to maximize the quality of your code while accelerating development speed.
 Your easy-to-use test engineering AI agent automates test code generation and proactively ensures that your code is kept free of bugs.
 
+[Comet](https://www.comet.com/site/)
+Comet provides an end-to-end model evaluation platform for AI developers,
+
 ## Ops
 [Icecream](https://github.com/gruns/icecream)
 Never use print() to debug again
@@ -84,19 +87,18 @@ LMCache is a LLM serving engine extension to reduce TTFT and increase throughput
 [LangMem](https://langchain-ai.github.io/langmem/)
 LangMem helps agents learn and adapt from their interactions over time.
 
+[Zep](https://github.com/getzep/zep)
+The Memory Foundation For Your AI Stack
+
 ## State
 [Burr](https://burr.dagworks.io/)
 Burr makes it easy to develop applications that make decisions (chatbots, agents, simulations, etc...) from simple python building blocks.
 Burr works well for any application that uses LLMs, and can integrate with any of your favorite frameworks. Burr includes a UI that can track/monitor/trace your system in real time, along with pluggable persisters (e.g. for memory) to save & load application state.
 
-## LLM inference
+## LLM inference / Serving Engines
 [Guidance](https://github.com/guidance-ai/guidance)
 Guidance is an efficient programming paradigm for steering language models. With Guidance, you can control how output is structured and get high-quality output for your use case—while reducing latency and cost vs. conventional prompting or fine-tuning. It allows users to constrain generation (e.g. with regex and CFGs) as well as to interleave control (conditionals, loops, tool use) and generation seamlessly.
 
-[llama.cpp](https://github.com/ggerganov/llama.cpp)
-The main goal of llama.cpp is to enable LLM inference with minimal setup and state-of-the-art performance on a wide range of hardware - locally and in the cloud.
-
-## Serving Engines
 [Ollama](https://ollama.com/)
 Get up and running with large language models.
 
@@ -114,6 +116,9 @@ The main goal of llama.cpp is to enable LLM inference with minimal setup and sta
 
 [LitServe](https://github.com/Lightning-AI/LitServe?tab=readme-ov-file#performance)
 LitServe is an easy-to-use, flexible serving engine for AI models built on FastAPI. It augments FastAPI with features like batching, streaming, and GPU autoscaling eliminate the need to rebuild a FastAPI server per model.
+
+[Inception Labs])https://www.inceptionlabs.ai/)
+Inception’s diffusion-based approach to language generation is inspired by advanced AI systems for images and video like Midjourney and Sora and provides unprecedented speed, quality, and generative control.
 
 ## RAG frameworks
 [llmware](https://github.com/llmware-ai/llmware)
@@ -142,7 +147,7 @@ makes it easy for developers to use multiple LLM through a standardized interfac
 
 [LLMSelector](https://github.com/LLMSELECTOR/LLMSELECTOR)
 LLMSELECTOR is a framework that automatically optimizes model selection for compound AI systems!
-21st
+
 ## Rerankers
 [rerankers](https://github.com/answerdotai/rerankers)
 A lightweight unified API for various reranking models. 
@@ -250,6 +255,9 @@ Generate a site and share it with the world, in seconds
 [create](https://www.create.xyz/)
 urn your words into sites, tools, apps and products - built with code. Add GPT-4o and 40+ integrations in an instant.
 
+[Mastra](https://mastra.ai/)
+From the team that brought you Gatsby: prototype and productionize AI features with a modern Javascript stack.
+
 ## Model Assistants
 [Deepseek](https://chat.deepseek.com/sign_in)
 Deepseek chat
@@ -278,6 +286,9 @@ Create a val using Townie, the Val Town bot
 
 [Convergance](https://convergence.ai/)
 Your AI assistant for your daily tasks
+
+[Mercury by Inception Labs](https://chat.inceptionlabs.ai/)
+
 
 ## Code Assistants
 [Replit](https://replit.com/)
@@ -390,6 +401,9 @@ Multilingual Vision-Language Encoders with Improved Semantic Understanding, Loca
 [GOT-OCR](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
 AI models for OCR
 
+[olmOCR](https://github.com/allenai/olmocr)
+A toolkit for training language models to work with PDF documents in the wild.
+
 ## Agents
 [TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
 A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
@@ -414,4 +428,10 @@ Instantly Shape Your Ideas into Clear, Powerful Diagrams
 ## Protocols
 [MCP](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
 MCP is an open protocol that standardizes how applications provide context to LLMs
+
+## Sandboxes
+[E2B](https://github.com/e2b-dev)
+We make it easy for developers to add code interpreting to AI apps with the E2B SDK
+
+
 
