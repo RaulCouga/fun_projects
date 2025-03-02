@@ -425,9 +425,9 @@ Vector Premium image generation and editing tool
 [Diagramming AI](https://diagrammingai.com/)
 Instantly Shape Your Ideas into Clear, Powerful Diagrams
 
-## Protocols
-[MCP](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
-MCP is an open protocol that standardizes how applications provide context to LLMs
+## Evaluators
+[Phoenix](https://docs.arize.com/phoenix)
+Phoenix is an open-source observability library designed for experimentation, evaluation, and troubleshooting. It allows AI Engineers and Data Scientists to quickly visualize their data, evaluate performance, track down issues, and export data to improve.
 
 ## Sandboxes
 [E2B](https://github.com/e2b-dev)
