@@ -289,6 +289,9 @@ Your AI assistant for your daily tasks
 
 [Mercury by Inception Labs](https://chat.inceptionlabs.ai/)
 
+[Ai2 Scholar](https://scholarqa.allen.ai/)
+Synthesizing 8M+ open access papers. A project from Ai2 and Semantic Scholar. Ai2 Scholar QA can make mistakes. Check source documents by following citations.
+
 
 ## Code Assistants
 [Replit](https://replit.com/)
