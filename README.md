@@ -124,7 +124,7 @@ Inception’s diffusion-based approach to language generation is inspired by adv
 [llmware](https://github.com/llmware-ai/llmware)
 provides a unified framework for building LLM-based applications (e.g., RAG, Agents), using small, specialized models that can be deployed privately, integrated with enterprise knowledge sources safely and securely, and cost-effectively tuned and adapted for any business process.
 
-## LLM risk assessment
+## Guardrails
 [Guardrails](https://github.com/guardrails-ai/guardrails?tab=readme-ov-file)
 Guardrails runs Input/Output Guards in your application that detect, quantify and mitigate the presence of specific types of risks. To look at the full suite of risks, check out [Guardrails Hub](https://hub.guardrailsai.com/).
 Guardrails help you generate structured data from LLMs.
@@ -137,6 +137,9 @@ Llama Guard 3 Vision is a Llama-3.2-11B pretrained model, fine-tuned for content
 
 [LlamaGuard 3](https://huggingface.co/meta-llama/Llama-Guard-3-8B)
 Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety classification. Similar to previous versions, it can be used to classify content in both LLM inputs (prompt classification) and in LLM responses (response classification). It acts as an LLM – it generates text in its output that indicates whether a given prompt or response is safe or unsafe, and if unsafe, it also lists the content categories violated.
+
+[DeepVal](https://github.com/confident-ai/deepeval)
+DeepEval is a simple-to-use, open-source LLM evaluation framework, for evaluating and testing large-language model systems. It is similar to Pytest but specialized for unit testing LLM outputs. DeepEval incorporates the latest research to evaluate LLM outputs based on metrics such as G-Eval, hallucination, answer relevancy, RAGAS, etc., which uses LLMs and various other NLP models that runs locally on your machine for evaluation.
 
 ## LLM Routers
 [Aurelio](https://github.com/aurelio-labs/semantic-router)
@@ -291,7 +294,6 @@ Your AI assistant for your daily tasks
 
 [Ai2 Scholar](https://scholarqa.allen.ai/)
 Synthesizing 8M+ open access papers. A project from Ai2 and Semantic Scholar. Ai2 Scholar QA can make mistakes. Check source documents by following citations.
-
 
 ## Code Assistants
 [Replit](https://replit.com/)
