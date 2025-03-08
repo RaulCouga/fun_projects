@@ -67,6 +67,8 @@ Your easy-to-use test engineering AI agent automates test code generation and pr
 [Comet](https://www.comet.com/site/)
 Comet provides an end-to-end model evaluation platform for AI developers,
 
+
+
 ## Ops
 [Icecream](https://github.com/gruns/icecream)
 Never use print() to debug again
@@ -82,6 +84,8 @@ Pyright is a full-featured, standards-compliant static type checker for Python. 
 
 [UV](https://github.com/astral-sh/uv)
 An extremely fast Python package and project manager, written in Rust.
+
+
 
 ## LLM Memory / caching
 [Letta](https://github.com/letta-ai/letta?tab=readme-ov-file)
@@ -105,10 +109,14 @@ LangMem helps agents learn and adapt from their interactions over time.
 [Zep](https://github.com/getzep/zep)
 The Memory Foundation For Your AI Stack
 
+
+
 ## State
 [Burr](https://burr.dagworks.io/)
 Burr makes it easy to develop applications that make decisions (chatbots, agents, simulations, etc...) from simple python building blocks.
 Burr works well for any application that uses LLMs, and can integrate with any of your favorite frameworks. Burr includes a UI that can track/monitor/trace your system in real time, along with pluggable persisters (e.g. for memory) to save & load application state.
+
+
 
 ## LLM inference / Serving Engines
 [Guidance](https://github.com/guidance-ai/guidance)
@@ -135,9 +143,13 @@ LitServe is an easy-to-use, flexible serving engine for AI models built on FastA
 [Inception Labs])https://www.inceptionlabs.ai/)
 Inception’s diffusion-based approach to language generation is inspired by advanced AI systems for images and video like Midjourney and Sora and provides unprecedented speed, quality, and generative control.
 
+
+
 ## RAG frameworks
 [llmware](https://github.com/llmware-ai/llmware)
 provides a unified framework for building LLM-based applications (e.g., RAG, Agents), using small, specialized models that can be deployed privately, integrated with enterprise knowledge sources safely and securely, and cost-effectively tuned and adapted for any business process.
+
+
 
 ## Guardrails
 [Guardrails](https://github.com/guardrails-ai/guardrails?tab=readme-ov-file)
@@ -156,6 +168,8 @@ Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety 
 [DeepVal](https://github.com/confident-ai/deepeval)
 DeepEval is a simple-to-use, open-source LLM evaluation framework, for evaluating and testing large-language model systems. It is similar to Pytest but specialized for unit testing LLM outputs. DeepEval incorporates the latest research to evaluate LLM outputs based on metrics such as G-Eval, hallucination, answer relevancy, RAGAS, etc., which uses LLMs and various other NLP models that runs locally on your machine for evaluation.
 
+
+
 ## LLM Routers
 [Aurelio](https://github.com/aurelio-labs/semantic-router)
 Semantic Router is a superfast decision-making layer for your LLMs and agents. Rather than waiting for slow LLM generations to make tool-use decisions, we use the magic of semantic vector space to make those decisions — routing our requests using semantic meaning.
@@ -165,6 +179,8 @@ makes it easy for developers to use multiple LLM through a standardized interfac
 
 [LLMSelector](https://github.com/LLMSELECTOR/LLMSELECTOR)
 LLMSELECTOR is a framework that automatically optimizes model selection for compound AI systems!
+
+
 
 ## Rerankers
 [rerankers](https://github.com/answerdotai/rerankers)
@@ -176,13 +192,19 @@ Supercharging Search and Retrieval for Unstructured Data
 [Cohere](https://cohere.com/)
 The all-in-one platform for private and secure AI
 
+
+
 ## Documentation
 [mkdocs](https://github.com/squidfunk/mkdocs-material)
 Write your documentation in Markdown and create a professional static site for your Open Source or commercial project in minutes – searchable, customizable, more than 60 languages, for all devices.
 
+
+
 ## MCP
 [Model Context Protocol](https://github.com/modelcontextprotocol/servers/tree/main)
 A collection of reference implementations and community-contributed servers for the [Model Context Protocol](https://modelcontextprotocol.io/) (MCP). This repository showcases the versatility and extensibility of MCP, demonstrating how it can be used to give Large Language Models (LLMs) secure, controlled access to tools and data sources.
+
+
 
 ## Search Engines
 [Brave Search API](https://brave.com/search/api/)
@@ -194,13 +216,19 @@ Empowering your AI applications with real-time, accurate search results tailored
 [Linkup](https://www.linkup.so/)
 Power your business applications with the world's most accurate web search and access to fresh, premium content.
 
+
+
 ## Distributed LLMs
 [Exo](https://github.com/exo-explore/exo)
 Run your own AI cluster at home with everyday devices
 
+
+
 ## Knowledge Graphs
 [itext2KG](https://github.com/AuvaLab/itext2kg)
 iText2KG is a Python package designed to incrementally construct consistent knowledge graphs with resolved entities and relations by leveraging large language models for entity and relation extraction from text documents. It features zero-shot capability, allowing for knowledge extraction across various domains without specific training. The package includes modules for document distillation, entity extraction, and relation extraction, ensuring resolved and unique entities and relationships. It continuously updates the KG with new documents and integrates them into Neo4j for visual representation.
+
+
 
 ## Chunking
 [Chonkie](https://github.com/chonkie-ai/chonkie)
@@ -208,6 +236,8 @@ The no-nonsense RAG chunking library that’s lightweight, lightning-fast, and r
 
 [Semchunk](https://github.com/umarbutler/semchunk)
 A fast and lightweight pure Python library for splitting text into semantically meaningful chunks.
+
+
 
 ## Data Validation & Structure Output
 [Pydantic](https://docs.pydantic.dev/latest/)
@@ -218,6 +248,8 @@ Structured outputs powered by llms. Designed for simplicity, transparency, and c
 
 [Outlines](https://github.com/dottxt-ai/outlines)
 Outlines provides ways to control the generation of language models to make their output more predictable.
+
+
 
 ## Fine-Tunning
 [Unsloth](https://unsloth.ai/)
@@ -237,6 +269,8 @@ Manage, curate, and label multimodal data such as image, video, audio, document,
 
 [Transformer Labs](https://transformerlab.ai/)
 100% Open Source Toolkit for Large Language Models: Train, Tune, Chat on your own Machine
+
+
 
 ## Inference
 [Groq](https://groq.com/)
@@ -371,6 +405,8 @@ A revolutionary new AI Code Editor that helps you 10x your developer productivit
 [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
 
+
+
 ## AI Automation / No Code
 [n8n](https://n8n.io/)
 Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
@@ -426,6 +462,9 @@ A pydantic playgroud
 [CustomTkinter](https://customtkinter.tomschimansky.com/)
 A modern and customizable python UI-library based on Tkinter
 
+[Open WebUI](https://openwebui.com/)
+Open WebUI is an extensible, self-hosted AI interface that adapts to your workflow, all while operating entirely offline.
+
 
 
 ## Recognition
@@ -453,6 +492,8 @@ A toolkit for training language models to work with PDF documents in the wild.
 [Mistral OCR](https://mistral.ai/en/news/mistral-ocr)
 Mistral OCR is an Optical Character Recognition API that sets a new standard in document understanding. Unlike other models, Mistral OCR comprehends each element of documents—media, text, tables, equations—with unprecedented accuracy and cognition. It takes images and PDFs as input and extracts content in an ordered interleaved text and images.
 
+
+
 ## Agents
 [TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
 A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
@@ -463,12 +504,18 @@ An open-source platform to build, ship and monitor agentic systems
 [Manus](https://manus.im/)
 Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
 
+
+
 ## Edge AI
 [SmallThinker](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview)
+
+
 
 ## UI Testing
 [Browser-use](https://browser-use.com/)
 We make websites accessible for AI agents by extracting all interactive elements, so agents can focus on what makes their beer taste better.
+
+
 
 ## Image generation
 [Recraft](https://www.recraft.ai/)
@@ -476,6 +523,8 @@ Vector Premium image generation and editing tool
 
 [Diagramming AI](https://diagrammingai.com/)
 Instantly Shape Your Ideas into Clear, Powerful Diagrams
+
+
 
 ## Evaluators
 [Phoenix](https://docs.arize.com/phoenix)
@@ -486,6 +535,8 @@ $ the open-source LLM evaluation framework
 
 [Corrective RAG](https://lightning.ai/akshay-ddods/studios/build-a-corrective-rag-agentic-workflow-using-deepseek-r1?utm_campaign=akshay&utm_medium=linkedin)
 In this studio we're building a corrective RAG (CRAG) agentic workflow. It's powered by a locally running DeepSeek-R1 and has ability to search through your docs, evaluate the context quality and fallback to web search if it needs more info.
+
+
 
 ## Sandboxes
 [E2B](https://github.com/e2b-dev)
