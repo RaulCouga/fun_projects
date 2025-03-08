@@ -1,8 +1,21 @@
 # Welcome to my list of interesting projects!
 
+
+
 ## Markdown
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 The Markdown elements outlined in the original design document.
+
+
+
+## Prompt Engineering
+[Repo Prompt](https://repoprompt.com/)
+Code smarter with AI—no more messy copy-pasting. Let Repo Prompt structure your prompts and apply AI changes for you.
+
+[Prompt Perfect](https://promptperfect.jina.ai/)
+(Prompt Optomiser
+
+
 
 ## Agentic frameworks
 [Microsoft.TinyTroupe](https://github.com/microsoft/TinyTroupe)
@@ -37,6 +50,8 @@ A training-free, user-friendly, and easily extensible open-source agentic framew
 
 [Swarms](https://docs.swarms.world/en/latest/)
 Swarms aims to be the definitive and most reliable multi-agent LLM framework, offering developers the tools to automate business operations effortlessly. It provides a vast array of swarm architectures, seamless third-party integration, and unparalleled ease of use. With Swarms, developers can orchestrate intelligent, scalable agent ecosystems that can automate complex business processes.
+
+
 
 ## MLOps
 [ZenML](https://github.com/zenml-io)
@@ -176,6 +191,9 @@ Power your search and AI apps with the fastest growing independent search engine
 [Tavily](https://tavily.com/)
 Empowering your AI applications with real-time, accurate search results tailored for LLMs and RAG.
 
+[Linkup](https://www.linkup.so/)
+Power your business applications with the world's most accurate web search and access to fresh, premium content.
+
 ## Distributed LLMs
 [Exo](https://github.com/exo-explore/exo)
 Run your own AI cluster at home with everyday devices
@@ -236,6 +254,8 @@ Train, fine-tune-and run inference on AI models blazing fast, at low cost, and a
 [Predibase](https://predibase.com/)
 Highest quality, fastest throughput small language models in your cloud
 
+
+
 ## Web Assistants
 [Bolt](https://bolt.new/)
 What do you want to build?
@@ -260,6 +280,11 @@ urn your words into sites, tools, apps and products - built with code. Add GPT-4
 
 [Mastra](https://mastra.ai/)
 From the team that brought you Gatsby: prototype and productionize AI features with a modern Javascript stack.
+
+[Polymet](https://www.polymet.ai/)
+Design and iterate faster with AI. Get the production-ready code and ship faster
+
+
 
 ## Model Assistants
 [Deepseek](https://chat.deepseek.com/sign_in)
@@ -287,13 +312,15 @@ Create a val using Townie, the Val Town bot
 
 [Grok](https://grok.com/)
 
-[Convergance](https://convergence.ai/)
+[Proxy](https://convergence.ai/)
 Your AI assistant for your daily tasks
 
 [Mercury by Inception Labs](https://chat.inceptionlabs.ai/)
 
 [Ai2 Scholar](https://scholarqa.allen.ai/)
 Synthesizing 8M+ open access papers. A project from Ai2 and Semantic Scholar. Ai2 Scholar QA can make mistakes. Check source documents by following citations.
+
+
 
 ## Code Assistants
 [Replit](https://replit.com/)
@@ -341,6 +368,9 @@ The first AI coding assistant built for professional software engineers and larg
 [CodeLLM](https://codellm.abacus.ai/)
 A revolutionary new AI Code Editor that helps you 10x your developer productivity! Bundled with AI super assistant ChatLLM
 
+[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
+
 ## AI Automation / No Code
 [n8n](https://n8n.io/)
 Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
@@ -365,7 +395,12 @@ Gumloop is a platform for automating complex work using AI via a no-code drag an
 Automation software that's AI-first, no-code & open-source
 
 [MindStudio](https://www.mindstudio.ai/)
-Create AI solutions–simple, fast, hassle-free
+Create AI solutions–simple, fast, hassle-
+
+[Langflow](https://www.langflow.org/)
+Langflow is a low-code tool for developers that makes it easier to build powerful AI agents and workflows that can use any API, model, or database.
+
+
 
 ## IDE
 [Trae](https://www.trae.ai/)
@@ -383,15 +418,21 @@ The first agentic IDE, and then some. The Windsurf Editor is where the work of d
 [Pydantic Run](https://pydantic.run/)
 A pydantic playgroud
 
+
+
 ## UI
 [Gradio Playground](https://www.gradio.app/playground)
 
 [CustomTkinter](https://customtkinter.tomschimansky.com/)
 A modern and customizable python UI-library based on Tkinter
 
+
+
 ## Recognition
 [Gliner](https://github.com/urchade/GLiNER)
 Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts)
+
+
 
 ## Multimodal libraries/models
 [FastRTC](https://huggingface.co/blog/fastrtc)
@@ -409,12 +450,18 @@ AI models for OCR
 [olmOCR](https://github.com/allenai/olmocr)
 A toolkit for training language models to work with PDF documents in the wild.
 
+[Mistral OCR](https://mistral.ai/en/news/mistral-ocr)
+Mistral OCR is an Optical Character Recognition API that sets a new standard in document understanding. Unlike other models, Mistral OCR comprehends each element of documents—media, text, tables, equations—with unprecedented accuracy and cognition. It takes images and PDFs as input and extracts content in an ordered interleaved text and images.
+
 ## Agents
 [TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
 A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
 
 [Agno](https://www.agno.com/)
-An open-source platform to build, ship and monitor agentic systems.
+An open-source platform to build, ship and monitor agentic systems
+
+[Manus](https://manus.im/)
+Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
 
 ## Edge AI
 [SmallThinker](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview)
@@ -434,9 +481,16 @@ Instantly Shape Your Ideas into Clear, Powerful Diagrams
 [Phoenix](https://docs.arize.com/phoenix)
 Phoenix is an open-source observability library designed for experimentation, evaluation, and troubleshooting. It allows AI Engineers and Data Scientists to quickly visualize their data, evaluate performance, track down issues, and export data to improve.
 
+[Deepval](https://docs.confident-ai.com/)
+$ the open-source LLM evaluation framework
+
+[Corrective RAG](https://lightning.ai/akshay-ddods/studios/build-a-corrective-rag-agentic-workflow-using-deepseek-r1?utm_campaign=akshay&utm_medium=linkedin)
+In this studio we're building a corrective RAG (CRAG) agentic workflow. It's powered by a locally running DeepSeek-R1 and has ability to search through your docs, evaluate the context quality and fallback to web search if it needs more info.
+
 ## Sandboxes
 [E2B](https://github.com/e2b-dev)
 We make it easy for developers to add code interpreting to AI apps with the E2B SDK
 
-
+[ForeverVM](https://forevervm.com/)
+Securely run AI-generated code in stateful sandboxes that run forever.
 
