@@ -53,6 +53,12 @@ Swarms aims to be the definitive and most reliable multi-agent LLM framework, of
 
 
 
+## Workflow
+[Metaflow](https://metaflow.org/)
+A framework for real-life ML, AI, and data science. Open-source Metaflow makes it quick and easy to build and manage real-life ML, AI, and data science projects.
+
+
+
 ## MLOps
 [ZenML](https://github.com/zenml-io)
 An open-source MLOps + LLMOps framework that seamlessly integrates existing infrastructure and tools
@@ -108,6 +114,10 @@ LangMem helps agents learn and adapt from their interactions over time.
 
 [Zep](https://github.com/getzep/zep)
 The Memory Foundation For Your AI Stack
+
+[A-Mem](https://github.com/agiresearch/A-mem)
+A novel agentic memory system for LLM agents that can dynamically organize memories in an agentic way.
+
 
 
 
@@ -215,6 +225,9 @@ Empowering your AI applications with real-time, accurate search results tailored
 
 [Linkup](https://www.linkup.so/)
 Power your business applications with the world's most accurate web search and access to fresh, premium content.
+
+[Jena AI](https://www.jena.ai)
+Your search foundation supercharged.
 
 
 
@@ -531,11 +544,13 @@ Instantly Shape Your Ideas into Clear, Powerful Diagrams
 Phoenix is an open-source observability library designed for experimentation, evaluation, and troubleshooting. It allows AI Engineers and Data Scientists to quickly visualize their data, evaluate performance, track down issues, and export data to improve.
 
 [Deepval](https://docs.confident-ai.com/)
-$ the open-source LLM evaluation framework
+The open-source LLM evaluation framework
 
 [Corrective RAG](https://lightning.ai/akshay-ddods/studios/build-a-corrective-rag-agentic-workflow-using-deepseek-r1?utm_campaign=akshay&utm_medium=linkedin)
 In this studio we're building a corrective RAG (CRAG) agentic workflow. It's powered by a locally running DeepSeek-R1 and has ability to search through your docs, evaluate the context quality and fallback to web search if it needs more info.
 
+[LangFuse](https://langfuse.com/)
+Open Source LLM Engineering Platform. Traces, evals, prompt management and metrics to debug and improve your LLM application.
 
 
 ## Sandboxes
@@ -544,4 +559,3 @@ We make it easy for developers to add code interpreting to AI apps with the E2B 
 
 [ForeverVM](https://forevervm.com/)
 Securely run AI-generated code in stateful sandboxes that run forever.
-
