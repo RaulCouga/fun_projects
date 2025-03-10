@@ -220,6 +220,10 @@ The all-in-one platform for private and secure AI
 [Bert](https://www.sbert.net/)
 Sentence Transformers (a.k.a. SBERT) is the go-to Python module for accessing, using, and training state-of-the-art text and image embedding models. It can be used to compute embeddings using Sentence Transformer models (quickstart) or to calculate similarity scores using Cross-Encoder models (quickstart). This unlocks a wide range of applications, including semantic search, semantic textual similarity, and paraphrase mining.
 
+[Pylate](https://www.lighton.ai/lighton-blogs/pylate-flexible-training-and-retrieval-for-late-interaction-models)
+A user-friendly library for training and experimenting with ColBERT models, a family of models that exhibit strong retrieval capabilities on out-of-domain data. Built on the sentence transformers framework, the library is designed to make training and experimenting with ColBERT models more accessible to researchers and practitioners to accelerate the research in this domain.
+
+
 
 ## Documentation
 [mkdocs](https://github.com/squidfunk/mkdocs-material)
@@ -503,6 +507,9 @@ A toolkit for training language models to work with PDF documents in the wild.
 
 [Mistral OCR](https://mistral.ai/en/news/mistral-ocr)
 Mistral OCR is an Optical Character Recognition API that sets a new standard in document understanding. Unlike other models, Mistral OCR comprehends each element of documents—media, text, tables, equations—with unprecedented accuracy and cognition. It takes images and PDFs as input and extracts content in an ordered interleaved text and images.
+
+[ColPali](https://huggingface.co/blog/manu/colpali)
+Using Vision LLMs + late interaction to improve document retrieval (RAG, search engines, etc.), solely using the image representation of document pages
 
 
 
