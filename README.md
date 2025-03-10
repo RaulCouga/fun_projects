@@ -153,6 +153,21 @@ LitServe is an easy-to-use, flexible serving engine for AI models built on FastA
 [Inception Labs])https://www.inceptionlabs.ai/)
 Inception’s diffusion-based approach to language generation is inspired by advanced AI systems for images and video like Midjourney and Sora and provides unprecedented speed, quality, and generative control.
 
+[Groq](https://groq.com/)
+We provide fast AI inference in the cloud and in on-prem AI compute centers. We power the speed of iteration, fueling a new wave of innovation, productivity, and discovery. Groq was founded in 2016 to build technology to advance AI because we saw this moment coming. 
+
+[Cerebras](https://cerebras.ai/)
+Cerebras Inference Llama 3.3 70B runs at 2,200 tokens/s and Llama 3.1 405B at 969 tokens/s – over 70x faster than GPU clouds. Get instant responses to code-gen, summarization, and agentic tasks.
+
+[Sambanova](https://sambanova.ai/)
+We’ve built an enterprise-ready AI platform from the ground up – intentionally designed for the most valuable and complex AI workloads of today and tomorrow. Using our platform to build a technology backbone for the next decade of AI innovation, organizations get pre-trained foundation models that truly transform the way they gain value from AI and deep learning. And, with our flagship offering, SambaNova Suite, we help them realize value 22x faster.
+
+[Together AI](https://www.together.ai/)
+Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
+
+[Predibase](https://predibase.com/)
+Highest quality, fastest throughput small language models in your cloud
+
 
 
 ## RAG frameworks
@@ -192,7 +207,7 @@ LLMSELECTOR is a framework that automatically optimizes model selection for comp
 
 
 
-## Rerankers
+## Rerankers /Embeddings
 [rerankers](https://github.com/answerdotai/rerankers)
 A lightweight unified API for various reranking models. 
 
@@ -202,6 +217,8 @@ Supercharging Search and Retrieval for Unstructured Data
 [Cohere](https://cohere.com/)
 The all-in-one platform for private and secure AI
 
+[Bert](https://www.sbert.net/)
+Sentence Transformers (a.k.a. SBERT) is the go-to Python module for accessing, using, and training state-of-the-art text and image embedding models. It can be used to compute embeddings using Sentence Transformer models (quickstart) or to calculate similarity scores using Cross-Encoder models (quickstart). This unlocks a wide range of applications, including semantic search, semantic textual similarity, and paraphrase mining.
 
 
 ## Documentation
@@ -282,24 +299,6 @@ Manage, curate, and label multimodal data such as image, video, audio, document,
 
 [Transformer Labs](https://transformerlab.ai/)
 100% Open Source Toolkit for Large Language Models: Train, Tune, Chat on your own Machine
-
-
-
-## Inference
-[Groq](https://groq.com/)
-We provide fast AI inference in the cloud and in on-prem AI compute centers. We power the speed of iteration, fueling a new wave of innovation, productivity, and discovery. Groq was founded in 2016 to build technology to advance AI because we saw this moment coming. 
-
-[Cerebras](https://cerebras.ai/)
-Cerebras Inference Llama 3.3 70B runs at 2,200 tokens/s and Llama 3.1 405B at 969 tokens/s – over 70x faster than GPU clouds. Get instant responses to code-gen, summarization, and agentic tasks.
-
-[Sambanova](https://sambanova.ai/)
-We’ve built an enterprise-ready AI platform from the ground up – intentionally designed for the most valuable and complex AI workloads of today and tomorrow. Using our platform to build a technology backbone for the next decade of AI innovation, organizations get pre-trained foundation models that truly transform the way they gain value from AI and deep learning. And, with our flagship offering, SambaNova Suite, we help them realize value 22x faster.
-
-[Together AI](https://www.together.ai/)
-Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
-
-[Predibase](https://predibase.com/)
-Highest quality, fastest throughput small language models in your cloud
 
 
 
@@ -559,3 +558,12 @@ We make it easy for developers to add code interpreting to AI apps with the E2B 
 
 [ForeverVM](https://forevervm.com/)
 Securely run AI-generated code in stateful sandboxes that run forever.
+
+
+
+## Stores
+[LanceDB](https://lancedb.com/)
+LanceDB is a developer-friendly, open source database for AI. From hyper scalable vector search and advanced retrieval for RAG, to streaming training data and interactive exploration of large scale AI datasets, LanceDB is the best foundation for your AI application
+
+[Milvus](https://milvus.io/)
+The High-Performance. Vector Database Built for Scale
