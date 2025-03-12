@@ -73,6 +73,9 @@ Your easy-to-use test engineering AI agent automates test code generation and pr
 [Comet](https://www.comet.com/site/)
 Comet provides an end-to-end model evaluation platform for AI developers,
 
+[CleanML](https://clear.ml/)
+The Infrastructure Platform For AI Builders. Maximize AI Potential at Enterprise Scale
+
 
 
 ## Ops
@@ -193,6 +196,9 @@ Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety 
 [DeepVal](https://github.com/confident-ai/deepeval)
 DeepEval is a simple-to-use, open-source LLM evaluation framework, for evaluating and testing large-language model systems. It is similar to Pytest but specialized for unit testing LLM outputs. DeepEval incorporates the latest research to evaluate LLM outputs based on metrics such as G-Eval, hallucination, answer relevancy, RAGAS, etc., which uses LLMs and various other NLP models that runs locally on your machine for evaluation.
 
+[CodeGate](https://codegate.ai/)
+CodeGate is a guardian angel that sits between your AI assistants and LLMs, always shielding your privacy and supercharging your productivity.
+
 
 
 ## LLM Routers
@@ -207,7 +213,7 @@ LLMSELECTOR is a framework that automatically optimizes model selection for comp
 
 
 
-## Rerankers /Embeddings
+## Rerankers / Embeddings
 [rerankers](https://github.com/answerdotai/rerankers)
 A lightweight unified API for various reranking models. 
 
@@ -336,6 +342,9 @@ Design and iterate faster with AI. Get the production-ready code and ship faster
 
 [Tempo](https://www.tempo.new/)
 Build react apps 10x faster
+
+[BindAI](https://app.getbind.co/)
+Create full stack web applications with simple prompts with IDE
 
 
 
