@@ -218,6 +218,7 @@ Develop, deploy, and monitor AI faster with more confidence, while extracting ac
 A unified interface for LLMs
 
 
+
 ## Rerankers / Embeddings
 [rerankers](https://github.com/answerdotai/rerankers)
 A lightweight unified API for various reranking models. 
@@ -251,6 +252,17 @@ Instantly Connect to 100+ Managed MCP Servers with Built-In Auth
 
 [MCPServers](https://mcpservers.org/)
 A collection of servers for the Model Context Protocol.
+
+[MCP.so](https://mcp.so/)
+Find Awesome MCP Servers and Clients
+
+[MCP Server Finder](https://www.mcpserverfinder.com/)
+Find MCP servers and improve your workflow with AI
+
+[Smithery](https://smithery.ai/)
+Extend your agent with 2,232 capabilities via Model Context Protocol servers.
+
+
 
 
 ## Search Engines
