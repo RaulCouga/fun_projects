@@ -211,6 +211,11 @@ makes it easy for developers to use multiple LLM through a standardized interfac
 [LLMSelector](https://github.com/LLMSELECTOR/LLMSELECTOR)
 LLMSELECTOR is a framework that automatically optimizes model selection for compound AI systems!
 
+[Requesty](https://requesty.ai/)
+Develop, deploy, and monitor AI faster with more confidence, while extracting actionable insights from conversational data
+
+[OpenRouter](https://openrouter.ai/)
+A unified interface for LLMs
 
 
 ## Rerankers / Embeddings
@@ -244,6 +249,8 @@ A collection of reference implementations and community-contributed servers for 
 [Composio](https://mcp.composio.dev/)
 Instantly Connect to 100+ Managed MCP Servers with Built-In Auth
 
+[MCPServers](https://mcpservers.org/)
+A collection of servers for the Model Context Protocol.
 
 
 ## Search Engines
