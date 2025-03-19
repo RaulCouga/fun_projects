@@ -217,6 +217,8 @@ Develop, deploy, and monitor AI faster with more confidence, while extracting ac
 [OpenRouter](https://openrouter.ai/)
 A unified interface for LLMs
 
+[RouteLLM](
+
 
 
 ## Rerankers / Embeddings
@@ -367,6 +369,9 @@ Build react apps 10x faster
 
 [BindAI](https://app.getbind.co/)
 Create full stack web applications with simple prompts with IDE
+
+[Same New]{https://same.new/}
+Copy any UI
 
 
 
@@ -544,6 +549,16 @@ Mistral OCR is an Optical Character Recognition API that sets a new standard in 
 
 [ColPali](https://huggingface.co/blog/manu/colpali)
 Using Vision LLMs + late interaction to improve document retrieval (RAG, search engines, etc.), solely using the image representation of document pages
+
+[SmolDocling](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+SmolDocling is a multimodal Image-Text-to-Text model designed for efficient document conversion. It retains Docling's most popular features while ensuring full compatibility with Docling through seamless support for DoclingDocuments.
+
+[Emoji Translate](https://emojitranslate.com/)
+Translates emojis to various languages
+
+[Emoji Fying LLMs](https://generativeai.pub/emoji-fying-llms-visualizing-ais-text-understanding-e2cee4957c5a)
+Emoji-fying LLMs: Visualizing AI’s Text Understanding
+
 
 
 
