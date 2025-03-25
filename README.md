@@ -370,8 +370,15 @@ Build react apps 10x faster
 [BindAI](https://app.getbind.co/)
 Create full stack web applications with simple prompts with IDE
 
-[Same New]{https://same.new/}
+[Same New](https://same.new/)
 Copy any UI
+
+[Anima](https://www.animaapp.com/)
+Turn your design into a live web app
+
+[Builder](https://www.builder.io/)
+Take Ideas to Production in Seconds, Not Sprints
+
 
 
 
