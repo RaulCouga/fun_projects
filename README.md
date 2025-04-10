@@ -18,14 +18,26 @@ Code smarter with AI—no more messy copy-pasting. Let Repo Prompt structure you
 
 
 ## Agentic frameworks
-[Microsoft.TinyTroupe](https://github.com/microsoft/TinyTroupe)
-LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+[AI Stuite](https://github.com/andrewyng/aisuite)
+aisuite makes it easy for developers to use multiple LLM through a standardized interface. Using an interface similar to OpenAI's, aisuite makes it easy to interact with the most popular LLMs and compare the results. It is a thin wrapper around python client libraries, and allows creators to seamlessly swap out and test responses from different LLM providers without changing their code. Today, the library is primarily focussed on chat completions. We will expand it cover more use cases in near future.
+
+[AutoGen](https://microsoft.github.io/autogen/stable/)
+A programming framework for building conversational single and multi-agent applications. Built on Core. Requires Python 3.10+.
+
+[Agency Swarm](https://vrsen.github.io/agency-swarm/)
+we aim to simplify the agent creation process and enable anyone to create collaborative swarm of agents (Agencies), each with distinct roles and capabilities
+
+[CrewAI-Studio](https://github.com/strnad/CrewAI-Studio)
+Welcome to CrewAI Studio! This application provides a user-friendly interface written in Streamlit for interacting with CrewAI, suitable even for those who don't want to write any code. Follow the steps below to install and run the application on Windows or Linux (probably also MacOS) using either Conda or a virtual environment.
 
 [Dynamiq](https://dynamiq-ai.github.io/dynamiq/)
 Dynamiq is your all-in-one Gen AI framework, designed to streamline the development of AI-powered applications. Dynamiq specialises in orchestrating retrieval-augmented generation (RAG) and large language model (LLM) agents.
 
-[Agency Swarm](https://vrsen.github.io/agency-swarm/)
-we aim to simplify the agent creation process and enable anyone to create collaborative swarm of agents (Agencies), each with distinct roles and capabilities
+[Microsoft.TinyTroupe](https://github.com/microsoft/TinyTroupe)
+LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+
+[OctoTools](https://github.com/octotools/octotools)
+A training-free, user-friendly, and easily extensible open-source agentic framework designed to tackle complex reasoning across diverse domains. OctoTools introduces standardized tool cards to encapsulate tool functionality, a planner for both high-level and low-level planning, and an executor to carry out tool usage.
 
 [Pydantic AI](https://ai.pydantic.dev/)
 PydanticAI is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
@@ -33,23 +45,14 @@ PydanticAI is a Python agent framework designed to make it less painful to build
 [PhiData](https://www.phidata.com/)
 Phidata is a framework for building multi-modal agents and workflows. Build agents with memory, knowledge, tools and reasoning. Build teams of agents that can work together to solve problems. Interact with your agents and workflows using a beautiful Agent UI.
 
+[Swarms](https://docs.swarms.world/en/latest/)
+Swarms aims to be the definitive and most reliable multi-agent LLM framework, offering developers the tools to automate business operations effortlessly. It provides a vast array of swarm architectures, seamless third-party integration, and unparalleled ease of use. With Swarms, developers can orchestrate intelligent, scalable agent ecosystems that can automate complex business processes.
+
 [Smolagents](https://huggingface.co/docs/smolagents/index)
 This library is the simplest framework out there to build powerful agents! By the way, wtf are “agents”? We provide our definition in this page, whe’re you’ll also find tips for when to use them or not (spoilers: you’ll often be better off without agents).
 
-[AI Stuite](https://github.com/andrewyng/aisuite)
-aisuite makes it easy for developers to use multiple LLM through a standardized interface. Using an interface similar to OpenAI's, aisuite makes it easy to interact with the most popular LLMs and compare the results. It is a thin wrapper around python client libraries, and allows creators to seamlessly swap out and test responses from different LLM providers without changing their code. Today, the library is primarily focussed on chat completions. We will expand it cover more use cases in near future.
-
-[CrewAI-Studio](https://github.com/strnad/CrewAI-Studio)
-Welcome to CrewAI Studio! This application provides a user-friendly interface written in Streamlit for interacting with CrewAI, suitable even for those who don't want to write any code. Follow the steps below to install and run the application on Windows or Linux (probably also MacOS) using either Conda or a virtual environment.
-
-[AutoGen](https://microsoft.github.io/autogen/stable/)
-A programming framework for building conversational single and multi-agent applications. Built on Core. Requires Python 3.10+.
-
-[OctoTools](https://github.com/octotools/octotools)
-A training-free, user-friendly, and easily extensible open-source agentic framework designed to tackle complex reasoning across diverse domains. OctoTools introduces standardized tool cards to encapsulate tool functionality, a planner for both high-level and low-level planning, and an executor to carry out tool usage.
-
-[Swarms](https://docs.swarms.world/en/latest/)
-Swarms aims to be the definitive and most reliable multi-agent LLM framework, offering developers the tools to automate business operations effortlessly. It provides a vast array of swarm architectures, seamless third-party integration, and unparalleled ease of use. With Swarms, developers can orchestrate intelligent, scalable agent ecosystems that can automate complex business processes.
+[Transformer Agents](https://huggingface.co/blog/agents)
+License to Call: Introducing Transformers Agents 2.0
 
 
 
@@ -60,21 +63,24 @@ A framework for real-life ML, AI, and data science. Open-source Metaflow makes i
 
 
 ## MLOps
-[ZenML](https://github.com/zenml-io)
-An open-source MLOps + LLMOps framework that seamlessly integrates existing infrastructure and tools
-
-[unify](https://unify.ai/)
-Build custom interfaces for: logging, evals, guardrails, labelling, tracing, agents, human-in-the-loop, hyperparam sweeps, and anything else you can think of ✨
-
-[Ear/y](https://www.startearly.ai/)
-Use EarlyAI in conjunction with your favorite AI code generation assistant to maximize the quality of your code while accelerating development speed.
-Your easy-to-use test engineering AI agent automates test code generation and proactively ensures that your code is kept free of bugs.
-
 [Comet](https://www.comet.com/site/)
 Comet provides an end-to-end model evaluation platform for AI developers,
 
 [CleanML](https://clear.ml/)
 The Infrastructure Platform For AI Builders. Maximize AI Potential at Enterprise Scale
+
+[Ear/y](https://www.startearly.ai/)
+Use EarlyAI in conjunction with your favorite AI code generation assistant to maximize the quality of your code while accelerating development speed.
+Your easy-to-use test engineering AI agent automates test code generation and proactively ensures that your code is kept free of bugs.
+
+[unify](https://unify.ai/)
+Build custom interfaces for: logging, evals, guardrails, labelling, tracing, agents, human-in-the-loop, hyperparam sweeps, and anything else you can think of ✨
+
+[Uptrain](https://uptrain.ai/)
+Full-stack LLMops platform for all your production needs from Evaluation to Experimentation to Improvement
+
+[ZenML](https://github.com/zenml-io)
+An open-source MLOps + LLMOps framework that seamlessly integrates existing infrastructure and tools
 
 
 
@@ -367,6 +373,12 @@ Sites beyond imagination, one prompt away.
 **[FirebaseStudiio](https://firebase.studio/)**
 The full  stack AI workspace
 
+[Figma](https://www.figma.com/)
+Think bigger. Build faster.
+
+[FlutterFlow](https://www.flutterflow.io/)
+Build Better. Launch Faster.
+
 [GroqLabs](https://appgen.groqlabs.com/)
 Build a micro-app
 
@@ -397,6 +409,12 @@ Design and iterate faster with AI. Get the production-ready code and ship faster
 [Pythagora](https://www.pythagora.ai/)
 Turn Ideas Into Launched Projects
 
+**[Play](https://createwithplay.com/)**
+The most powerful tool to design and ship your apps.
+
+[Relume](https://www.relume.io/)
+Websites design & build faster with AI
+
 [Replit](https://replit.com/)
 Turn your ideas into apps. What will you create? The possibilities are endless.
 
@@ -408,6 +426,8 @@ Copy any UI
 
 [Tempo](https://www.tempo.new/)
 Build react apps 10x faster
+
+[UXPilot](https://uxpilot.ai/)
 
 [V0](https://v0.dev/)
 What can I help you ship?
@@ -547,36 +567,42 @@ The AI Coding Agent. The most integrated, customizable, and intuitive coding age
 
 
 ## AI Automation / No Code
-[n8n](https://n8n.io/)
-Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
+[AgentSpace](https://cloud.google.com/products/agentspace?hl=en)
+The search and AI agent hub built for your work
+
+[Active Pieces](https://www.activepieces.com/)
+Automation software that's AI-first, no-code & open-source
 
 [Dify](https://dify.ai/)
 The Innovation Engine for GenAI Applications
 
-[TriggerDev](https://trigger.dev/)
-The open source background jobs platform. Write workflows in normal async code and we’ll handle the rest, from queues to elastic scaling. No timeouts, retries, observability, and zero infrastructure to manage.
+[Gumloop](https://www.gumloop.com/)
+Gumloop is a platform for automating complex work using AI via a no-code drag and drop interface. We want any person or business to be able to automate their work without needing to be AI experts or engineers.
 
 [Kestra](https://kestra.io/)
 Unified Orchestration Platform to Simplify Business-Critical Workflows and Govern them as Code and from the UI.
+
+[Langflow](https://www.langflow.org/)
+Langflow is a low-code tool for developers that makes it easier to build powerful AI agents and workflows that can use any API, model, or database.
+
+[MindStudio](https://www.mindstudio.ai/)
+Create AI solutions–simple, fast, hassle-
 
 [NocoCode](https://www.nocobase.com/)
 Extensibility-first open-source no-code platform.
 Total control, infinite extensibility, empower your team to swiftly adapt to changes and significantly reduce costs. Skip years of development and millions in investment - just deploy NocoBase in minutes.
 
-[Gumloop](https://www.gumloop.com/)
-Gumloop is a platform for automating complex work using AI via a no-code drag and drop interface. We want any person or business to be able to automate their work without needing to be AI experts or engineers.
-
-[Active Pieces](https://www.activepieces.com/)
-Automation software that's AI-first, no-code & open-source
-
-[MindStudio](https://www.mindstudio.ai/)
-Create AI solutions–simple, fast, hassle-
-
-[Langflow](https://www.langflow.org/)
-Langflow is a low-code tool for developers that makes it easier to build powerful AI agents and workflows that can use any API, model, or database.
+[n8n](https://n8n.io/)
+Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
 
 [Pydantic Run](https://pydantic.run/)
 A pydantic playgroud
+
+[Render](https://render.com/)
+Your fastest path to production
+
+[TriggerDev](https://trigger.dev/)
+The open source background jobs platform. Write workflows in normal async code and we’ll handle the rest, from queues to elastic scaling. No timeouts, retries, observability, and zero infrastructure to manage.
 
 
 
