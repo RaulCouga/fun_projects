@@ -337,6 +337,9 @@ Manage, curate, and label multimodal data such as image, video, audio, document,
 
 
 ## Web Assistants
+[FirebaseStudiio](https://firebase.studio/)
+The full  stack AI workspace
+
 [Bolt](https://bolt.new/)
 What do you want to build?
 
@@ -424,11 +427,17 @@ Synthesizing 8M+ open access papers. A project from Ai2 and Semantic Scholar. Ai
 
 
 ## Code Assistants
-[Replit](https://replit.com/)
-Turn your ideas into apps with AI.
+[Aider](https://aider.chat/)
+Aider lets you pair program with LLMs, to edit code in your local git repository. Start a new project or work with an existing code base. Aider works best with Claude 
+
+[Augment Code](https://www.augmentcode.com/)
+The first AI coding assistant built for professional software engineers and large codebases.
 
 [Bolt.diy](https://stackblitz-labs.github.io/bolt.diy/)
 This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
+
+[Copy Coder](https://copycoder.ai/)
+Built for the next generation of AI coders. Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
 
 [Codestral](https://mistral.ai/news/codestral/)
 Empowering developers and democratising coding with Mistral AI.
@@ -439,42 +448,65 @@ The AI editor for everyone
 [Continue](https://www.continue.dev/)
 The leading open-source AI code assistant. You can connect any models and any context to create custom autocomplete and chat experiences inside the IDE
 
-[LlamaCode](https://llamacoder.together.ai/)
-Together AI code assinstant using Llama and Deekpseek
-
-[Screenshot To Code](https://screenshottocode.com/)
-Convert any screenshot or design to clean code (with support for most frameworks)
-
-[Copy Coder](https://copycoder.ai/)
-Built for the next generation of AI coders. Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
-
-[Goose](https://goose.ai/)
-GooseAI makes deploying NLP services easier and more accessible for creative technologists building products on top of large language models. In short, GooseAI is a fully managed inference service delivered via API. With feature parity to other well known APIs, GooseAI delivers a plug-and-play solution for serving open source language models at the industry's best economics by simply changing 2 lines in your code.
-
-[Aider](https://aider.chat/)
-Aider lets you pair program with LLMs, to edit code in your local git repository. Start a new project or work with an existing code base. Aider works best with Claude 
-
-[Roo Code](https://github.com/RooVetGit/Roo-Code)
-Roo Code is an AI-powered autonomous coding agent that lives in your editor.
-
 [Cline](https://github.com/cline/cline)
 Meet Cline, an AI assistant that can use your CLI aNd Editor.
-
-[DeepClaude](https://deepclaude.com/)
-Harness the power of DeepSeek R1's reasoning and Claude's creativity and code generation capabilities with a unified API and chat interface.
-
-[Augment Code](https://www.augmentcode.com/)
-The first AI coding assistant built for professional software engineers and large codebases.
 
 [CodeLLM](https://codellm.abacus.ai/)
 A revolutionary new AI Code Editor that helps you 10x your developer productivity! Bundled with AI super assistant ChatLLM
 
+[Cody - Sourcegraph](https://sourcegraph.com/cody)
+The enterprise AI code assistant
+
 [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
+
+[DeepClaude](https://deepclaude.com/)
+Harness the power of DeepSeek R1's reasoning and Claude's creativity and code generation capabilities with a unified API and chat interface.
+
+[Gemini Code](https://codeassist.google/)
+Gemini Code Assist: AI coding assistance for any language
+
+[Goose](https://goose.ai/)
+GooseAI makes deploying NLP services easier and more accessible for creative technologists building products on top of large language models. In short, GooseAI is a fully managed inference service delivered via API. With feature parity to other well known APIs, GooseAI delivers a plug-and-play solution for serving open source language models at the industry's best economics by simply changing 2 lines in your code.
+
+[Junie](https://www.jetbrains.com/junie/)
+Delegate your tasks, focus on the results. Explore a new way of coding – with the coding agent by JetBrains
+
+[LlamaCode](https://llamacoder.together.ai/)
+Together AI code assinstant using Llama and Deekpseek
+
+[MarsCode](https://www.marscode.com/extension)
+Your Ai Assistant that understands you better
+
+[Qodo](https://www.qodo.ai/)
+Generate confidence, not just code.
+
+[Replit](https://replit.com/)
+Turn your ideas into apps with AI.
+
+[Roo Code](https://github.com/RooVetGit/Roo-Code)
+Roo Code is an AI-powered autonomous coding agent that lives in your editor.
+
+[Screenshot To Code](https://screenshottocode.com/)
+Convert any screenshot or design to clean code (with support for most frameworks)
+
+[Sweep](https://sweep.dev/)
+The AI coding assistant built for JetBrains IDEs
+
+[SuperMaven](https://supermaven.com/)
+The fastest copilot. Supermaven lets you write code 2x faster with AI.
+
+[Twinny](https://twinny.dev/)
+A Privacy-First AI Extension with Distributed Network Capabilities
 
 [Tabby](https://www.tabbyml.com/)
 Secure, flexible, and transparent AI coding
 
+[Tabmine](https://www.tabnine.com/)
+Any agent can write code. Ours earn your devs' trust.
+
+[ZenCoder](https://zencoder.ai/)
+The AI Coding Agent. The most integrated, customizable, and intuitive coding agent—Zencoder handles the routine so you can focus on the vision.
 
 
 
@@ -507,6 +539,10 @@ Create AI solutions–simple, fast, hassle-
 [Langflow](https://www.langflow.org/)
 Langflow is a low-code tool for developers that makes it easier to build powerful AI agents and workflows that can use any API, model, or database.
 
+[Pydantic Run](https://pydantic.run/)
+A pydantic playgroud
+
+
 
 
 ## IDE
@@ -522,8 +558,18 @@ Project IDX is an AI-assisted workspace for full-stack, multiplatform app develo
 [Windsurf](https://codeium.com/windsurf)
 The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
 
-[Pydantic Run](https://pydantic.run/)
-A pydantic playgroud
+[PearAI](https://trypear.ai/)
+The AI Code Editor For Your Next Project
+
+[Fleet](https://www.jetbrains.com/fleet/)
+https://www.jetbrains.com/fleet/
+
+[Zed](https://zed.dev/)
+The editor for what's next Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.
+
+[Theia](https://theia-ide.org/#theiaide)
+A modern and open IDE for cloud and desktop. The Theia IDE is based on the Theia platform.
+
 
 
 
