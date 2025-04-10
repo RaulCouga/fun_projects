@@ -379,6 +379,11 @@ Turn your design into a live web app
 [Builder](https://www.builder.io/)
 Take Ideas to Production in Seconds, Not Sprints
 
+[Dora](https://www.dora.run/ai)
+Sites beyond imagination, one prompt away.
+
+[Builder](https://www.builder.io/)
+Take Ideas to Production in Seconds, Not Sprints
 
 
 
@@ -466,6 +471,10 @@ A revolutionary new AI Code Editor that helps you 10x your developer productivit
 
 [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
+
+[Tabby](https://www.tabbyml.com/)
+Secure, flexible, and transparent AI coding
+
 
 
 
