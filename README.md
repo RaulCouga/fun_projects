@@ -337,70 +337,92 @@ Manage, curate, and label multimodal data such as image, video, audio, document,
 
 
 ## Web Assistants
-[FirebaseStudiio](https://firebase.studio/)
-The full  stack AI workspace
-
-[Bolt](https://bolt.new/)
-What do you want to build?
-
-[Lovable](https://lovable.dev/)
-Idea to app in seconds
-
-[V0](https://v0.dev/)
-What can I help you ship?
-
-[Cerebras Code](https://cerebrascoder.com/)
-Dream it. Code it. Instantly.
-
-[HeyBoss](https://www.heyboss.xyz/)
-World's 1st AI engineer for non-coders. Type your idea and AI will code your app, sites, and games in minutes, no coding required.
-
-[Sitebrew](https://www.sitebrew.ai/create)
-Generate a site and share it with the world, in seconds
-
-[create](https://www.create.xyz/)
-urn your words into sites, tools, apps and products - built with code. Add GPT-4o and 40+ integrations in an instant.
-
-[Mastra](https://mastra.ai/)
-From the team that brought you Gatsby: prototype and productionize AI features with a modern Javascript stack.
-
-[Polymet](https://www.polymet.ai/)
-Design and iterate faster with AI. Get the production-ready code and ship faster
-
-[Tempo](https://www.tempo.new/)
-Build react apps 10x faster
-
-[BindAI](https://app.getbind.co/)
-Create full stack web applications with simple prompts with IDE
-
-[Same New](https://same.new/)
-Copy any UI
-
 [Anima](https://www.animaapp.com/)
 Turn your design into a live web app
 
 [Builder](https://www.builder.io/)
 Take Ideas to Production in Seconds, Not Sprints
 
+[Bolt](https://bolt.new/)
+What do you want to build?
+
+[BindAI](https://app.getbind.co/)
+Create full stack web applications with simple prompts with IDE
+
+[Base44](https://base44.com/)
+Turn your ideas into products, in minutes.
+
+[Blackbox](https://www.blackbox.ai/builder)
+What do you want to build today?
+
+[Cerebras Code](https://cerebrascoder.com/)
+Dream it. Code it. Instantly.
+
+[create](https://www.create.xyz/)
+urn your words into sites, tools, apps and products - built with code. Add GPT-4o and 40+ integrations in an instant.
+
 [Dora](https://www.dora.run/ai)
 Sites beyond imagination, one prompt away.
 
-[Builder](https://www.builder.io/)
-Take Ideas to Production in Seconds, Not Sprints
+**[FirebaseStudiio](https://firebase.studio/)**
+The full  stack AI workspace
+
+[GroqLabs](https://appgen.groqlabs.com/)
+Build a micro-app
+
+[Gamma](https://gamma.app/)
+A new medium for presenting ideas. Powered by AI
+
+[HeyBoss](https://www.heyboss.xyz/)
+World's 1st AI engineer for non-coders. Type your idea and AI will code your app, sites, and games in minutes, no coding required
+
+[Hostinger](https://www.hostinger.com/horizons)
+Bring your idea to life in minutes
+
+[Lovable](https://lovable.dev/)
+Idea to app in seconds
+
+[MagicPatterns](https://www.magicpatterns.com/)
+Build prototypes, get user feedback, and make data-driven decisions. The AI prototyping platform for product teams.
+
+[Mastra](https://mastra.ai/)
+From the team that brought you Gatsby: prototype and productionize AI features with a modern Javascript stack.
+
+[Nutt](https://www.nut.new/)
+Get what you want. Write, test, and fix your app all from one prompt
+
+[Polymet](https://www.polymet.ai/)
+Design and iterate faster with AI. Get the production-ready code and ship faster
+
+[Pythagora](https://www.pythagora.ai/)
+Turn Ideas Into Launched Projects
+
+[Replit](https://replit.com/)
+Turn your ideas into apps. What will you create? The possibilities are endless.
+
+[Sitebrew](https://www.sitebrew.ai/create)
+Generate a site and share it with the world, in seconds
+
+[Same New](https://same.new/)
+Copy any UI
+
+[Tempo](https://www.tempo.new/)
+Build react apps 10x faster
+
+[V0](https://v0.dev/)
+What can I help you ship?
+
 
 
 
 ## Model Assistants
+[Ai2 Scholar](https://scholarqa.allen.ai/)
+Synthesizing 8M+ open access papers. A project from Ai2 and Semantic Scholar. Ai2 Scholar QA can make mistakes. Check source documents by following citations.
+
 [Deepseek](https://chat.deepseek.com/sign_in)
 Deepseek chat
 
-[Groq Labs](https://appgen.groqlabs.com/)
-Build a micro-app
-
-[Kimi](https://kimi.moonshot.cn/)
-
-[Scira](https://scira.app/)
-What do you want to explore?
+[Grok](https://grok.com/)
 
 [Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)
 Level up your coding skills. Get the help you need to build your projects and learn as you go.
@@ -411,18 +433,20 @@ Turn your idea into an app
 [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 Push Gemini to the limits of what Al can do using the Gemini API
 
-[Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
-Create a val using Townie, the Val Town bot
+[Kimi](https://kimi.moonshot.cn/)
 
-[Grok](https://grok.com/)
+[Mercury by Inception Labs](https://chat.inceptionlabs.ai/)
 
 [Proxy](https://convergence.ai/)
 Your AI assistant for your daily tasks
 
-[Mercury by Inception Labs](https://chat.inceptionlabs.ai/)
+[Scira](https://scira.app/)
+What do you want to explore?
 
-[Ai2 Scholar](https://scholarqa.allen.ai/)
-Synthesizing 8M+ open access papers. A project from Ai2 and Semantic Scholar. Ai2 Scholar QA can make mistakes. Check source documents by following citations.
+[Val Town](https://www.val.town/townie/8011cb54-26e0-40b2-b514-64864f3d5dfb)
+Create a val using Townie, the Val Town bot
+
+
 
 
 
@@ -460,8 +484,14 @@ The enterprise AI code assistant
 [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
 
+[Databutton](https://databutton.com/)
+Your vision. Your software. Built by AI.
+
 [DeepClaude](https://deepclaude.com/)
 Harness the power of DeepSeek R1's reasoning and Claude's creativity and code generation capabilities with a unified API and chat interface.
+
+[Devin](https://app.devin.ai/)
+Built to help ambitious engineering teams achieve more
 
 [Gemini Code](https://codeassist.google/)
 Gemini Code Assist: AI coding assistance for any language
@@ -477,6 +507,12 @@ Together AI code assinstant using Llama and Deekpseek
 
 [MarsCode](https://www.marscode.com/extension)
 Your Ai Assistant that understands you better
+
+[Openhands](https://www.all-hands.dev/)
+Open Source Agents for Developers
+
+**[Pieces](https://pieces.app/)**
+The first AI that remembers everything you work on
 
 [Qodo](https://www.qodo.ai/)
 Generate confidence, not just code.
@@ -546,29 +582,26 @@ A pydantic playgroud
 
 
 ## IDE
-[Trae](https://www.trae.ai/)
-Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
-
 [Cursor](https://www.cursor.com/)
 Built to make you extraordinarily productive, Cursor is the best way to code with AI.
-
-[Project IDX](https://idx.dev/)
-Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud. With support for a broad range of frameworks, languages, and services, alongside integrations with your favorite Google products, IDX streamlines your development workflow so you can build and ship apps across platforms with speed, ease, and quality.
-
-[Windsurf](https://codeium.com/windsurf)
-The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
-
-[PearAI](https://trypear.ai/)
-The AI Code Editor For Your Next Project
 
 [Fleet](https://www.jetbrains.com/fleet/)
 https://www.jetbrains.com/fleet/
 
-[Zed](https://zed.dev/)
-The editor for what's next Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.
+[PearAI](https://trypear.ai/)
+The AI Code Editor For Your Next Project
+
+[Trae](https://www.trae.ai/)
+Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
 
 [Theia](https://theia-ide.org/#theiaide)
 A modern and open IDE for cloud and desktop. The Theia IDE is based on the Theia platform.
+
+[Windsurf](https://codeium.com/windsurf)
+The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
+
+[Zed](https://zed.dev/)
+The editor for what's next Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.
 
 
 
