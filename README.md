@@ -6,6 +6,9 @@
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 The Markdown elements outlined in the original design document.
 
+[Markitdown](https://github.com/microsoft/markitdown)
+Python tool for converting files and office documents to Markdown.
+
 
 
 ## Prompt Engineering
@@ -30,6 +33,9 @@ we aim to simplify the agent creation process and enable anyone to create collab
 [CrewAI-Studio](https://github.com/strnad/CrewAI-Studio)
 Welcome to CrewAI Studio! This application provides a user-friendly interface written in Streamlit for interacting with CrewAI, suitable even for those who don't want to write any code. Follow the steps below to install and run the application on Windows or Linux (probably also MacOS) using either Conda or a virtual environment.
 
+[Composio](https://composio.dev/)
+Integration Platform for AI Agents & LLMs
+
 [Dynamiq](https://dynamiq-ai.github.io/dynamiq/)
 Dynamiq is your all-in-one Gen AI framework, designed to streamline the development of AI-powered applications. Dynamiq specialises in orchestrating retrieval-augmented generation (RAG) and large language model (LLM) agents.
 
@@ -40,9 +46,9 @@ LLM-powered multiagent persona simulation for imagination enhancement and busine
 A training-free, user-friendly, and easily extensible open-source agentic framework designed to tackle complex reasoning across diverse domains. OctoTools introduces standardized tool cards to encapsulate tool functionality, a planner for both high-level and low-level planning, and an executor to carry out tool usage.
 
 [Pydantic AI](https://ai.pydantic.dev/)
-PydanticAI is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
+Agno is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
 
-[PhiData](https://www.phidata.com/)
+[Agno]([https://www.phidata.com/](https://www.agno.com/))
 Phidata is a framework for building multi-modal agents and workflows. Build agents with memory, knowledge, tools and reasoning. Build teams of agents that can work together to solve problems. Interact with your agents and workflows using a beautiful Agent UI.
 
 [Swarms](https://docs.swarms.world/en/latest/)
@@ -183,6 +189,9 @@ Highest quality, fastest throughput small language models in your cloud
 [llmware](https://github.com/llmware-ai/llmware)
 provides a unified framework for building LLM-based applications (e.g., RAG, Agents), using small, specialized models that can be deployed privately, integrated with enterprise knowledge sources safely and securely, and cost-effectively tuned and adapted for any business process.
 
+[RAG-Zero-To-Hero](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)
+
+
 
 
 ## Guardrails
@@ -223,7 +232,8 @@ Develop, deploy, and monitor AI faster with more confidence, while extracting ac
 [OpenRouter](https://openrouter.ai/)
 A unified interface for LLMs
 
-[RouteLLM](
+[RouteLLM](https://github.com/lm-sys/RouteLLM)
+A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
 
 
 
@@ -370,6 +380,9 @@ urn your words into sites, tools, apps and products - built with code. Add GPT-4
 [Dora](https://www.dora.run/ai)
 Sites beyond imagination, one prompt away.
 
+[Deepsite](https://enzostvs-deepsite.hf.space/)
+DEEPSITE offers an End-to-end AI document processing automation solution (RPA) that captures data from any documents instantly, like supply chain documents ...
+
 **[FirebaseStudiio](https://firebase.studio/)**
 The full  stack AI workspace
 
@@ -411,6 +424,9 @@ Turn Ideas Into Launched Projects
 
 **[Play](https://createwithplay.com/)**
 The most powerful tool to design and ship your apps.
+
+[PixelFreeStudio](https://pixelfreestudio.com/index.html)
+Design to Code in one Click (Figma)
 
 [Relume](https://www.relume.io/)
 Websites design & build faster with AI
@@ -579,6 +595,9 @@ The Innovation Engine for GenAI Applications
 [Gumloop](https://www.gumloop.com/)
 Gumloop is a platform for automating complex work using AI via a no-code drag and drop interface. We want any person or business to be able to automate their work without needing to be AI experts or engineers.
 
+[Julep](https://julep.ai/)
+Deploy serverless AI workflows at scale
+
 [Kestra](https://kestra.io/)
 Unified Orchestration Platform to Simplify Business-Critical Workflows and Govern them as Code and from the UI.
 
@@ -736,6 +755,9 @@ We make it easy for developers to add code interpreting to AI apps with the E2B 
 [ForeverVM](https://forevervm.com/)
 Securely run AI-generated code in stateful sandboxes that run forever.
 
+[Fly](https://fly.io/)
+Give each of your users (or robots) a code execution sandbox that boots in milliseconds, runs any Docker image you throw at it, and scales to zero when you don't need it.
+
 
 
 ## Stores
@@ -744,3 +766,16 @@ LanceDB is a developer-friendly, open source database for AI. From hyper scalabl
 
 [Milvus](https://milvus.io/)
 The High-Performance. Vector Database Built for Scale
+
+## Tools
+[Bedrock Client for Mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac)
+A modern, native macOS client for Amazon Bedrock, providing streamlined access to AI models directly from your desktop.
+
+[AINativeLanscapde](https://landscape.ainativedev.io/)
+Your Guide to the AI Development Ecosystem
+
+[NCCF Landscape 2](https://github.com/cncf/landscape2)
+Landscape2 is a tool that generates interactive landscapes websites
+
+
+
