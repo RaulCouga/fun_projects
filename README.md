@@ -69,6 +69,8 @@ A framework for real-life ML, AI, and data science. Open-source Metaflow makes i
 
 
 ## MLOps
+[Agentic-DevOps](https://agentic-devops.fly.dev/)
+
 [Comet](https://www.comet.com/site/)
 Comet provides an end-to-end model evaluation platform for AI developers,
 
@@ -109,6 +111,15 @@ An extremely fast Python package and project manager, written in Rust.
 
 
 ## LLM Memory / caching
+[A-Mem](https://github.com/agiresearch/A-mem)
+A novel agentic memory system for LLM agents that can dynamically organize memories in an agentic way.
+
+[LMCache](https://github.com/LMCache/LMCache)
+LMCache is a LLM serving engine extension to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations including (GPU, CPU DRAM, Local Disk), LMCache reuse the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces response delay for users.
+
+[LangMem](https://langchain-ai.github.io/langmem/)
+LangMem helps agents learn and adapt from their interactions over time.
+
 [Letta](https://github.com/letta-ai/letta?tab=readme-ov-file)
 Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 
@@ -121,18 +132,11 @@ Agents promote human-type reasoning and are a great advancement towards building
 [MemoRAG](https://github.com/qhjqhj00/MemoRAG)
 MemoRAG is an innovative RAG framework built on top of a highly efficient, super-long memory model. Unlike standard RAG, which primarily handles queries with explicit information needs, MemoRAG leverages its memory model to achieve a global understanding of the entire database. By recalling query-specific clues from memory, MemoRAG enhances evidence retrieval, resulting in more accurate and contextually rich response generation.​
 
-[LMCache](https://github.com/LMCache/LMCache)
-LMCache is a LLM serving engine extension to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations including (GPU, CPU DRAM, Local Disk), LMCache reuse the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces response delay for users.
-
-[LangMem](https://langchain-ai.github.io/langmem/)
-LangMem helps agents learn and adapt from their interactions over time.
+[Valkey](https://valkey.io/)
+Valkey: an open source, in-memory data store
 
 [Zep](https://github.com/getzep/zep)
 The Memory Foundation For Your AI Stack
-
-[A-Mem](https://github.com/agiresearch/A-mem)
-A novel agentic memory system for LLM agents that can dynamically organize memories in an agentic way.
-
 
 
 
@@ -144,14 +148,17 @@ Burr works well for any application that uses LLMs, and can integrate with any o
 
 
 ## LLM inference / Serving Engines
+[Cerebras](https://cerebras.ai/)
+Cerebras Inference Llama 3.3 70B runs at 2,200 tokens/s and Llama 3.1 405B at 969 tokens/s – over 70x faster than GPU clouds. Get instant responses to code-gen, summarization, and agentic tasks.
+
+[Groq](https://groq.com/)
+We provide fast AI inference in the cloud and in on-prem AI compute centers. We power the speed of iteration, fueling a new wave of innovation, productivity, and discovery. Groq was founded in 2016 to build technology to advance AI because we saw this moment coming. 
+
 [Guidance](https://github.com/guidance-ai/guidance)
 Guidance is an efficient programming paradigm for steering language models. With Guidance, you can control how output is structured and get high-quality output for your use case—while reducing latency and cost vs. conventional prompting or fine-tuning. It allows users to constrain generation (e.g. with regex and CFGs) as well as to interleave control (conditionals, loops, tool use) and generation seamlessly.
 
-[Ollama](https://ollama.com/)
-Get up and running with large language models.
-
-[vLLM](https://docs.vllm.ai/en/latest/)
-vLLM is a fast and easy-to-use library for LLM inference and serving.
+[Inception Labs])https://www.inceptionlabs.ai/)
+Inception’s diffusion-based approach to language generation is inspired by advanced AI systems for images and video like Midjourney and Sora and provides unprecedented speed, quality, and generative control.
 
 [LM Studio](https://lmstudio.ai/)
 Discover. download, and run local LLMs
@@ -165,14 +172,11 @@ The main goal of llama.cpp is to enable LLM inference with minimal setup and sta
 [LitServe](https://github.com/Lightning-AI/LitServe?tab=readme-ov-file#performance)
 LitServe is an easy-to-use, flexible serving engine for AI models built on FastAPI. It augments FastAPI with features like batching, streaming, and GPU autoscaling eliminate the need to rebuild a FastAPI server per model.
 
-[Inception Labs])https://www.inceptionlabs.ai/)
-Inception’s diffusion-based approach to language generation is inspired by advanced AI systems for images and video like Midjourney and Sora and provides unprecedented speed, quality, and generative control.
+[Ollama](https://ollama.com/)
+Get up and running with large language models.
 
-[Groq](https://groq.com/)
-We provide fast AI inference in the cloud and in on-prem AI compute centers. We power the speed of iteration, fueling a new wave of innovation, productivity, and discovery. Groq was founded in 2016 to build technology to advance AI because we saw this moment coming. 
-
-[Cerebras](https://cerebras.ai/)
-Cerebras Inference Llama 3.3 70B runs at 2,200 tokens/s and Llama 3.1 405B at 969 tokens/s – over 70x faster than GPU clouds. Get instant responses to code-gen, summarization, and agentic tasks.
+[Predibase](https://predibase.com/)
+Highest quality, fastest throughput small language models in your cloud
 
 [Sambanova](https://sambanova.ai/)
 We’ve built an enterprise-ready AI platform from the ground up – intentionally designed for the most valuable and complex AI workloads of today and tomorrow. Using our platform to build a technology backbone for the next decade of AI innovation, organizations get pre-trained foundation models that truly transform the way they gain value from AI and deep learning. And, with our flagship offering, SambaNova Suite, we help them realize value 22x faster.
@@ -180,8 +184,12 @@ We’ve built an enterprise-ready AI platform from the ground up – intentional
 [Together AI](https://www.together.ai/)
 Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
 
-[Predibase](https://predibase.com/)
-Highest quality, fastest throughput small language models in your cloud
+[vLLM](https://docs.vllm.ai/en/latest/)
+vLLM is a fast and easy-to-use library for LLM inference and serving.
+
+[WebLLM](https://webllm.mlc.ai/)
+WebLLM: High-Performance In-Browser LLM Inference Engine
+
 
 
 
@@ -371,6 +379,9 @@ Turn your ideas into products, in minutes.
 [Blackbox](https://www.blackbox.ai/builder)
 What do you want to build today?
 
+[BuildWithAI](https://www.buildwithai.io/)
+
+
 [Cerebras Code](https://cerebrascoder.com/)
 Dream it. Code it. Instantly.
 
@@ -427,6 +438,9 @@ The most powerful tool to design and ship your apps.
 
 [PixelFreeStudio](https://pixelfreestudio.com/index.html)
 Design to Code in one Click (Figma)
+
+[Readdy](https://readdy.ai/)
+Websites that Stand Out Built and Published in Minutes
 
 [Relume](https://www.relume.io/)
 Websites design & build faster with AI
@@ -703,14 +717,23 @@ Emoji-fying LLMs: Visualizing AI’s Text Understanding
 
 
 ## Agents
-[TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
-A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
-
 [Agno](https://www.agno.com/)
 An open-source platform to build, ship and monitor agentic systems
 
+[DeepWisdom](https://www.deepwisdom.ai/)
+Providing the First Al Software Company
+
 [Manus](https://manus.im/)
 Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
+
+[mastra](https://mastra.ai/)
+The TypeScript Agent Framework
+
+[NVidia Agent IQ](https://developer.nvidia.com/agent-intelligence-toolkit)
+NVIDIA Agent Intelligence toolkit is an open-source library for connecting, evaluating, and accelerating teams of AI agents. The Agent Intelligence toolkit simplifies development while optimizing and increasing the accuracy of full-stack, complex agentic AI systems.
+
+[TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
+A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
 
 
 
@@ -726,11 +749,14 @@ We make websites accessible for AI agents by extracting all interactive elements
 
 
 ## Image generation
+[Diagramming AI](https://diagrammingai.com/)
+Instantly Shape Your Ideas into Clear, Powerful Diagrams
+
 [Recraft](https://www.recraft.ai/)
 Vector Premium image generation and editing tool
 
-[Diagramming AI](https://diagrammingai.com/)
-Instantly Shape Your Ideas into Clear, Powerful Diagrams
+[Savant](https://github.com/insight-platform/Savant/)
+Python Computer Vision & Video Analytics Framework With Batteries Included
 
 
 
@@ -748,8 +774,9 @@ In this studio we're building a corrective RAG (CRAG) agentic workflow. It's pow
 Open Source LLM Engineering Platform. Traces, evals, prompt management and metrics to debug and improve your LLM application.
 
 
+
 ## Sandboxes
-[E2B](https://github.com/e2b-dev)
+[E2B](https://e2b-dev)
 We make it easy for developers to add code interpreting to AI apps with the E2B SDK
 
 [ForeverVM](https://forevervm.com/)
@@ -767,6 +794,8 @@ LanceDB is a developer-friendly, open source database for AI. From hyper scalabl
 [Milvus](https://milvus.io/)
 The High-Performance. Vector Database Built for Scale
 
+
+
 ## Tools
 [Bedrock Client for Mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac)
 A modern, native macOS client for Amazon Bedrock, providing streamlined access to AI models directly from your desktop.
@@ -776,6 +805,3 @@ Your Guide to the AI Development Ecosystem
 
 [NCCF Landscape 2](https://github.com/cncf/landscape2)
 Landscape2 is a tool that generates interactive landscapes websites
-
-
-
