@@ -513,6 +513,9 @@ This fork of Bolt.new (oTToDev) allows you to choose the LLM that you use for ea
 [Copy Coder](https://copycoder.ai/)
 Built for the next generation of AI coders. Upload images of full applications, UI mockups, or custom designs and use our generated prompts to build your apps faster.
 
+[Codex](https://github.com/openai/codex)
+OpenAi Lightweight coding agent that runs in your terminal
+
 [Codestral](https://mistral.ai/news/codestral/)
 Empowering developers and democratising coding with Mistral AI.
 
