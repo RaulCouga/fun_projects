@@ -797,6 +797,9 @@ LanceDB is a developer-friendly, open source database for AI. From hyper scalabl
 [Milvus](https://milvus.io/)
 The High-Performance. Vector Database Built for Scale
 
+[Feast](https://feast.dev/)
+Feast is an open source feature store that delivers structured data to AI and LLM applications at high scale during training and inference.
+
 
 
 ## Tools
