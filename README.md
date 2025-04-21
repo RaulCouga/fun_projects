@@ -288,7 +288,11 @@ Find MCP servers and improve your workflow with AI
 [Smithery](https://smithery.ai/)
 Extend your agent with 2,232 capabilities via Model Context Protocol servers.
 
+[Context7](https://context7.com/)
+Context7 pulls up-to-date, version-specific documentation and code examples directly from the source. Paste accurate, relevant documentation directly into tools like Cursor, Claude, or any LLM. Get better answers, no hallucinations and an AI that actually understands your stack.
 
+[TaskMaster](https://www.taskmaster.one/)
+Upload any document, audio, or video and let TaskMaster organize, summarize, and transform them into useful insights.
 
 
 ## Search Engines
