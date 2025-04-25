@@ -21,6 +21,9 @@ Code smarter with AI—no more messy copy-pasting. Let Repo Prompt structure you
 
 
 ## Agentic frameworks
+[Agntcy](https://agntcy.org/)
+An open source collective for inter-agent collaboration. The AGNTCY is where we are building the Internet of Agents to be: A diverse, collaborative space to innovate, develop, and maintain software components and services for agentic workflows and multi-agent software.
+
 [AI Stuite](https://github.com/andrewyng/aisuite)
 aisuite makes it easy for developers to use multiple LLM through a standardized interface. Using an interface similar to OpenAI's, aisuite makes it easy to interact with the most popular LLMs and compare the results. It is a thin wrapper around python client libraries, and allows creators to seamlessly swap out and test responses from different LLM providers without changing their code. Today, the library is primarily focussed on chat completions. We will expand it cover more use cases in near future.
 
@@ -206,6 +209,9 @@ WebLLM: High-Performance In-Browser LLM Inference Engine
 
 
 ## RAG frameworks
+[LightRAG](https://github.com/HKUDS/LightRAG)
+LightRAG: Simple and Fast Retrieval-Augmented Generation
+
 [llmware](https://github.com/llmware-ai/llmware)
 provides a unified framework for building LLM-based applications (e.g., RAG, Agents), using small, specialized models that can be deployed privately, integrated with enterprise knowledge sources safely and securely, and cost-effectively tuned and adapted for any business process.
 
@@ -717,6 +723,9 @@ Generalist and Lightweight Model for Named Entity Recognition (Extract any entit
 
 
 ## Multimodal libraries/models
+[Docling](https://docling-project.github.io/docling/)
+Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem.
+
 [FastRTC](https://huggingface.co/blog/fastrtc)
 FastRTC: The Real-Time Communication Library for Python
 
@@ -797,20 +806,27 @@ Vector Premium image generation and editing tool
 Python Computer Vision & Video Analytics Framework With Batteries Included
 
 
+## Sound
+[Dia](https://github.com/nari-labs/dia)
+A TTS model capable of generating ultra-realistic dialogue in one pass.
+
+
 
 ## Evaluators
-[Phoenix](https://docs.arize.com/phoenix)
-Phoenix is an open-source observability library designed for experimentation, evaluation, and troubleshooting. It allows AI Engineers and Data Scientists to quickly visualize their data, evaluate performance, track down issues, and export data to improve.
+[Corrective RAG](https://lightning.ai/akshay-ddods/studios/build-a-corrective-rag-agentic-workflow-using-deepseek-r1?utm_campaign=akshay&utm_medium=linkedin)
+In this studio we're building a corrective RAG (CRAG) agentic workflow. It's powered by a locally running DeepSeek-R1 and has ability to search through your docs, evaluate the context quality and fallback to web search if it needs more info.
 
 [Deepval](https://docs.confident-ai.com/)
 The open-source LLM evaluation framework
 
-[Corrective RAG](https://lightning.ai/akshay-ddods/studios/build-a-corrective-rag-agentic-workflow-using-deepseek-r1?utm_campaign=akshay&utm_medium=linkedin)
-In this studio we're building a corrective RAG (CRAG) agentic workflow. It's powered by a locally running DeepSeek-R1 and has ability to search through your docs, evaluate the context quality and fallback to web search if it needs more info.
-
 ***[LangFuse](https://langfuse.com/)***
 Open Source LLM Engineering Platform. Traces, evals, prompt management and metrics to debug and improve your LLM application.
 
+***[Pydantic Evals](https://ai.pydantic.dev/evals/)***
+Pydantic Evals is a powerful evaluation framework designed to help you systematically test and evaluate the performance and accuracy of the systems you build, especially when working with LLMs.
+
+[Phoenix](https://docs.arize.com/phoenix)
+Phoenix is an open-source observability library designed for experimentation, evaluation, and troubleshooting. It allows AI Engineers and Data Scientists to quickly visualize their data, evaluate performance, track down issues, and export data to improve.
 
 
 ## Sandboxes
@@ -850,6 +866,10 @@ Turns Codebase into Easy Tutorial with AI
 [NCCF Landscape 2](https://github.com/cncf/landscape2)
 Landscape2 is a tool that generates interactive landscapes websites
 
+[Stores tools](https://stores-tools.vercel.app/)
+A public repository of tools for LLM agents
+
+
 
 ## Cursor / Cline Resources
 ***[Cursor Directory](https://cursor.directory/)***
@@ -859,3 +879,8 @@ The home for Cursor enthusiasts where you can explore and generate rules, browse
 
 ***[Cursor Memory Bank](https://github.com/vanzan01/cursor-memory-bank)***
 A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual process maps.
+
+***{System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)***
+FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+
+
