@@ -45,6 +45,9 @@ LLM-powered multiagent persona simulation for imagination enhancement and busine
 [OctoTools](https://github.com/octotools/octotools)
 A training-free, user-friendly, and easily extensible open-source agentic framework designed to tackle complex reasoning across diverse domains. OctoTools introduces standardized tool cards to encapsulate tool functionality, a planner for both high-level and low-level planning, and an executor to carry out tool usage.
 
+[The Pocket Flow](https://github.com/The-Pocket/PocketFlow)
+where multiple AI components work together to solve complex tasks—are crucial for enterprise automation.
+
 [Pydantic AI](https://ai.pydantic.dev/)
 Agno is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
 
@@ -93,19 +96,28 @@ An open-source MLOps + LLMOps framework that seamlessly integrates existing infr
 
 
 ## Ops
+[ChatPRD](https://app.chatprd.ai/chat)
+Build PRD
+
+[Dart](https://www.itsdart.com/)
+Dart stands out from other AI tools for project management with its intuitive design, powerful AI-driven features, and robust integration capabilities. 
+
+[Git Actions Act](https://github.com/nektos/act)
+Run your GitHub Actions locally 
+
 [Icecream](https://github.com/gruns/icecream)
 Never use print() to debug again
 
 [Pytest](https://docs.pytest.org/en/stable/)
 The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
 
-[ruff](https://docs.astral.sh/ruff/)
+***[ruff](https://docs.astral.sh/ruff/)***
 An extremely fast Python linter and code formatter, written in Rust.
 
 [PyRight](https://microsoft.github.io/pyright/#/)
 Pyright is a full-featured, standards-compliant static type checker for Python. It is designed for high performance and can be used with large Python source bases.
 
-[UV](https://github.com/astral-sh/uv)
+***[UV](https://github.com/astral-sh/uv)***
 An extremely fast Python package and project manager, written in Rust.
 
 
@@ -120,7 +132,7 @@ LMCache is a LLM serving engine extension to reduce TTFT and increase throughput
 [LangMem](https://langchain-ai.github.io/langmem/)
 LangMem helps agents learn and adapt from their interactions over time.
 
-[Letta](https://github.com/letta-ai/letta?tab=readme-ov-file)
+***[Letta](https://github.com/letta-ai/letta?tab=readme-ov-file)***
 Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 
 [mem0](https://github.com/mem0ai/mem0)
@@ -252,7 +264,7 @@ A lightweight unified API for various reranking models.
 [Voyage Ai](https://www.voyageai.com/)
 Supercharging Search and Retrieval for Unstructured Data
 
-[Cohere](https://cohere.com/)
+***[Cohere](https://cohere.com/)***
 The all-in-one platform for private and secure AI
 
 [Bert](https://www.sbert.net/)
@@ -264,7 +276,7 @@ A user-friendly library for training and experimenting with ColBERT models, a fa
 
 
 ## Documentation
-[mkdocs](https://github.com/squidfunk/mkdocs-material)
+****[mkdocs](https://github.com/squidfunk/mkdocs-material)***
 Write your documentation in Markdown and create a professional static site for your Open Source or commercial project in minutes – searchable, customizable, more than 60 languages, for all devices.
 
 
@@ -276,6 +288,15 @@ A collection of reference implementations and community-contributed servers for 
 [Composio](https://mcp.composio.dev/)
 Instantly Connect to 100+ Managed MCP Servers with Built-In Auth
 
+***[Context7](https://context7.com/)***
+Context7 pulls up-to-date, version-specific documentation and code examples directly from the source. Paste accurate, relevant documentation directly into tools like Cursor, Claude, or any LLM. Get better answers, no hallucinations and an AI that actually understands your stack.
+
+[Dart MCP](https://github.com/its-dart/dart-mcp-server)
+Dart AI Model Context Protocol (MCP) server
+
+[fastapimcp](https://github.com/tadata-org/fastapi_mcp)
+Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+
 [MCPServers](https://mcpservers.org/)
 A collection of servers for the Model Context Protocol.
 
@@ -285,13 +306,10 @@ Find Awesome MCP Servers and Clients
 [MCP Server Finder](https://www.mcpserverfinder.com/)
 Find MCP servers and improve your workflow with AI
 
-[Smithery](https://smithery.ai/)
+***[Smithery](https://smithery.ai/)***
 Extend your agent with 2,232 capabilities via Model Context Protocol servers.
 
-[Context7](https://context7.com/)
-Context7 pulls up-to-date, version-specific documentation and code examples directly from the source. Paste accurate, relevant documentation directly into tools like Cursor, Claude, or any LLM. Get better answers, no hallucinations and an AI that actually understands your stack.
-
-[TaskMaster](https://www.taskmaster.one/)
+***[TaskMaster](https://www.taskmaster.one/)***
 Upload any document, audio, or video and let TaskMaster organize, summarize, and transform them into useful insights.
 
 
@@ -332,7 +350,7 @@ A fast and lightweight pure Python library for splitting text into semantically 
 
 
 ## Data Validation & Structure Output
-[Pydantic](https://docs.pydantic.dev/latest/)
+***[Pydantic](https://docs.pydantic.dev/latest/)***
 Data validation using Python type hints.
 
 [Instructor](https://python.useinstructor.com/)
@@ -368,7 +386,7 @@ Manage, curate, and label multimodal data such as image, video, audio, document,
 [Anima](https://www.animaapp.com/)
 Turn your design into a live web app
 
-[Builder](https://www.builder.io/)
+***[Builder](https://www.builder.io/)***
 Take Ideas to Production in Seconds, Not Sprints
 
 [Bolt](https://bolt.new/)
@@ -401,7 +419,7 @@ DEEPSITE offers an End-to-end AI document processing automation solution (RPA) t
 **[FirebaseStudiio](https://firebase.studio/)**
 The full  stack AI workspace
 
-[Figma](https://www.figma.com/)
+***[Figma](https://www.figma.com/)***
 Think bigger. Build faster.
 
 [FlutterFlow](https://www.flutterflow.io/)
@@ -419,14 +437,17 @@ World's 1st AI engineer for non-coders. Type your idea and AI will code your app
 [Hostinger](https://www.hostinger.com/horizons)
 Bring your idea to life in minutes
 
-[Lovable](https://lovable.dev/)
+***[Lovable](https://lovable.dev/)***
 Idea to app in seconds
 
 [MagicPatterns](https://www.magicpatterns.com/)
 Build prototypes, get user feedback, and make data-driven decisions. The AI prototyping platform for product teams.
 
 [Mastra](https://mastra.ai/)
-From the team that brought you Gatsby: prototype and productionize AI features with a modern Javascript stack.
+From the team that brought you Gatsby: prototype and productionize AI features with a modern Javascript stack
+
+[MGX](https://mgx.dev/)
+Dream, Chat, Create
 
 [Nutt](https://www.nut.new/)
 Get what you want. Write, test, and fix your app all from one prompt
@@ -458,10 +479,10 @@ Generate a site and share it with the world, in seconds
 [Same New](https://same.new/)
 Copy any UI
 
-[Tempo](https://www.tempo.new/)
+***[Tempo](https://www.tempo.new/)***
 Build react apps 10x faster
 
-[UXPilot](https://uxpilot.ai/)
+***[UXPilot](https://uxpilot.ai/)***
 
 [V0](https://v0.dev/)
 What can I help you ship?
@@ -478,13 +499,13 @@ Deepseek chat
 
 [Grok](https://grok.com/)
 
-[Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)
+***[Gemini Coding Partner](https://gemini.google.com/gem/coding-partner)***
 Level up your coding skills. Get the help you need to build your projects and learn as you go.
 
 [Gemini Coder](https://huggingface.co/spaces/osanseviero/gemini-coder)
 Turn your idea into an app
 
-[Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+***[Google AI Studio](https://aistudio.google.com/prompts/new_chat)***
 Push Gemini to the limits of what Al can do using the Gemini API
 
 [Kimi](https://kimi.moonshot.cn/)
@@ -508,7 +529,7 @@ Create a val using Townie, the Val Town bot
 [Aider](https://aider.chat/)
 Aider lets you pair program with LLMs, to edit code in your local git repository. Start a new project or work with an existing code base. Aider works best with Claude 
 
-[Augment Code](https://www.augmentcode.com/)
+***[Augment Code](https://www.augmentcode.com/)***
 The first AI coding assistant built for professional software engineers and large codebases.
 
 [Bolt.diy](https://stackblitz-labs.github.io/bolt.diy/)
@@ -529,7 +550,7 @@ The AI editor for everyone
 [Continue](https://www.continue.dev/)
 The leading open-source AI code assistant. You can connect any models and any context to create custom autocomplete and chat experiences inside the IDE
 
-[Cline](https://github.com/cline/cline)
+***[Cline](https://github.com/cline/cline)***
 Meet Cline, an AI assistant that can use your CLI aNd Editor.
 
 [CodeLLM](https://codellm.abacus.ai/)
@@ -568,7 +589,7 @@ Your Ai Assistant that understands you better
 [Openhands](https://www.all-hands.dev/)
 Open Source Agents for Developers
 
-**[Pieces](https://pieces.app/)**
+***[Pieces](https://pieces.app/)***
 The first AI that remembers everything you work on
 
 [Qodo](https://www.qodo.ai/)
@@ -577,7 +598,7 @@ Generate confidence, not just code.
 [Replit](https://replit.com/)
 Turn your ideas into apps with AI.
 
-[Roo Code](https://github.com/RooVetGit/Roo-Code)
+***[Roo Code](https://github.com/RooVetGit/Roo-Code)***
 Roo Code is an AI-powered autonomous coding agent that lives in your editor.
 
 [Screenshot To Code](https://screenshottocode.com/)
@@ -616,6 +637,9 @@ The Innovation Engine for GenAI Applications
 [Gumloop](https://www.gumloop.com/)
 Gumloop is a platform for automating complex work using AI via a no-code drag and drop interface. We want any person or business to be able to automate their work without needing to be AI experts or engineers.
 
+***[Guse](https://www.guse.io/)***
+Prompt to automation in seconds. What can Guse automate for you today?
+
 [Julep](https://julep.ai/)
 Deploy serverless AI workflows at scale
 
@@ -644,11 +668,14 @@ Your fastest path to production
 [TriggerDev](https://trigger.dev/)
 The open source background jobs platform. Write workflows in normal async code and we’ll handle the rest, from queues to elastic scaling. No timeouts, retries, observability, and zero infrastructure to manage.
 
+***[WorkflowAI](https://workflowai.com/)***
+WorkflowAI is an open-source platform where product and engineering teams collaborate to build and iterate on AI features.
+
 
 
 
 ## IDE
-[Cursor](https://www.cursor.com/)
+***[Cursor](https://www.cursor.com/)***
 Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 
 [Fleet](https://www.jetbrains.com/fleet/)
@@ -724,6 +751,10 @@ Emoji-fying LLMs: Visualizing AI’s Text Understanding
 
 
 ## Agents
+[Agent Tars](https://agent-tars.com/)
+An open-source multimodal AI agent
+Offering seamless integration with a wide range of real-world tools.
+
 [Agno](https://www.agno.com/)
 An open-source platform to build, ship and monitor agentic systems
 
@@ -777,7 +808,7 @@ The open-source LLM evaluation framework
 [Corrective RAG](https://lightning.ai/akshay-ddods/studios/build-a-corrective-rag-agentic-workflow-using-deepseek-r1?utm_campaign=akshay&utm_medium=linkedin)
 In this studio we're building a corrective RAG (CRAG) agentic workflow. It's powered by a locally running DeepSeek-R1 and has ability to search through your docs, evaluate the context quality and fallback to web search if it needs more info.
 
-[LangFuse](https://langfuse.com/)
+***[LangFuse](https://langfuse.com/)***
 Open Source LLM Engineering Platform. Traces, evals, prompt management and metrics to debug and improve your LLM application.
 
 
@@ -807,11 +838,24 @@ Feast is an open source feature store that delivers structured data to AI and LL
 
 
 ## Tools
-[Bedrock Client for Mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac)
-A modern, native macOS client for Amazon Bedrock, providing streamlined access to AI models directly from your desktop.
-
 [AINativeLanscapde](https://landscape.ainativedev.io/)
 Your Guide to the AI Development Ecosystem
 
+[Bedrock Client for Mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac)
+A modern, native macOS client for Amazon Bedrock, providing streamlined access to AI models directly from your desktop.
+
+***[CodebaseKnowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge?tab=readme-ov-file)***
+Turns Codebase into Easy Tutorial with AI
+
 [NCCF Landscape 2](https://github.com/cncf/landscape2)
 Landscape2 is a tool that generates interactive landscapes websites
+
+
+## Cursor / Cline Resources
+***[Cursor Directory](https://cursor.directory/)***
+The home for Cursor enthusiasts where you can explore and generate rules, browse MCPs, post and follow the latest news on the board, learn, connect, and discover jobs all in one place.
+
+***[Cline Memory Bank](https://docs.cline.bot/improving-your-prompting-skills/cline-memory-bank)***
+
+***[Cursor Memory Bank](https://github.com/vanzan01/cursor-memory-bank)***
+A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual process maps.
