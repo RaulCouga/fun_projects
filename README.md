@@ -318,6 +318,9 @@ Extend your agent with 2,232 capabilities via Model Context Protocol servers.
 ***[TaskMaster](https://www.taskmaster.one/)***
 Upload any document, audio, or video and let TaskMaster organize, summarize, and transform them into useful insights.
 
+***[Tollbase](https://gettoolbase.ai/)***
+Local MCP manager
+
 
 ## Search Engines
 [Brave Search API](https://brave.com/search/api/)
