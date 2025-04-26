@@ -1,8 +1,9 @@
-# Welcome to my list of interesting projects!
+# 🐶 PROJECTS I LIKE
+Welcome to my list of interesting projects!
 
 
 
-## Markdown
+## 🫎 Markdown
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 The Markdown elements outlined in the original design document.
 
