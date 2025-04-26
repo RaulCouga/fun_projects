@@ -288,8 +288,8 @@ Write your documentation in Markdown and create a professional static site for y
 
 
 ## MCP
-[Model Context Protocol](https://github.com/modelcontextprotocol/servers/tree/main)
-A collection of reference implementations and community-contributed servers for the [Model Context Protocol](https://modelcontextprotocol.io/) (MCP). This repository showcases the versatility and extensibility of MCP, demonstrating how it can be used to give Large Language Models (LLMs) secure, controlled access to tools and data sources.
+[Model Context Protocol](https://github.com/modelcontextprotocol/servers)
+A collection of reference implementations and community-contributed servers for the MCP. This repository showcases the versatility and extensibility of MCP, demonstrating how it can be used to give Large Language Models (LLMs) secure, controlled access to tools and data sources.
 
 [Composio](https://mcp.composio.dev/)
 Instantly Connect to 100+ Managed MCP Servers with Built-In Auth
