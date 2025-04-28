@@ -884,7 +884,7 @@ The home for Cursor enthusiasts where you can explore and generate rules, browse
 ***[Cursor Memory Bank](https://github.com/vanzan01/cursor-memory-bank)***
 A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual process maps.
 
-***{System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)***
+***[System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)***
 FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 
 
