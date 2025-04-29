@@ -325,7 +325,11 @@ Node.js server implementing Model Context Protocol (MCP) for filesystem operatio
 ***[GitHub MCP](https://github.com/github/github-mcp-server)***
 To integrate github project codebase into context
 
-***[Memoory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)***
+[Just Prompt](https://github.com/disler/just-prompt)
+just-prompt is an MCP server that provides a unified interface to top LLM providers (OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama)
+
+
+***[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)***
 An implementation of persistent memory using a local knowledge graph. This lets Claude remember information about the user across chats.
 
 [MCPServers](https://mcpservers.org/)
