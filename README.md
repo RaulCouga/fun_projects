@@ -292,17 +292,41 @@ Write your documentation in Markdown and create a professional static site for y
 [Model Context Protocol](https://github.com/modelcontextprotocol/servers)
 A collection of reference implementations and community-contributed servers for the MCP. This repository showcases the versatility and extensibility of MCP, demonstrating how it can be used to give Large Language Models (LLMs) secure, controlled access to tools and data sources.
 
+***[Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)***
+An MCP server implementation that integrates the Brave Search API, providing both web and local search capabilities.
+
+***[Browser Tools](https://github.com/AgentDeskAI/browser-tools-mcp)***
+A browser monitoring and interaction tool that enables AI-powered applications via Anthropic's Model Context Protocol (MCP) to capture and analyze browser data through a Chrome extension.
+
 [Composio](https://mcp.composio.dev/)
 Instantly Connect to 100+ Managed MCP Servers with Built-In Auth
 
 ***[Context7](https://context7.com/)***
 Context7 pulls up-to-date, version-specific documentation and code examples directly from the source. Paste accurate, relevant documentation directly into tools like Cursor, Claude, or any LLM. Get better answers, no hallucinations and an AI that actually understands your stack.
 
-[Dart MCP](https://github.com/its-dart/dart-mcp-server)
+***[Claude Task Manager](https://github.com/eyaltoledano/claude-task-master)***
+A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
+
+***[Dart MCP](https://github.com/its-dart/dart-mcp-server)***
 Dart AI Model Context Protocol (MCP) server
+
+***[Exa MCP](https://github.com/exa-labs/exa-mcp-server)***
+A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This setup allows AI models to get real-time web information in a safe and controlled way.
 
 [fastapimcp](https://github.com/tadata-org/fastapi_mcp)
 Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+
+***[Figma MCP](https://github.com/GLips/Figma-Context-MCP)***
+Access Figma files to improve vibe codding
+
+***[File System MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)***
+Node.js server implementing Model Context Protocol (MCP) for filesystem operations.
+
+***[GitHub MCP](https://github.com/github/github-mcp-server)***
+To integrate github project codebase into context
+
+***[Memoory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)***
+An implementation of persistent memory using a local knowledge graph. This lets Claude remember information about the user across chats.
 
 [MCPServers](https://mcpservers.org/)
 A collection of servers for the Model Context Protocol.
@@ -313,14 +337,25 @@ Find Awesome MCP Servers and Clients
 [MCP Server Finder](https://www.mcpserverfinder.com/)
 Find MCP servers and improve your workflow with AI
 
-***[Smithery](https://smithery.ai/)***
+***[Notion MCP](https://developers.notion.com/docs/mcp)***
+To access notion information, for example storage of PRDs and other information that can be retrieved for context
+
+***[Perpelexity MCP](https://github.com/ppl-ai/modelcontextprotocol)***
+A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
+
+[Smithery](https://smithery.ai/)
 Extend your agent with 2,232 capabilities via Model Context Protocol servers.
 
-***[TaskMaster](https://www.taskmaster.one/)***
+***[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)***
+An MCP server implementation that provides a tool for dynamic and reflective problem-solving through a structured thinking process.
+
+***[TaskMaster](https://www.task-master.dev/)***
 Upload any document, audio, or video and let TaskMaster organize, summarize, and transform them into useful insights.
 
 ***[Tollbase](https://gettoolbase.ai/)***
 Local MCP manager
+
+
 
 
 ## Search Engines
