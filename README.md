@@ -295,16 +295,16 @@ A collection of reference implementations and community-contributed servers for 
 ***[Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)***
 An MCP server implementation that integrates the Brave Search API, providing both web and local search capabilities.
 
-***[Browser Tools](https://github.com/AgentDeskAI/browser-tools-mcp)***
+***[Browser Tools MCP ](https://github.com/AgentDeskAI/browser-tools-mcp)***
 A browser monitoring and interaction tool that enables AI-powered applications via Anthropic's Model Context Protocol (MCP) to capture and analyze browser data through a Chrome extension.
 
 [Composio](https://mcp.composio.dev/)
 Instantly Connect to 100+ Managed MCP Servers with Built-In Auth
 
-***[Context7](https://context7.com/)***
+***[Context7 MCP](https://context7.com/)***
 Context7 pulls up-to-date, version-specific documentation and code examples directly from the source. Paste accurate, relevant documentation directly into tools like Cursor, Claude, or any LLM. Get better answers, no hallucinations and an AI that actually understands your stack.
 
-***[Claude Task Manager](https://github.com/eyaltoledano/claude-task-master)***
+***[Claude Task Manager MCP](https://github.com/eyaltoledano/claude-task-master)***
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 ***[Dart MCP](https://github.com/its-dart/dart-mcp-server)***
@@ -350,10 +350,10 @@ A Model Context Protocol Server connector for Perplexity API, to enable web sear
 [Smithery](https://smithery.ai/)
 Extend your agent with 2,232 capabilities via Model Context Protocol servers.
 
-***[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)***
+***[Sequential Thinking MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)***
 An MCP server implementation that provides a tool for dynamic and reflective problem-solving through a structured thinking process.
 
-***[TaskMaster](https://www.task-master.dev/)***
+***[TaskMaster MCP](https://www.task-master.dev/)***
 Upload any document, audio, or video and let TaskMaster organize, summarize, and transform them into useful insights.
 
 ***[Tollbase](https://gettoolbase.ai/)***
