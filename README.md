@@ -1,4 +1,4 @@
-# 🐶 PROJECTS I LIKE
+# 🐶 pROJECTS i lIKE
 Welcome to my list of interesting projects!
 
 
@@ -10,6 +10,8 @@ The Markdown elements outlined in the original design document.
 [Markitdown](https://github.com/microsoft/markitdown)
 Python tool for converting files and office documents to Markdown.
 
+[BibCit](https://www.bibcit.com/en)
+AI powered content conversition automation
 
 
 ## Prompt Engineering
@@ -17,7 +19,7 @@ Python tool for converting files and office documents to Markdown.
 Code smarter with AI—no more messy copy-pasting. Let Repo Prompt structure your prompts and apply AI changes for you.
 
 [Prompt Perfect](https://promptperfect.jina.ai/)
-(Prompt Optomiser
+Prompt Optomiser
 
 
 
