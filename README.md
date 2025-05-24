@@ -4,14 +4,16 @@ Welcome to my list of interesting projects!
 
 
 ## 🫎 Markdown
+***[BibCit](https://www.bibcit.com/en)***
+AI powered content conversition automation
+
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 The Markdown elements outlined in the original design document.
 
 [Markitdown](https://github.com/microsoft/markitdown)
 Python tool for converting files and office documents to Markdown.
 
-[BibCit](https://www.bibcit.com/en)
-AI powered content conversition automation
+
 
 
 ## Prompt Engineering
@@ -20,6 +22,7 @@ Code smarter with AI—no more messy copy-pasting. Let Repo Prompt structure you
 
 [Prompt Perfect](https://promptperfect.jina.ai/)
 Prompt Optomiser
+
 
 
 
@@ -86,10 +89,6 @@ Comet provides an end-to-end model evaluation platform for AI developers,
 [CleanML](https://clear.ml/)
 The Infrastructure Platform For AI Builders. Maximize AI Potential at Enterprise Scale
 
-[Ear/y](https://www.startearly.ai/)
-Use EarlyAI in conjunction with your favorite AI code generation assistant to maximize the quality of your code while accelerating development speed.
-Your easy-to-use test engineering AI agent automates test code generation and proactively ensures that your code is kept free of bugs.
-
 [unify](https://unify.ai/)
 Build custom interfaces for: logging, evals, guardrails, labelling, tracing, agents, human-in-the-loop, hyperparam sweeps, and anything else you can think of ✨
 
@@ -128,6 +127,7 @@ An extremely fast Python package and project manager, written in Rust.
 
 
 
+
 ## LLM Memory / caching
 [A-Mem](https://github.com/agiresearch/A-mem)
 A novel agentic memory system for LLM agents that can dynamically organize memories in an agentic way.
@@ -158,10 +158,12 @@ The Memory Foundation For Your AI Stack
 
 
 
+
 ## State
 [Burr](https://burr.dagworks.io/)
 Burr makes it easy to develop applications that make decisions (chatbots, agents, simulations, etc...) from simple python building blocks.
 Burr works well for any application that uses LLMs, and can integrate with any of your favorite frameworks. Burr includes a UI that can track/monitor/trace your system in real time, along with pluggable persisters (e.g. for memory) to save & load application state.
+
 
 
 
@@ -223,6 +225,7 @@ provides a unified framework for building LLM-based applications (e.g., RAG, Age
 
 
 
+
 ## Guardrails
 [Guardrails](https://github.com/guardrails-ai/guardrails?tab=readme-ov-file)
 Guardrails runs Input/Output Guards in your application that detect, quantify and mitigate the presence of specific types of risks. To look at the full suite of risks, check out [Guardrails Hub](https://hub.guardrailsai.com/).
@@ -245,6 +248,7 @@ CodeGate is a guardian angel that sits between your AI assistants and LLMs, alwa
 
 
 
+
 ## LLM Routers
 [Aurelio](https://github.com/aurelio-labs/semantic-router)
 Semantic Router is a superfast decision-making layer for your LLMs and agents. Rather than waiting for slow LLM generations to make tool-use decisions, we use the magic of semantic vector space to make those decisions — routing our requests using semantic meaning.
@@ -263,6 +267,7 @@ A unified interface for LLMs
 
 [RouteLLM](https://github.com/lm-sys/RouteLLM)
 A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
+
 
 
 
@@ -290,6 +295,7 @@ Write your documentation in Markdown and create a professional static site for y
 
 
 
+
 ## MCP
 [Model Context Protocol](https://github.com/modelcontextprotocol/servers)
 A collection of reference implementations and community-contributed servers for the MCP. This repository showcases the versatility and extensibility of MCP, demonstrating how it can be used to give Large Language Models (LLMs) secure, controlled access to tools and data sources.
@@ -312,6 +318,9 @@ A task management system for AI-driven development with Claude, designed to work
 ***[Dart MCP](https://github.com/its-dart/dart-mcp-server)***
 Dart AI Model Context Protocol (MCP) server
 
+[DesktopCommander](https://desktopcommander.app/)
+Your personal AI Assistant without token costs
+
 ***[Exa MCP](https://github.com/exa-labs/exa-mcp-server)***
 A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This setup allows AI models to get real-time web information in a safe and controlled way.
 
@@ -329,7 +338,6 @@ To integrate github project codebase into context
 
 [Just Prompt](https://github.com/disler/just-prompt)
 just-prompt is an MCP server that provides a unified interface to top LLM providers (OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama)
-
 
 ***[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)***
 An implementation of persistent memory using a local knowledge graph. This lets Claude remember information about the user across chats.
@@ -364,6 +372,7 @@ Local MCP manager
 
 
 
+
 ## Search Engines
 [Brave Search API](https://brave.com/search/api/)
 Power your search and AI apps with the fastest growing independent search engine since Bing. Access an index of billions of pages with a single call.
@@ -379,15 +388,19 @@ Your search foundation supercharged.
 
 
 
+
 ## Distributed LLMs
 [Exo](https://github.com/exo-explore/exo)
 Run your own AI cluster at home with everyday devices
 
 
 
+
 ## Knowledge Graphs
 [itext2KG](https://github.com/AuvaLab/itext2kg)
 iText2KG is a Python package designed to incrementally construct consistent knowledge graphs with resolved entities and relations by leveraging large language models for entity and relation extraction from text documents. It features zero-shot capability, allowing for knowledge extraction across various domains without specific training. The package includes modules for document distillation, entity extraction, and relation extraction, ensuring resolved and unique entities and relationships. It continuously updates the KG with new documents and integrates them into Neo4j for visual representation.
+
+
 
 
 
@@ -400,6 +413,8 @@ A fast and lightweight pure Python library for splitting text into semantically 
 
 
 
+
+
 ## Data Validation & Structure Output
 ***[Pydantic](https://docs.pydantic.dev/latest/)***
 Data validation using Python type hints.
@@ -409,6 +424,8 @@ Structured outputs powered by llms. Designed for simplicity, transparency, and c
 
 [Outlines](https://github.com/dottxt-ai/outlines)
 Outlines provides ways to control the generation of language models to make their output more predictable.
+
+
 
 
 
@@ -430,6 +447,7 @@ Manage, curate, and label multimodal data such as image, video, audio, document,
 
 [Transformer Labs](https://transformerlab.ai/)
 100% Open Source Toolkit for Large Language Models: Train, Tune, Chat on your own Machine
+
 
 
 
@@ -538,6 +556,9 @@ Build react apps 10x faster
 [V0](https://v0.dev/)
 What can I help you ship?
 
+[YouWare](https://www.youware.com/)
+Website builder.
+
 
 
 
@@ -643,6 +664,9 @@ Open Source Agents for Developers
 ***[Pieces](https://pieces.app/)***
 The first AI that remembers everything you work on
 
+[Plandex](https://plandex.ai/)
+An open source, terminal-based AI coding agent designed to handle large projects, large files, and large tasks. Featuring a diff review sandbox, full auto mode, and smart context management up to 2M tokens.
+
 [Qodo](https://www.qodo.ai/)
 Generate confidence, not just code.
 
@@ -672,6 +696,19 @@ Any agent can write code. Ours earn your devs' trust.
 
 [ZenCoder](https://zencoder.ai/)
 The AI Coding Agent. The most integrated, customizable, and intuitive coding agent—Zencoder handles the routine so you can focus on the vision.
+
+
+
+
+
+## AI Code Test
+[Ear/y](https://www.startearly.ai/)
+Use EarlyAI in conjunction with your favorite AI code generation assistant to maximize the quality of your code while accelerating development speed.
+Your easy-to-use test engineering AI agent automates test code generation and proactively ensures that your code is kept free of bugs.
+
+[TestSprite](https://www.testsprite.com/solutions/backend)
+Back-End Testing. Without the Headache. Simplify API testing and ensure thorough coverage without the need for manual test setup or 
+
 
 
 
@@ -761,9 +798,11 @@ Open WebUI is an extensible, self-hosted AI interface that adapts to your workfl
 
 
 
+
 ## Recognition
 [Gliner](https://github.com/urchade/GLiNER)
 Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts)
+
 
 
 
@@ -804,6 +843,7 @@ Emoji-fying LLMs: Visualizing AI’s Text Understanding
 
 
 
+
 ## Agents
 [Agent Tars](https://agent-tars.com/)
 An open-source multimodal AI agent
@@ -824,8 +864,15 @@ The TypeScript Agent Framework
 [NVidia Agent IQ](https://developer.nvidia.com/agent-intelligence-toolkit)
 NVIDIA Agent Intelligence toolkit is an open-source library for connecting, evaluating, and accelerating teams of AI agents. The Agent Intelligence toolkit simplifies development while optimizing and increasing the accuracy of full-stack, complex agentic AI systems.
 
+[On-Demand](https://on-demand.io/)
+Build, deploy, and scale. AI agents instantly.
+
+[OpenManus](https://openmanus.org/)
+Building OpenManus as a Service
+
 [TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
 A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
+
 
 
 
@@ -834,9 +881,11 @@ A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Real
 
 
 
+
 ## UI Testing
 [Browser-use](https://browser-use.com/)
 We make websites accessible for AI agents by extracting all interactive elements, so agents can focus on what makes their beer taste better.
+
 
 
 
@@ -851,9 +900,13 @@ Vector Premium image generation and editing tool
 Python Computer Vision & Video Analytics Framework With Batteries Included
 
 
+
+
 ## Sound
 [Dia](https://github.com/nari-labs/dia)
 A TTS model capable of generating ultra-realistic dialogue in one pass.
+
+
 
 
 
@@ -874,6 +927,8 @@ Pydantic Evals is a powerful evaluation framework designed to help you systemati
 Phoenix is an open-source observability library designed for experimentation, evaluation, and troubleshooting. It allows AI Engineers and Data Scientists to quickly visualize their data, evaluate performance, track down issues, and export data to improve.
 
 
+
+
 ## Sandboxes
 [E2B](https://e2b-dev)
 We make it easy for developers to add code interpreting to AI apps with the E2B SDK
@@ -886,6 +941,7 @@ Give each of your users (or robots) a code execution sandbox that boots in milli
 
 
 
+
 ## Stores
 [LanceDB](https://lancedb.com/)
 LanceDB is a developer-friendly, open source database for AI. From hyper scalable vector search and advanced retrieval for RAG, to streaming training data and interactive exploration of large scale AI datasets, LanceDB is the best foundation for your AI application
@@ -895,6 +951,7 @@ The High-Performance. Vector Database Built for Scale
 
 [Feast](https://feast.dev/)
 Feast is an open source feature store that delivers structured data to AI and LLM applications at high scale during training and inference.
+
 
 
 
@@ -916,6 +973,7 @@ A public repository of tools for LLM agents
 
 
 
+
 ## Cursor / Cline Resources
 ***[Cursor Directory](https://cursor.directory/)***
 The home for Cursor enthusiasts where you can explore and generate rules, browse MCPs, post and follow the latest news on the board, learn, connect, and discover jobs all in one place.
@@ -927,5 +985,29 @@ A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, 
 
 ***[System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)***
 FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+
+
+
+
+## Inference
+[Cerebras](https://www.cerebras.ai/)
+Inference models
+
+[Coolify](https://www.coolify.io/)
+Self-hosting with superpowers. An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+[Groq](https://groq.com/)
+Fast AI Inference
+
+[Predibase](https://predibase.com/)
+Unmatched accuracy and speed with our end-to-end training and serving infra. Now with reinforcement fine-tuning.
+
+[SambaNova](https://sambanova.ai/)
+The Fastest and Most Efficient AI Accelerator
+
+[TogetherAI](https://www.together.ai/)
+Turbocharge training & inference on NVIDIA GPU clusters. Build with open source and fine-tune your own AI.
+
+
 
 
