@@ -563,6 +563,9 @@ Website builder.
 
 
 ## Model Assistants
+[A0 Model](https://vercel.com/docs/v0/api)
+The v0-1.0-md model is designed for building modern web applications. It supports text and image inputs, provides fast streaming responses
+
 [Ai2 Scholar](https://scholarqa.allen.ai/)
 Synthesizing 8M+ open access papers. A project from Ai2 and Semantic Scholar. Ai2 Scholar QA can make mistakes. Check source documents by following citations.
 
@@ -715,6 +718,9 @@ Back-End Testing. Without the Headache. Simplify API testing and ensure thorough
 ## AI Automation / No Code
 [AgentSpace](https://cloud.google.com/products/agentspace?hl=en)
 The search and AI agent hub built for your work
+
+[Agno](https://www.agno.com/)
+Open source tools for building, shipping and monitoring Agentic systems
 
 [Active Pieces](https://www.activepieces.com/)
 Automation software that's AI-first, no-code & open-source
@@ -870,6 +876,9 @@ Build, deploy, and scale. AI agents instantly.
 [OpenManus](https://openmanus.org/)
 Building OpenManus as a Service
 
+[Skywork AI](https://skywork.ai/)
+Skywork Super Agents. The Originator of AI Workspace Agents
+
 [TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
 A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
 
@@ -995,6 +1004,9 @@ Inference models
 
 [Coolify](https://www.coolify.io/)
 Self-hosting with superpowers. An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+[Dokploy](https://dokploy.com/)
+Deploy Anywhere with Total Freedom and Ease.
 
 [Groq](https://groq.com/)
 Fast AI Inference
