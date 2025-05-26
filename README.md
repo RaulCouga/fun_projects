@@ -545,6 +545,9 @@ Turn your ideas into apps. What will you create? The possibilities are endless.
 [Sitebrew](https://www.sitebrew.ai/create)
 Generate a site and share it with the world, in seconds
 
+[Google Stitch](https://stitch.withgoogle.com/)
+Transform ideas into UI designs for mobile and web applications.
+
 [Same New](https://same.new/)
 Copy any UI
 
@@ -858,6 +861,9 @@ Offering seamless integration with a wide range of real-world tools.
 [Agno](https://www.agno.com/)
 An open-source platform to build, ship and monitor agentic systems
 
+[Clara](https://claraverse.netlify.app/)
+Clara brings together the best open-source AI tools in one beautiful interface. Chat with Ollama models, generate images with ComfyUI, and build custom AI agents - all with complete privacy and control.
+
 [DeepWisdom](https://www.deepwisdom.ai/)
 Providing the First Al Software Company
 
@@ -901,6 +907,9 @@ We make websites accessible for AI agents by extracting all interactive elements
 ## Image generation
 [Diagramming AI](https://diagrammingai.com/)
 Instantly Shape Your Ideas into Clear, Powerful Diagrams
+
+[Pollo AI](https://pollo.ai/)
+Your One-Stop AI Image & Video Creation Platform.
 
 [Recraft](https://www.recraft.ai/)
 Vector Premium image generation and editing tool
@@ -994,6 +1003,9 @@ A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, 
 
 ***[System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)***
 FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+
+[Stagewise](https://stagewise.io/)
+Eyesight for your AI-powered Code Editor
 
 
 
