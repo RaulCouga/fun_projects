@@ -3,9 +3,12 @@ Welcome to my list of interesting projects!
 
 
 
-## 🫎 Markdown
+## 🫎 Markdown / Documentation
 ***[BibCit](https://www.bibcit.com/en)***
 AI powered content conversition automation
+
+[GitBook](https://www.gitbook.com/)
+Build docs as a product, not an afterthoughtDocumentation is a critical part of your product . experience. GitBook helps you collaborate and build beautiful, centralized docs your users will love.
 
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 The Markdown elements outlined in the original design document.
@@ -13,10 +16,15 @@ The Markdown elements outlined in the original design document.
 [Markitdown](https://github.com/microsoft/markitdown)
 Python tool for converting files and office documents to Markdown.
 
+[Mintlify](https://mintlify.com/)
+Meet the next generation of documentation. AI-native, beautiful out-of-the-box, and built for developers.
 
 
 
 ## Prompt Engineering
+[OpenAi](https://academy.openai.com/public/videos/introduction-to-prompt-engineering-2025-02-13)
+Introduction to Prompt Engineering
+
 [Repo Prompt](https://repoprompt.com/)
 Code smarter with AI—no more messy copy-pasting. Let Repo Prompt structure your prompts and apply AI changes for you.
 
@@ -756,6 +764,9 @@ Total control, infinite extensibility, empower your team to swiftly adapt to cha
 [n8n](https://n8n.io/)
 Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams
 
+[Noodl](https://www.noodl.net/)
+AI-Assisted Low-Code. Free & Open Source. Build full-stack custom applications faster, orchestrate business assets, and accelerate integration processes.
+
 [Pydantic Run](https://pydantic.run/)
 A pydantic playgroud
 
@@ -797,6 +808,12 @@ The editor for what's next Zed is a next-generation code editor designed for hig
 
 
 ## UI
+[ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to front-end applications.
+
+[Copilotkit](https://www.copilotkit.ai/)
+AI Copilots for your product. Build fast, customize effortlessly.
+
 [Gradio Playground](https://www.gradio.app/playground)
 
 [CustomTkinter](https://customtkinter.tomschimansky.com/)
@@ -861,11 +878,17 @@ Offering seamless integration with a wide range of real-world tools.
 [Agno](https://www.agno.com/)
 An open-source platform to build, ship and monitor agentic systems
 
+[Airweave](https://airweave.ai/)
+Empower Agents with Deep Knowledge About Their Users.  Give Users the Experience They Deserve
+
 [Clara](https://claraverse.netlify.app/)
 Clara brings together the best open-source AI tools in one beautiful interface. Chat with Ollama models, generate images with ComfyUI, and build custom AI agents - all with complete privacy and control.
 
 [DeepWisdom](https://www.deepwisdom.ai/)
 Providing the First Al Software Company
+
+[Delty](https://www.delty.ai/)
+World's first AI staff engineer
 
 [Manus](https://manus.im/)
 Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
@@ -885,8 +908,14 @@ Building OpenManus as a Service
 [Skywork AI](https://skywork.ai/)
 Skywork Super Agents. The Originator of AI Workspace Agents
 
+[Suna](https://www.suna.so/)
+Suna by Kortix – is a generalist AI Agent that acts on your behalf.
+
 [TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
 A conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.
+
+[ZenCoder](https://zencoder.ai/)
+The AI Coding Agent. The most integrated, customizable, and intuitive coding agent—Zencoder handles the routine so you can focus on the vision.
 
 
 
@@ -967,6 +996,9 @@ LanceDB is a developer-friendly, open source database for AI. From hyper scalabl
 [Milvus](https://milvus.io/)
 The High-Performance. Vector Database Built for Scale
 
+[MindsDB](https://mindsdb.com/)
+MindsDB enables humans, AI, agents, and applications to get highly accurate answers across disparate data sources and types.
+
 [Feast](https://feast.dev/)
 Feast is an open source feature store that delivers structured data to AI and LLM applications at high scale during training and inference.
 
@@ -1023,6 +1055,9 @@ Deploy Anywhere with Total Freedom and Ease.
 [Groq](https://groq.com/)
 Fast AI Inference
 
+[Modal](https://modal.com/)
+Serve custom AI models at scale
+
 [Predibase](https://predibase.com/)
 Unmatched accuracy and speed with our end-to-end training and serving infra. Now with reinforcement fine-tuning.
 
@@ -1031,7 +1066,3 @@ The Fastest and Most Efficient AI Accelerator
 
 [TogetherAI](https://www.together.ai/)
 Turbocharge training & inference on NVIDIA GPU clusters. Build with open source and fine-tune your own AI.
-
-
-
-
