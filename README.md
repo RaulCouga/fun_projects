@@ -456,6 +456,9 @@ Serve custom AI models at scale
 [Predibase](https://predibase.com/)
 Unmatched accuracy and speed with our end-to-end training and serving infra. Now with reinforcement fine-tuning.
 
+[Requesty](https://www.requesty.ai/)
+Join 15k+ developers who refuse to overpay for AI and let our intelligent gateway handle the complexity
+
 [SambaNova](https://sambanova.ai/)
 The Fastest and Most Efficient AI Accelerator
 
@@ -644,6 +647,9 @@ A collection of servers for the Model Context Protocol.
 
 [MCP.so](https://mcp.so/)
 Find Awesome MCP Servers and Clients
+
+[MCP Use](https://mcp-use.io/)
+mcp_use is an open source library that enables developers to connect any LLM to any MCP server, allowing the creation of custom agents with tool access without relying on closed-source or application-specific clients.
 
 [MCP Server Finder](https://www.mcpserverfinder.com/)
 Find MCP servers and improve your workflow with AI
@@ -1022,6 +1028,9 @@ Dream, Chat, Create
 [Nutt](https://www.nut.new/)
 Get what you want. Write, test, and fix your app all from one prompt
 
+[Operative](https://www.operative.sh/)
+Go from prompt to web app in minutes.
+
 [Polymet](https://www.polymet.ai/)
 Design and iterate faster with AI. Get the production-ready code and ship faster
 
@@ -1042,6 +1051,9 @@ Websites design & build faster with AI
 
 [Replit](https://replit.com/)
 Turn your ideas into apps. What will you create? The possibilities are endless.
+
+[Rork](https://rork.com/)
+Build any mobile app, fast. Rork builds complete, cross-platform mobile apps using AI and React Native.
 
 [Sitebrew](https://www.sitebrew.ai/create)
 Generate a site and share it with the world, in seconds
