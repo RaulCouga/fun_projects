@@ -253,6 +253,9 @@ An open source, terminal-based AI coding agent designed to handle large projects
 [Qodo](https://www.qodo.ai/)
 Generate confidence, not just code.
 
+[Qwen](https://chat.qwen.ai/)
+Qwen coder
+
 [Replit](https://replit.com/)
 Turn your ideas into apps with AI.
 
@@ -657,6 +660,9 @@ Find MCP servers and improve your workflow with AI
 ***[Notion MCP](https://developers.notion.com/docs/mcp)***
 To access notion information, for example storage of PRDs and other information that can be retrieved for context
 
+***[OneMCP](https://onemcp.io/)***
+OneMCP is an app that lets you run any MCP without the complexity of downloading repos, reading docs, or setting up servers.
+
 ***[Perpelexity MCP](https://github.com/ppl-ai/modelcontextprotocol)***
 A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 
@@ -775,8 +781,14 @@ Emoji-fying LLMs: Visualizing AI’s Text Understanding
 [ChatPRD](https://app.chatprd.ai/chat)
 Build PRD
 
+[CodeRabbit](https://www.coderabbit.ai/)
+Cut Code Review Time & Bugs in Half. Instantly.
+
 [Dart](https://www.itsdart.com/)
 Dart stands out from other AI tools for project management with its intuitive design, powerful AI-driven features, and robust integration capabilities. 
+
+[DeepFlow](https://deepflow.io/)
+Instant Observability for Cloud & AI Applications
 
 [Git Actions Act](https://github.com/nektos/act)
 Run your GitHub Actions locally 
