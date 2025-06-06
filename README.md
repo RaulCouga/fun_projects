@@ -450,14 +450,29 @@ Self-hosting with superpowers. An open-source & self-hostable Heroku / Netlify /
 [Dokploy](https://dokploy.com/)
 Deploy Anywhere with Total Freedom and Ease.
 
+[Glama](https://glama.ai/)
+Fast, Reliable AI Gateway
+
 [Groq](https://groq.com/)
 Fast AI Inference
+
+[LiteLLM](https://www.litellm.ai/)
+LLM Gateway to provide model access, fallbacks and spend tracking across 100+ LLMs. All in the OpenAl format.
 
 [Modal](https://modal.com/)
 Serve custom AI models at scale
 
+[NoDiamond](https://www.notdiamond.ai/)
+Accelerate development and improve accuracy with intelligent model routing and automatic prompt adaptation
+ 
+[OpenRouter](https://openrouter.ai/)
+The Unified. Interface For LLMs
+
 [Predibase](https://predibase.com/)
 Unmatched accuracy and speed with our end-to-end training and serving infra. Now with reinforcement fine-tuning.
+
+[PortKey](https://portkey.ai/)
+Portkey equips AI teams with everything they need to go to production - Gateway, Observability, Guardrails, Governance, and Prompt Management, all in one platform.
 
 [Requesty](https://www.requesty.ai/)
 Join 15k+ developers who refuse to overpay for AI and let our intelligent gateway handle the complexity
