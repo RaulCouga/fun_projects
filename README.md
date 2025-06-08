@@ -503,6 +503,9 @@ Inference models
 [Coolify](https://www.coolify.io/)
 Self-hosting with superpowers. An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
+[Clarifi](https://www.clarifai.com/)
+Create and control AI workloads to optimize compute costs across your preferred environments with a unified platform.
+
 [Dokploy](https://dokploy.com/)
 Deploy Anywhere with Total Freedom and Ease.
 
