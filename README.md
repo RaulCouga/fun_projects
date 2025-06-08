@@ -285,6 +285,7 @@ The AI Coding Agent. The most integrated, customizable, and intuitive coding age
 
 
 
+
 ## Cursor / Cline Resources
 ***[Cursor Directory](https://cursor.directory/)***
 The home for Cursor enthusiasts where you can explore and generate rules, browse MCPs, post and follow the latest news on the board, learn, connect, and discover jobs all in one place.
@@ -326,6 +327,9 @@ Take Ideas to Production in Seconds, Not Sprints
 [Figma](https://www.figma.com/)
 Talk. Chat. Comment. Communicate via audio or chat to connect quickly within your file. Gather and keep track of feedback with comments.
 
+[Framer](https://www.framer.com/)
+Launch Your Dream Site — Build a site with Framer, the website builder loved by designers and high-velocity teams.
+
 [Gamma](https://gamma.app/)
 A new medium for presenting ideas. Powered by AI
 
@@ -338,8 +342,14 @@ Build prototypes, get user feedback, and make data-driven decisions. The AI prot
 [Magic Path](https://www.magicpath.ai/)
 Create, refine, and explore with AI.
 
+[Modify](https://www.modyfi.com/)
+Modyfi is the design platform built for multidisciplinary designers. Design, generate, animate, and more — without switching between apps.
+
 [Play](https://createwithplay.com/)
 The most powerful tool to design and ship your apps.
+
+[Paper](https://paper.design/)
+Design incredible. do your best work in Paper, the new home for designers.
 
 [Relume](https://www.relume.io/)
 Websites design & build faster with AI
@@ -391,6 +401,12 @@ Pydantic Evals is a powerful evaluation framework designed to help you systemati
 
 [Phoenix](https://docs.arize.com/phoenix)
 Phoenix is an open-source observability library designed for experimentation, evaluation, and troubleshooting. It allows AI Engineers and Data Scientists to quickly visualize their data, evaluate performance, track down issues, and export data to improve.
+
+
+## Figma Tools
+
+
+
 
 
 
@@ -1079,6 +1095,9 @@ Dream, Chat, Create
 
 [Nutt](https://www.nut.new/)
 Get what you want. Write, test, and fix your app all from one prompt
+
+[Onlook](https://onlook.com/)
+Onlook lets you visually edit your React websites or webapps and write your changes back to code in real-time
 
 [Operative](https://www.operative.sh/)
 Go from prompt to web app in minutes.
