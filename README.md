@@ -316,6 +316,46 @@ Outlines provides ways to control the generation of language models to make thei
 
 
 
+## Design Tools
+[Anima](https://www.animaapp.com/)
+Turn your design into a live web app
+
+[Builder](https://www.builder.io/)
+Take Ideas to Production in Seconds, Not Sprints
+
+[Figma](https://www.figma.com/)
+Talk. Chat. Comment. Communicate via audio or chat to connect quickly within your file. Gather and keep track of feedback with comments.
+
+[Gamma](https://gamma.app/)
+A new medium for presenting ideas. Powered by AI
+
+[Lovart](https://www.lovart.ai/)
+The Design agent who creates by your side.
+
+[Magic Patterns](https://www.magicpatterns.com/)
+Build prototypes, get user feedback, and make data-driven decisions. The AI prototyping platform for product teams.
+
+[Magic Path](https://www.magicpath.ai/)
+Create, refine, and explore with AI.
+
+[Play](https://createwithplay.com/)
+The most powerful tool to design and ship your apps.
+
+[Relume](https://www.relume.io/)
+Websites design & build faster with AI
+
+[Google Stitch](https://stitch.withgoogle.com/)
+Transform ideas into UI designs for mobile and web applications.
+
+[Subframe](https://www.subframe.com/)
+Design, meet code. The UI design tool for the AI era.
+
+[UXPilot](https://uxpilot.ai/)
+UX Pilot brings the power of artificial intelligence to your design workflow, helping you create better user experiences in less time.
+
+
+
+
 ## Distributed LLMs
 [Exo](https://github.com/exo-explore/exo)
 Run your own AI cluster at home with everyday devices
@@ -986,12 +1026,6 @@ A framework for real-life ML, AI, and data science. Open-source Metaflow makes i
 [AppWrite](https://appwrite.io/)
 Build your entire backend within minutes and host your site, all within Appwrite's all-in-one platform. Authentication, Databases, Functions, Storage, Messaging, and Hosting.
 
-[Anima](https://www.animaapp.com/)
-Turn your design into a live web app
-
-***[Builder](https://www.builder.io/)***
-Take Ideas to Production in Seconds, Not Sprints
-
 [Bolt](https://bolt.new/)
 What do you want to build?
 
@@ -1005,7 +1039,7 @@ Turn your ideas into products, in minutes.
 What do you want to build today?
 
 [BuildWithAI](https://www.buildwithai.io/)
-
+Build AI-powered applications 10x faster with our AI development tools and BrainDumper
 
 [Cerebras Code](https://cerebrascoder.com/)
 Dream it. Code it. Instantly.
@@ -1017,13 +1051,10 @@ urn your words into sites, tools, apps and products - built with code. Add GPT-4
 Sites beyond imagination, one prompt away.
 
 [Deepsite](https://enzostvs-deepsite.hf.space/)
-DEEPSITE offers an End-to-end AI document processing automation solution (RPA) that captures data from any documents instantly, like supply chain documents ...
+DeepSite offers an End-to-end AI document processing automation solution (RPA) that captures data from any documents instantly, like supply chain documents ...
 
-**[FirebaseStudiio](https://firebase.studio/)**
+[FirebaseStudiio](https://firebase.studio/)
 The full  stack AI workspace
-
-***[Figma](https://www.figma.com/)***
-Think bigger. Build faster.
 
 [FlutterFlow](https://www.flutterflow.io/)
 Build Better. Launch Faster.
@@ -1031,20 +1062,14 @@ Build Better. Launch Faster.
 [GroqLabs](https://appgen.groqlabs.com/)
 Build a micro-app
 
-[Gamma](https://gamma.app/)
-A new medium for presenting ideas. Powered by AI
-
 [HeyBoss](https://www.heyboss.xyz/)
 World's 1st AI engineer for non-coders. Type your idea and AI will code your app, sites, and games in minutes, no coding required
 
 [Hostinger](https://www.hostinger.com/horizons)
 Bring your idea to life in minutes
 
-***[Lovable](https://lovable.dev/)***
+[Lovable](https://lovable.dev/)
 Idea to app in seconds
-
-[MagicPatterns](https://www.magicpatterns.com/)
-Build prototypes, get user feedback, and make data-driven decisions. The AI prototyping platform for product teams.
 
 [Mastra](https://mastra.ai/)
 From the team that brought you Gatsby: prototype and productionize AI features with a modern Javascript stack
@@ -1064,17 +1089,11 @@ Design and iterate faster with AI. Get the production-ready code and ship faster
 [Pythagora](https://www.pythagora.ai/)
 Turn Ideas Into Launched Projects
 
-**[Play](https://createwithplay.com/)**
-The most powerful tool to design and ship your apps.
-
 [PixelFreeStudio](https://pixelfreestudio.com/index.html)
 Design to Code in one Click (Figma)
 
 [Readdy](https://readdy.ai/)
 Websites that Stand Out Built and Published in Minutes
-
-[Relume](https://www.relume.io/)
-Websites design & build faster with AI
 
 [Replit](https://replit.com/)
 Turn your ideas into apps. What will you create? The possibilities are endless.
@@ -1085,16 +1104,11 @@ Build any mobile app, fast. Rork builds complete, cross-platform mobile apps usi
 [Sitebrew](https://www.sitebrew.ai/create)
 Generate a site and share it with the world, in seconds
 
-[Google Stitch](https://stitch.withgoogle.com/)
-Transform ideas into UI designs for mobile and web applications.
-
 [Same New](https://same.new/)
 Copy any UI
 
-***[Tempo](https://www.tempo.new/)***
+[Tempo](https://www.tempo.new/)
 Build react apps 10x faster
-
-***[UXPilot](https://uxpilot.ai/)***
 
 [V0](https://v0.dev/)
 What can I help you ship?
