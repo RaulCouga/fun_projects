@@ -403,10 +403,22 @@ Pydantic Evals is a powerful evaluation framework designed to help you systemati
 Phoenix is an open-source observability library designed for experimentation, evaluation, and troubleshooting. It allows AI Engineers and Data Scientists to quickly visualize their data, evaluate performance, track down issues, and export data to improve.
 
 
+
 ## Figma Tools
+[8pt](https://8pt.io/)
+An Ever-Evolving Design System Built for Figma.
 
+[Design Systems For Figma](https://www.designsystemsforfigma.com/)
+A collection of Design Systems for Figma from all over the globe 🌎 backed by code.
 
+[Design Systems](https://www.designsystems.com/)
+Six myths holding you back from embracing design systems
 
+[UI Kits](https://www.figma.com/community/ui-kits?resource_type=mixed&editor_type=figma&price=all&sort_by=all_time&creators=all)
+Streamline your workflow and ignite your creative process with these UI kits.
+
+[Untitled](https://www.untitledui.com/blog/figma-ui-kits)
+Untitled UI is the largest UI kit and design system for Figma in the world. Kickstart any project, save thousands of hours, and level up as a designer.
 
 
 
