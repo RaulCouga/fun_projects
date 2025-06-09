@@ -704,7 +704,7 @@ A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa
 [fastapimcp](https://github.com/tadata-org/fastapi_mcp)
 Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
-***[Figma MCP](https://github.com/GLips/Figma-Context-MCP)***
+***[Figma MCP](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server)***
 Access Figma files to improve vibe codding
 
 ***[File System MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)***
