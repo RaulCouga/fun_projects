@@ -38,8 +38,8 @@ where multiple AI components work together to solve complex tasks—are crucial 
 [Pydantic AI](https://ai.pydantic.dev/)
 Agno is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
 
-[Agno]([https://www.phidata.com/](https://www.agno.com/))
-Phidata is a framework for building multi-modal agents and workflows. Build agents with memory, knowledge, tools and reasoning. Build teams of agents that can work together to solve problems. Interact with your agents and workflows using a beautiful Agent UI.
+[Agno](https://www.agno.com/)
+Agno is a framework for building multi-modal agents and workflows. Build agents with memory, knowledge, tools and reasoning. Build teams of agents that can work together to solve problems. Interact with your agents and workflows using a beautiful Agent UI.
 
 [Swarms](https://docs.swarms.world/en/latest/)
 Swarms aims to be the definitive and most reliable multi-agent LLM framework, offering developers the tools to automate business operations effortlessly. It provides a vast array of swarm architectures, seamless third-party integration, and unparalleled ease of use. With Swarms, developers can orchestrate intelligent, scalable agent ecosystems that can automate complex business processes.
@@ -618,19 +618,8 @@ The Memory Foundation For Your AI Stack
 
 
 
-## LLM inference / Serving Engines
-[Cerebras](https://cerebras.ai/)
-Cerebras Inference Llama 3.3 70B runs at 2,200 tokens/s and Llama 3.1 405B at 969 tokens/s – over 70x faster than GPU clouds. Get instant responses to code-gen, summarization, and agentic tasks.
 
-[Groq](https://groq.com/)
-We provide fast AI inference in the cloud and in on-prem AI compute centers. We power the speed of iteration, fueling a new wave of innovation, productivity, and discovery. Groq was founded in 2016 to build technology to advance AI because we saw this moment coming. 
-
-[Guidance](https://github.com/guidance-ai/guidance)
-Guidance is an efficient programming paradigm for steering language models. With Guidance, you can control how output is structured and get high-quality output for your use case—while reducing latency and cost vs. conventional prompting or fine-tuning. It allows users to constrain generation (e.g. with regex and CFGs) as well as to interleave control (conditionals, loops, tool use) and generation seamlessly.
-
-[Inception Labs])https://www.inceptionlabs.ai/)
-Inception’s diffusion-based approach to language generation is inspired by advanced AI systems for images and video like Midjourney and Sora and provides unprecedented speed, quality, and generative control.
-
+## Local LLM
 [LM Studio](https://lmstudio.ai/)
 Discover. download, and run local LLMs
 
@@ -646,6 +635,28 @@ LitServe is an easy-to-use, flexible serving engine for AI models built on FastA
 [Ollama](https://ollama.com/)
 Get up and running with large language models.
 
+[vLLM](https://docs.vllm.ai/en/latest/)
+vLLM is a fast and easy-to-use library for LLM inference and serving.
+
+[WebLLM](https://webllm.mlc.ai/)
+WebLLM: High-Performance In-Browser LLM Inference Engine
+
+
+
+
+## LLM inference / Serving Engines
+[Cerebras](https://cerebras.ai/)
+Cerebras Inference Llama 3.3 70B runs at 2,200 tokens/s and Llama 3.1 405B at 969 tokens/s – over 70x faster than GPU clouds. Get instant responses to code-gen, summarization, and agentic tasks.
+
+[Groq](https://groq.com/)
+We provide fast AI inference in the cloud and in on-prem AI compute centers. We power the speed of iteration, fueling a new wave of innovation, productivity, and discovery. Groq was founded in 2016 to build technology to advance AI because we saw this moment coming. 
+
+[Guidance](https://github.com/guidance-ai/guidance)
+Guidance is an efficient programming paradigm for steering language models. With Guidance, you can control how output is structured and get high-quality output for your use case—while reducing latency and cost vs. conventional prompting or fine-tuning. It allows users to constrain generation (e.g. with regex and CFGs) as well as to interleave control (conditionals, loops, tool use) and generation seamlessly.
+
+[Inception Labs])https://www.inceptionlabs.ai/)
+Inception’s diffusion-based approach to language generation is inspired by advanced AI systems for images and video like Midjourney and Sora and provides unprecedented speed, quality, and generative control.
+
 [Predibase](https://predibase.com/)
 Highest quality, fastest throughput small language models in your cloud
 
@@ -654,13 +665,6 @@ We’ve built an enterprise-ready AI platform from the ground up – intentional
 
 [Together AI](https://www.together.ai/)
 Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
-
-[vLLM](https://docs.vllm.ai/en/latest/)
-vLLM is a fast and easy-to-use library for LLM inference and serving.
-
-[WebLLM](https://webllm.mlc.ai/)
-WebLLM: High-Performance In-Browser LLM Inference Engine
-
 
 
 
@@ -689,10 +693,10 @@ Meet the next generation of documentation. AI-native, beautiful out-of-the-box, 
 [Model Context Protocol](https://github.com/modelcontextprotocol/servers)
 A collection of reference implementations and community-contributed servers for the MCP. This repository showcases the versatility and extensibility of MCP, demonstrating how it can be used to give Large Language Models (LLMs) secure, controlled access to tools and data sources.
 
-***[Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)***
+[Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)
 An MCP server implementation that integrates the Brave Search API, providing both web and local search capabilities.
 
-***[Browser Tools MCP ](https://github.com/AgentDeskAI/browser-tools-mcp)***
+[Browser Tools MCP ](https://github.com/AgentDeskAI/browser-tools-mcp)
 A browser monitoring and interaction tool that enables AI-powered applications via Anthropic's Model Context Protocol (MCP) to capture and analyze browser data through a Chrome extension.
 
 [Composio](https://mcp.composio.dev/)
