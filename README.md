@@ -402,6 +402,9 @@ Pydantic Evals is a powerful evaluation framework designed to help you systemati
 [Phoenix](https://docs.arize.com/phoenix)
 Phoenix is an open-source observability library designed for experimentation, evaluation, and troubleshooting. It allows AI Engineers and Data Scientists to quickly visualize their data, evaluate performance, track down issues, and export data to improve.
 
+[TrueLens](https://www.trulens.org/)
+Evaluate, iterate faster, and select your best LLM app with TruLens.
+
 
 
 ## Figma Tools
