@@ -118,9 +118,6 @@ Back-End Testing. Without the Headache. Simplify API testing and ensure thorough
 [AgentSpace](https://cloud.google.com/products/agentspace?hl=en)
 The search and AI agent hub built for your work
 
-[Agno](https://www.agno.com/)
-Open source tools for building, shipping and monitoring Agentic systems
-
 [Active Pieces](https://www.activepieces.com/)
 Automation software that's AI-first, no-code & open-source
 
