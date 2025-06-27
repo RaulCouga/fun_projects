@@ -901,7 +901,6 @@ An extremely fast Python package and project manager, written in Rust.
 
 
 
-
 ## Prompt Engineering
 [OpenAi](https://academy.openai.com/public/videos/introduction-to-prompt-engineering-2025-02-13)
 Introduction to Prompt Engineering
@@ -952,6 +951,7 @@ A user-friendly library for training and experimenting with ColBERT models, a fa
 
 
 
+
 ## Sandboxes
 [E2B](https://e2b-dev)
 We make it easy for developers to add code interpreting to AI apps with the E2B SDK
@@ -994,6 +994,9 @@ Burr works well for any application that uses LLMs, and can integrate with any o
 
 
 ## Stores
+[Feast](https://feast.dev/)
+Feast is an open source feature store that delivers structured data to AI and LLM applications at high scale during training and inference.
+
 [LanceDB](https://lancedb.com/)
 LanceDB is a developer-friendly, open source database for AI. From hyper scalable vector search and advanced retrieval for RAG, to streaming training data and interactive exploration of large scale AI datasets, LanceDB is the best foundation for your AI application
 
@@ -1003,8 +1006,8 @@ The High-Performance. Vector Database Built for Scale
 [MindsDB](https://mindsdb.com/)
 MindsDB enables humans, AI, agents, and applications to get highly accurate answers across disparate data sources and types.
 
-[Feast](https://feast.dev/)
-Feast is an open source feature store that delivers structured data to AI and LLM applications at high scale during training and inference.
+[Superlinked](https://www.superlinked.com/)
+Superlinked is a Python Framework & Cloud Infrastructure for AI Engineers building high-performance search & recommendation applications that combine structured and unstructured data.
 
 
 
