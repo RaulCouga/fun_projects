@@ -88,6 +88,9 @@ Build, deploy, and scale. AI agents instantly.
 [OpenManus](https://openmanus.org/)
 Building OpenManus as a Service
 
+[SuperDesign](https://www.superdesign.dev/)
+Open Source Design Agent
+
 [Skywork AI](https://skywork.ai/)
 Skywork Super Agents. The Originator of AI Workspace Agents
 
@@ -871,6 +874,9 @@ Emoji-fying LLMs: Visualizing AI’s Text Understanding
 
 
 ## Ops
+[Blacksmith](https://www.blacksmith.sh/)
+The fastest way to run your GitHub Actions
+
 [ChatPRD](https://app.chatprd.ai/chat)
 Build PRD
 
@@ -897,9 +903,6 @@ An extremely fast Python linter and code formatter, written in Rust.
 
 [PyRight](https://microsoft.github.io/pyright/#/)
 Pyright is a full-featured, standards-compliant static type checker for Python. It is designed for high performance and can be used with large Python source bases.
-
-[Blacksmith](https://www.blacksmith.sh/)
-The fastest way to run your GitHub Actions
 
 ***[UV](https://github.com/astral-sh/uv)***
 An extremely fast Python package and project manager, written in Rust.
