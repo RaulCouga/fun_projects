@@ -497,6 +497,9 @@ The editor for what's next Zed is a next-generation code editor designed for hig
 [Diagramming AI](https://diagrammingai.com/)
 Instantly Shape Your Ideas into Clear, Powerful Diagrams
 
+[Hailouai](https://hailuoai.video/)
+Generate text / image to video from cutting-edge AI powered video maker & editor, for impressive eCommerce, marketing, product or personal social media.
+
 [Pollo AI](https://pollo.ai/)
 Your One-Stop AI Image & Video Creation Platform.
 
@@ -765,7 +768,7 @@ An MCP server implementation that provides a tool for dynamic and reflective pro
 ***[TaskMaster MCP](https://www.task-master.dev/)***
 Upload any document, audio, or video and let TaskMaster organize, summarize, and transform them into useful insights.
 
-***[Tollbase](https://gettoolbase.ai/)***
+***[Toolbase](https://gettoolbase.ai/)***
 Local MCP manager
 
 
@@ -894,6 +897,9 @@ An extremely fast Python linter and code formatter, written in Rust.
 
 [PyRight](https://microsoft.github.io/pyright/#/)
 Pyright is a full-featured, standards-compliant static type checker for Python. It is designed for high performance and can be used with large Python source bases.
+
+[Blacksmith](https://www.blacksmith.sh/)
+The fastest way to run your GitHub Actions
 
 ***[UV](https://github.com/astral-sh/uv)***
 An extremely fast Python package and project manager, written in Rust.
