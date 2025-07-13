@@ -180,6 +180,54 @@ A fast and lightweight pure Python library for splitting text into semantically 
 
 
 
+## Claude Code
+[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
+
+[Claude Code WebUI](https://github.com/sugyan/claude-code-webui)
+Web-based interface for Claude CLI with streaming chat responses
+
+[Claude Flow](https://github.com/ruvnet/claude-flow)
+Claude-Flow v2 Alpha is an enterprise-grade AI orchestration platform that revolutionizes how developers build with AI. By combining hive-mind swarm intelligence, neural pattern recognition, and 87 advanced MCP tools, Claude-Flow enables unprecedented AI-powered development workflows.
+
+[Claudia Code](https://claudiacode.com/)
+Claudia: Your elegant desktop companion for Claude Code. Transform your AI coding workflow with Claudia's beautiful GUI. Claudia makes managing Claude sessions, creating custom agents, and tracking usage effortless.
+
+[Claude Code Router](https://github.com/musistudio/claude-code-router)
+This is a tool for routing Claude Code requests to different models, and you can customize any request.
+
+[SuperClaude](https://superclaude.org/)
+Advanced Development Framework for Claude Code with 19 Specialized Commands & 9 Cognitive Personas
+
+
+
+
+## CLI Code
+[Aider](https://aider.chat/)
+Aider lets you pair program with LLMs to start a new project or build on your existing codebase.
+
+[Atlassian Cli](https://developer.atlassian.com/cloud/acli/guides/install-macos/)
+Designed to be compatible with multiple platforms such as MacOS, Windows, and Linux, making it versatile and accessible to a wide range of users. Ease of use, command structure definition, automatic help generation, support for subcommands, flag parsing, customization options, extensibility, and community support.
+
+[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
+
+[Gemini CLI](https://github.com/google-gemini/gemini-cli)
+An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+[OpenCode](https://opencode.ai/)
+The AI coding agent built for the terminal.
+
+[Trae CLI](https://github.com/bytedance/trae-agent)
+Trae Agent is an LLM-based agent for general purpose software engineering tasks. It provides a powerful CLI interface that can understand natural language instructions and execute complex software engineering workflows using various tools and LLM providers.
+
+[Warp Cli](https://www.warp.dev/)
+Warp is the fastest way to build with multiple AI agents—from writing code to shipping it. The best overall coding and terminal agent.
+
+
+
+
+
 ## Code Assistants
 [Aider](https://aider.chat/)
 Aider lets you pair program with LLMs, to edit code in your local git repository. Start a new project or work with an existing code base. Aider works best with Claude 
@@ -213,9 +261,6 @@ A revolutionary new AI Code Editor that helps you 10x your developer productivit
 
 [Cody - Sourcegraph](https://sourcegraph.com/cody)
 The enterprise AI code assistant
-
-[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
 
 [Databutton](https://databutton.com/)
 Your vision. Your software. Built by AI.
