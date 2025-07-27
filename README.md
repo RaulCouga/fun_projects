@@ -184,6 +184,12 @@ A fast and lightweight pure Python library for splitting text into semantically 
 [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
 
+[Conductor](https://conductor.build/)
+Run a bunch of Claude Codes in parallel. Each Claude gets an isolated workspace. See who’s working, see who’s stuck, and what’s changed.
+
+[Context Engineering](https://github.com/coleam00/context-engineering-intro)
+A comprehensive template for getting started with Context Engineering - the discipline of engineering context for AI coding assistants so they have the information necessary to get the job done end to end.
+
 [Claude Code WebUI](https://github.com/sugyan/claude-code-webui)
 Web-based interface for Claude CLI with streaming chat responses
 
