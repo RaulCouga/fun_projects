@@ -202,6 +202,9 @@ Claudia: Your elegant desktop companion for Claude Code. Transform your AI codin
 [Claude Code Router](https://github.com/musistudio/claude-code-router)
 This is a tool for routing Claude Code requests to different models, and you can customize any request.
 
+[Serena](https://github.com/oraios/serena)
+A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+
 [SuperClaude](https://superclaude.org/)
 Advanced Development Framework for Claude Code with 19 Specialized Commands & 9 Cognitive Personas
 
