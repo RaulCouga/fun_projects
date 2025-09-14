@@ -67,6 +67,9 @@ Empower Agents with Deep Knowledge About Their Users.  Give Users the Experience
 [Clara](https://claraverse.netlify.app/)
 Clara brings together the best open-source AI tools in one beautiful interface. Chat with Ollama models, generate images with ComfyUI, and build custom AI agents - all with complete privacy and control.
 
+**[DeepCode](https://github.com/HKUDS/DeepCode)**
+Advancing Code Generation with Multi-Agent Systems
+
 [DeepWisdom](https://www.deepwisdom.ai/)
 Providing the First Al Software Company
 
