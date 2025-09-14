@@ -737,7 +737,7 @@ Train, fine-tune-and run inference on AI models blazing fast, at low cost, and a
 AI powered content conversition automation
 
 [GitBook](https://www.gitbook.com/)
-Build docs as a product, not an afterthoughtDocumentation is a critical part of your product . experience. GitBook helps you collaborate and build beautiful, centralized docs your users will love.
+Build docs as a product, not an afterthought. Documentation is a critical part of your product experience. GitBook helps you collaborate and build beautiful, centralized docs your users will love.
 
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 The Markdown elements outlined in the original design document.
@@ -945,6 +945,9 @@ Dart stands out from other AI tools for project management with its intuitive de
 
 [DeepFlow](https://deepflow.io/)
 Instant Observability for Cloud & AI Applications
+
+**[GitIngest](https://gitingest.com/)**
+Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
 
 [Git Actions Act](https://github.com/nektos/act)
 Run your GitHub Actions locally 
