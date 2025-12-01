@@ -654,6 +654,9 @@ A framework for serving and evaluating LLM routers - save LLM costs without comp
 [A-Mem](https://github.com/agiresearch/A-mem)
 A novel agentic memory system for LLM agents that can dynamically organize memories in an agentic way.
 
+[Julep](https://julep.ai/)
+A serverless system to build reliable agents, workflows with session history, knowledge search, reasoning.
+
 [LMCache](https://github.com/LMCache/LMCache)
 LMCache is a LLM serving engine extension to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations including (GPU, CPU DRAM, Local Disk), LMCache reuse the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces response delay for users.
 
