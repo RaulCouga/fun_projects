@@ -1084,6 +1084,9 @@ Superlinked is a Python Framework & Cloud Infrastructure for AI Engineers buildi
 [Turbobuffer](https://turbopuffer.com/)
 serverless vector and full-text search built from first principles on object storage: fast, 10x cheaper, and extremely scalable
 
+[Typesense](https://typesense.org/)
+Cutting-edge, in-memory search engine for mere mortals. Knowledge of rocket science optional.
+
 
 
 ## Tools
