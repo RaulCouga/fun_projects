@@ -1081,6 +1081,9 @@ MindsDB enables humans, AI, agents, and applications to get highly accurate answ
 [Superlinked](https://www.superlinked.com/)
 Superlinked is a Python Framework & Cloud Infrastructure for AI Engineers building high-performance search & recommendation applications that combine structured and unstructured data.
 
+[Turbobuffer](https://turbopuffer.com/)
+serverless vector and full-text search built from first principles on object storage: fast, 10x cheaper, and extremely scalable
+
 
 
 ## Tools
